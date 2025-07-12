@@ -1,0 +1,780 @@
+Contenido
+01 MÓDULO DE REASIGNACIÓN ........................................................................................................... 5
+1.1 DEFINICIÓN.................................................................................................................................. 5
+1.2 ENCARGADO/A DE REALIZAR LA REASIGNACIÓN DE CARGA DE TRABAJO............................. 5
+1.3 TIPOS DE REASIGNACIÓN............................................................................................................ 5
+1.3.1 REASIGNACIÓN A NIVEL DE CENSISTA (Asignar ATU completo)................................... 5
+1.3.2 REASIGNACIÓN A NIVEL DE VIVIENDA (Asignar parte del ATU)..................................... 6
+1.4 INSTRUCCIONES GENERALES PARA EL DILIGENCIAMIENTO EN EL APLICATIVO.................... 6
+1.5 INSTRUCCIONES ESPECIFICAS PARA EL DILIGENCIAMIENTO EN EL APLICATIVO .................. 7
+1.5.1 INGRESO AL APLICATIVO................................................................................................ 7
+1.5.2 REASIGNACIÓN A NIVEL DE CENSISTA (Asignar ATU completo)................................... 8
+1.5.3 REASIGNACIÓN A NIVEL DE VIVIENDA (Asignar parte del ATU)................................... 12
+1.5.4 USO DEL BOTÓN DETALLE REASIG (Detalle de la reasignación).................................. 15
+1.5.5 TRANSFERENCIA DE CARGA DE TRABAJO................................................................... 16
+1.6 AUTORIZACIÓN DE LA NUEVA CARGA DE TRABAJO REASIGNADA......................................... 19
+1.7 CONFIRMACIÓN DE AUTORIZACION DE LA REASIGNACION: USUARIO JEFE DE SECCIÓN.. 23
+1.8 PROCEDIMIENTO PARA LA DESCARGA DE LA REASIGNACIÓN POR LOGUEO
+AUTOMÁTICO DEL/DE LA CENSISTA DE APOYO ...................................................................... 24
+1.9 VISUALIZACIÓN DE LA CARGA REASIGNADA DESDE LA VISTA DEL CENSISTA
+RESPONSABLE DEL ATU............................................................................................................ 26
+1.10 CASO ESPECIAL: VIVIENDAS PARTICULARES UBICADAS EN UNA MULTIFAMILIAR Y
+NO FIGURAN EN EL MARCO DE TRABAJO................................................................................. 27
+02 MÓDULO DE BAJAS ......................................................................................................................... 28
+Capítulo 02Módulos de Reasignación Capítulo 01
+5
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+01 MÓDULO DE REASIGNACIÓN
+1.1 DEFINICIÓN
+Es una estrategia operativa que consiste en reasignar parte o toda la carga de trabajo de un/a Censista a otro/a
+Censista de la misma Sección Censal o de otra Sección Censal, pero de la misma Sub Sede Departamental Censal.
+Se implementará:
+• Cuando el/la Censista y/o Jefe/a de Sección Censal ha identificado que el área de trabajo (ATU) es inseguro, por
+lo cual, en salvaguarda de la integridad del personal de campo se realizará la reasignación de carga de trabajo
+disponiendo que el censo se ejecute mediante la estrategia del “barrido”, es decir un ATU se dividirá en varios
+segmentos donde cada segmento será trabajado por un/a Censista, de tal forma que estén relativamente cerca
+entre sí. El número de censistas lo dispone el/la Jefe/a de Sección Censal previa evaluación.
+• Cuando el/la Censista detecte en su recorrido la presencia de viviendas multifamiliares nuevas, las mismas que
+al ser agregadas para censarlas superan considerablemente la carga de trabajo programada para un periodo.
+• Cuando los/las residentes de las viviendas multifamiliares, que forman parte de la carga de trabajo del/de la
+Censista, solicitan que el trabajo de recojo de información se realice en un periodo corto de tiempo, es decir, en
+un/os determinado/s día/s y en un intervalo de tiempo específico.
+• Cuando en el ATU asignado se presenten casos de conflictos sociales (problemas limítrofes, huelgas o
+protestas, entre otros), los cuales dificultan el acceso a las áreas asignadas.
+Es por ello, que cuando al/a la Censista se le presente alguna de estas situaciones deberá comunicarlo al/ a la Jefe/a
+de Sección Censal para que evalúe adecuadamente cada caso y determine el tipo de reasignación que debería
+aplicarse.
+1.2 ENCARGADO/A DE REALIZAR LA REASIGNACIÓN DE CARGA DE TRABAJO
+El/La Jefe/a de Sección Censal es el/la responsable de realizar la reasignación de carga de trabajo dentro del periodo
+programado durante la operación de campo y debe llevar el control de las reasignaciones que ha realizado.
+A su vez, el/la Supervisor/a de Sector Censal es el/la responsable de autorizar o denegar las reasignaciones
+requeridas por el/la Jefe/a de Sector Censal.
+En la reasignación de carga de trabajo interactúan cuatro (4) funcionarios/as censales:
+a. Jefe/a de Sección Censal: es la persona encargada de realizar la reasignación de carga de trabajo.
+b. Supervisor/a de Sector Censal: es la persona encargada de autorizar o denegar la reasignación de carga de
+trabajo.
+c. Censista responsable del ATU: es la persona que requiere del apoyo de otro/a/s Censista/s para coberturar su
+área de trabajo
+d. Censista de apoyo: es la persona a quien se le reasignará parte o toda la carga de trabajo de un/una Censista con
+el fin de coberturar las viviendas de la sección censal.
+1.3 TIPOS DE REASIGNACIÓN
+Existen dos (2) tipos de reasignación de carga de trabajo.
+1.3.1 REASIGNACIÓN A NIVEL DE CENSISTA (Asignar ATU completo)
+Consiste en reasignar de forma completa todas las viviendas que forman parte del Área de Trabajo Urbano
+(ATU) de un/a Censista a otro/a Censista de la misma Sección Censal o de otra Sección Censal Urbana.
+a. Consideraciones para reasignar carga completa:
+● Las viviendas a reasignar del ATU no deben haber sido trabajadas, es decir, no deben tener registrada
+ninguna visita y por ende no deben tener resultado final de entrevista y deben pertenecer al Marco de
+Trabajo actualizado del aplicativo.
+● La reasignación de la carga completa lo realizará el/la Jefe/a de Sección Censal de un/a Censista a
+otro/a Censista de la misma Sección Censal o de otra Sección Censal Urbana.
+● El/la Supervisor de Sector Censal debe autorizar o denegar las reasignaciones realizadas por el/la Jefe
+de Sección Censal de cada uno/a de los/las Censistas.
+● El/La Censista responsable del ATU debe realizar un breve recorrido en él para detectar si hay
+viviendas y/o viviendas establecimientos nuevas, de ser el caso, estas deben ser agregadas al Marco
+de Trabajo del aplicativo (sin asignarles ninguna visita), así también de encontrar en su recorrido que
+hay otros tipos de registro que ahora son viviendas y/o viviendas establecimientos debe editarlos para
+tener un marco actualizado el cual será enviado al servidor por el/la Censista, de tal forma que el/la
+Jefe/a de Sección pueda visualizarlo (viviendas del marco y viviendas nuevas) y las pueda reasignar.
+Capítulo 01 Módulos de Reasignación
+6
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+b. Casos en los que se aplicará:
+● Por motivos de seguridad: consiste en reasignar la carga de trabajo de un/a Censista a otro/a Censista
+porque las viviendas a ser censadas se ubican en zonas inseguras o con altos índices de peligrosidad.
+● Por motivos de conflictos sociales: consiste en reasignar la carga de trabajo de un/a Censista a otro/a
+Censista porque el ATU presenta internamente conflictos sociales (problemas limítrofes, huelgas o
+protestas de la población, bloqueo de carreteras que dificultan el acceso, entre otros).
+● Por presencia de viviendas multifamiliares: consiste en reasignar la carga de trabajo de un/a Censista
+a otro/a Censista porque la presencia de viviendas multifamiliares supera considerablemente la carga
+de trabajo del/de la Censista o porque los residentes de los condominios o edificios han solicitado
+que van a permitir el acceso a sus viviendas para ser censados en días y horarios específicos.
+1.3.2 REASIGNACIÓN A NIVEL DE VIVIENDA (Asignar parte del ATU)
+Consiste en reasignar a nivel de viviendas la carga de trabajo, es decir, un ATU se dividirá en varios segmentos
+donde cada segmento será trabajado por un/a Censista ya sea de la misma Sección Censal o de otra Sección
+Censal Urbana.
+a. Consideraciones para reasignar por vivienda:
+● Las viviendas a reasignar del ATU no deben haber sido trabajadas, es decir, no deben tener registrada
+ninguna visita y por ende no deben tener resultado final de entrevista y deben pertenecer al Marco de
+Trabajo actualizado del aplicativo.
+● La reasignación de la/s vivienda/s podrá ser realizada a uno/a o más Censistas, priorizando a los que
+pertenezcan a la misma sección censal urbana del/de la Censista que requiere apoyo.
+● Cuando la reasignación de la/s vivienda/s se realice a Censistas de otras secciones censales, el/la
+Jefe/a de Sección Censal responsable de la reasignación deberá coordinar con los/las demás Jefes/as
+de Sección Censal que tienen a cargo a los/las Censistas de apoyo que participarán del trabajo de
+reasignación.
+b. Casos en lo que se aplicará:
+● Por motivos de seguridad: consiste en reasignar la carga de trabajo de un/a Censista a otro/a Censista
+porque las viviendas a ser censadas se ubican en zonas inseguras o con altos índices de peligrosidad.
+● Por motivos de conflictos sociales: consiste en reasignar la carga de trabajo de un/a Censista a otro/a
+Censista porque el ATU presenta internamente conflictos sociales (problemas limítrofes, huelgas o
+protestas de la población, bloqueo de carreteras que dificultan el acceso, entre otros).
+● Por presencia de viviendas multifamiliares: consiste en reasignar la carga de trabajo de un/a Censista
+a otro/a Censista porque la presencia de viviendas multifamiliares supera considerablemente la carga
+de trabajo del/de la Censista o porque los residentes de los condominios o edificios han solicitado
+que van a permitir el acceso a sus viviendas para ser censados en días y horarios específicos.
+1.4 INSTRUCCIONES GENERALES PARA EL DILIGENCIAMIENTO EN EL APLICATIVO
+● El/la Jefe/a de Sección Censal distribuirá equitativamente la carga de trabajo.
+● Culminada la reasignación de la carga de trabajo, el/la Jefe/a de Sección Censal deberá exportarla al Servidor
+INEI de FORMA INMEDIATA.
+● Una vez exportados los datos de la reasignación, el/la Supervisor de Sector Censal deberá de revisar la
+reasignación para autorizarla o de ser el caso denegarla.
+● La acción realizada por el/la Supervisor de Sector Censal será notificada a través del mismo aplicativo
+SUPERVISONCENSOS2025 al/a la Jefe/a de Sección Censal.
+● La reasignación autorizada por el/la Supervisor de Sector Censal podrá ser visualizada por el/la Censista
+responsable del ATU y por el/la Censista de apoyo desde el aplicativo CENSOS2025, para lo cual ambos en sus
+respectivas tabletas deberán ingresar al aplicativo logueándose con su usuario y clave y desde el marco de
+trabajo vean sus respectivas cargas de trabajo y procedan con el recojo de información de las viviendas
+reasignadas.
+● Las reasignaciones denegadas por el/la Supervisor de Sector Censal deberán ser revisadas por el/la Jefe de
+Sección Censal quién procederá a eliminarlas para generar nuevas reasignaciones de carga.
+● El monitoreo y supervisión de las viviendas reasignadas es de carácter obligatorio por el/la Jefe/a de Sección
+Censal y a su vez contará con la autorización del/de la Supervisor de Sector Censal.
+Capítulo 02Módulos de Reasignación Capítulo 01
+7
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.5 INSTRUCCIONES ESPECIFICAS PARA EL DILIGENCIAMIENTO EN EL APLICATIVO
+1.5.1 INGRESO AL APLICATIVO
+a. Se ingresa al aplicativo SUPERVISIÓNCENSOS2025 (ya instalado en nuestra tableta), con el usuario y
+contraseña asignado (Ver 1), luego dar un toque en el botón Aceptar (Ver 2), de inmediato el aplicativo
+mostrará la ventana que está iniciando la aplicación y luego la ventana con el mensaje de bienvenida al
+Funcionario/a Censal, damos toque en Aceptar. (Ver 3).
+b. La tableta debe estar conectada a internet por medio del plan de datos para que pueda ingresar al
+aplicativo.
+c. Al ingresar al aplicativo se muestra la pantalla del marco de trabajo, desde esta vista se accede al menú
+principal (tres líneas horizontales en la esquina superior izquierda), dando un toque en ese ícono
+visualizamos todos los módulos que forman parte de este aplicativo. (Ver 4).
+1
+2
+3
+Menú principal
+4
+Capítulo 01 Módulos de Reasignación
+8
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.5.2 REASIGNACIÓN A NIVEL DE CENSISTA (Asignar ATU completo)
+a. Desde la pantalla principal del aplicativo (ventana Marco de Trabajo) dé un toque en el menú principal y
+seleccione módulo Reasignación (Ver 1) e inmediatamente el aplicativo mostrará la pantalla
+Reasignación de Censos Nacionales 2025 (Ver 2).
+b. En esta pantalla se visualizará los siguientes recuadros:
+• Jefe/a de Sección: este campo se encuentra predeterminado, se mostrará el número del/de la Jefe/a
+de Sección Censal a cuatro (4) dígitos. Este recuadro NO ES MODIFICABLE (Ver 3).
+• Censista: al tocar en el recuadro CENSISTA, se desplegará la lista de Censistas que conforman la
+Sección censal, seguidamente deberá seleccionar al/a la Censista que requiere ser apoyado (Ver 4).
+• Periodo: al tocar en el recuadro PERIODO, se desplegará la lista de periodos asignados al trabajo de
+campo del 1 al N. Seguidamente, seleccione el periodo que le corresponde trabajar según la
+programación de rutas (Ver 5).
+• Tipo de Reasignación: al tocar en el recuadro Tipo de Reasignación, se desplegará 2 opciones de Tipo
+de Reasignación: Por Censista y Por Vivienda. Para reasignar la carga completa a un/a Censista de
+apoyo deberá seleccionar en la opción POR CENSISTA (Ver 6).
+• Área de Trabajo Nº: al seleccionar el recuadro Área de Trabajo N° se desplegará una lista con todos
+los ATU disponibles, dar un toque en el ATU N° (área de trabajo urbano) según corresponda (Ver 7).
+1
+2
+3
+4
+5
+Capítulo 02Módulos de Reasignación Capítulo 01
+9
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+c. Después de haber seleccionado el número del Área de Trabajo, el aplicativo en la parte inferior de la
+pantalla principal de la reasignación mostrará todos los ATUs asignados al/a la Censista (Ver 8), en donde
+se mostrará información en las siguientes columnas:
+• PRIMERA COLUMNA SELEC (Donde se visualiza un cuadrado). Se utilizará para activar y seleccionar
+la fila donde se muestra el número del/de la Censista de quien será reasignada su carga de trabajo a
+otro/a Censista de apoyo.
+• COLUMNA CENSISTA, muestra el código a 4 dígitos del/de la Censista de quien se reasignará su carga
+de trabajo a otro/a Censista de apoyo.
+• TOTAL REG., comprende todos los registros que tiene el ATU, que incluye a las viviendas particulares,
+viviendas y establecimientos y otros tipos de registros.
+• CANT. VIV., está referida al total de viviendas programadas (viviendas y viviendas y establecimientos)
+como carga de trabajo de un/a Censista, según el marco de trabajo.
+• ASIGNADO A CENSISTA, se
+visualizará el número del/de la
+Censista a quien se le ha reasignado
+la carga de trabajo.
+Asimismo, se mostrará el ícono
+Reasignar (+) y el botón Detalle Reasig:
+• Reasignar signo más (+), se utilizará
+para seleccionar al/a la Censista que
+se le reasignará la carga de trabajo y
+el motivo por el cual se le está
+reasignando (Ver 9).
+• Detalle Reasig., se utilizará para
+transferir la reasignación al Servidor
+del INEI, siempre que esté con el plan
+de datos activado (Ver 10).
+6
+7
+8
+9
+10
+Capítulo 01 Módulos de Reasignación
+10
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+d. Para realizar la reasignación de la carga de trabajo a nivel de Censista deberá activar la casilla en blanco
+del lado izquierdo dando un toque en ella mostrándose el check dentro del recuadro (Ver 11).
+e. Luego dé un toque en el Ícono Reasignar (signo más (+)) (Ver 12), inmediatamente aparecerá una ventana
+emergente donde seleccionará el número del/de la Jefe/a de Sección Censal que tiene a cargo al/a la
+Censista de apoyo (Ver 13), el número del/de la Censista a quién se le va a reasignar la carga de trabajo
+(Ver 14), y el motivo de la Reasignación (Ver 15), una vez seleccionados esos campos con información,
+para guardar realice un toque en el botón aceptar (Ver 16) y el aplicativo retornará a la pantalla principal.
+11
+12
+13
+14
+15
+16
+Capítulo 02Módulos de Reasignación Capítulo 01
+11
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+f. La pantalla principal mostrará el cuadro descrito líneas arriba, pero con información en la columna
+ASIGNADO A CENSISTA, esta información indicará el Número de Sede (para el ejemplo 150), Sub Sede
+(para el ejemplo 19) y Número de Censista (para el ejemplo 0041) (Ver 17).
+g. Después de haber realizado la reasignación de la carga de trabajo, si por algún motivo realizó un
+procedimiento que no corresponde, el/la Jefe/a de Sección Censal podrá Editar o Eliminar dicha
+reasignación, siempre y cuando aún no la haya transferido al servidor, tal como se describe a
+continuación:
+ En la fila donde se muestra la reasignación realizada, dé un toque para que se muestre la ventana
+emergente Opciones para que en ella seleccione Editar Reasig o Eliminar Reasig.
+ La opción Editar Reasig: Si ha reasignado por error a otro/a Censista, se puede editar, dando un toque
+prolongado en la fila que se generó como producto de la reasignación, al realizar dicha acción se
+mostrará una lista de opciones, seleccione Editar Reasig (editar reasignación) (Ver 18), luego, en la
+siguiente ventana emergente proceda a actualizar en los campos según corresponda (Jefe /a de
+Sección, Censista o Motivo), luego para guardar los cambios dar un toque en Aceptar (Ver 19).
+Ejemplo: El Jefe de Sección Censal 0010 reasignó la carga de trabajo al Censista 0041 que pertecece
+al Jefe de Sección 0011, cuando realmente debió reasignar la carga al Censista 0044 el
+motivo de la reasignación fue porque el AT asignado al Censista 0037 estaba en una zonas
+de conflicto temporal ( problemas limítrofes), entonces en el aplicativo realice un toque
+prolongado en la fila generada como producto de la reasignación, seguidamente en la
+ventana emergente seleccione la opción Editar Reasig. luego en la siguiente ventana
+actualice en número del Censista y el motivo; para guardar los cambios dar un toque en
+Aceptar y finalmente el aplicativo retornará a la pantalla anterior mostrando los cambios
+actualizados.
+17
+1188
+Capítulo 01 Módulos de Reasignación
+12
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+h. La opción Eliminar Reasignación: Si por algún motivo el/la Jefe/a de Sección Censal desea eliminar la
+reasignación realizada porque la generó por error, debe dar un toque prolongado en la fila generada de la
+reasignación, se mostrará la ventana emergente Opciones y seleccione Eliminar Reasig. (Ver 20), luego
+se mostrará un mensaje para confirmar dicha acción, seguidamente dar un toque en Aceptar (Ver 21),
+finalmente el aplicativo retornará a la pantalla principal donde la columna Asignado a Censista se
+mostrará SIN información.
+1.5.3 REASIGNACIÓN A NIVEL DE VIVIENDA (Asignar parte del ATU)
+En esta pantalla se visualizará los siguientes recuadros:
+• Jefe/a de Sección: este campo se encuentra predeterminado, se mostrará el número del/de la Jefe/a de
+Sección Censal a cuatro (4) dígitos. Este recuadro NO ES MODIFICABLE (Ver 1).
+• Censista: al tocar en el recuadro CENSISTA, se desplegará la lista de Censistas que conforman la Sección
+censal, seguidamente deberá seleccionar al/a la Censista que requiere ser apoyado (Ver 2).
+• Periodo: al tocar en el recuadro PERIODO, se desplegará la lista de periodos asignados al trabajo de
+campo del 1 al N. Seguidamente, seleccione el periodo que le corresponde trabajar según la
+programación de rutas (Ver 3).
+19
+21
+1
+20
+Capítulo 02Módulos de Reasignación Capítulo 01
+13
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+• Tipo de Reasignación: al tocar en el recuadro Tipo de Reasignación, se desplegará 2 opciones de Tipo de
+Reasignación: Por Censista y Por Vivienda. Para reasignar la carga parcial, es decir, algunas viviendas del
+ATU a un/a Censista de apoyo deberá seleccionar en la opción POR VIVIENDA (Ver 4).
+• Área de Trabajo Nº: al seleccionar el recuadro Área de Trabajo N° se desplegará una lista con todos los
+ATU disponibles, dar un toque en el ATU N° (área de trabajo urbano) según corresponda (Ver 5).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a. Después de haber seleccionado el número del
+Área de Trabajo, el aplicativo en la parte inferior de
+la pantalla principal de la reasignación, mostrará
+todos los ATU asignados al/a la Censista (Ver 6),
+en donde se mostrará información en las
+siguientes columnas:
+ PRIMERA COLUMNA SELEC (Donde se
+visualiza un cuadrado), se utilizará para activar
+y seleccionar la fila donde se muestra el
+número del/de la Censista de quien será
+reasignada su carga de trabajo a otro/a
+Censista de apoyo.
+ COLUMNA CENSISTA N°, muestra el código a
+4 dígitos del/de la Censista de quién se
+reasignará su carga de trabajo a otro/a
+Censista de apoyo.
+ COLUMNA N° DE VIV., comprende todas las
+viviendas que tiene el ATU según el marco de
+trabajo.
+ COLUMNA ASIGNADO A CENSISTA, se
+visualizará el número del/de la Censista a
+quien se le ha reasignado carga de trabajo.
+1
+2 3
+4
+5
+6
+7
+8
+Capítulo 01 Módulos de Reasignación
+14
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Asimismo, se mostrará el ícono Reasignar (+) y el botón Detalle Reasig:
+ Reasignar signo más (+), se utilizará para seleccionar a que Censista se le está asignando la carga de
+trabajo y el motivo por el cual se está reasignando (Ver 7).
+ Detalle Reasig., se utilizará para transferir la reasignación al Servidor del INEI, siempre que esté con
+el plan de datos activado (Ver 8).
+Para realizar la reasignación de la carga de trabajo a nivel de Vivienda deberá activar la casilla de las
+viviendas a reasignar dando un toque en el recuadro donde se mostrará el check dentro del recuadro del
+lado izquierdo (Ver 9), luego dé un toque en el Ícono Reasignar signo más (+) (Ver 10), seleccione en la
+ventana emergente el número del Jefe de Sección Censal, el número del/de la Censista y el Motivo de la
+Reasignación (Ver 11), una vez seleccionados esos campos con información deberá dar un toque en
+aceptar (Ver 12) y el aplicativo retornará a la pantalla principal.
+b. La pantalla principal mostrará el cuadro
+descrito líneas arriba, pero con información
+en la columna ASIGNADO A CENSISTA
+indicando el Número de Sede (para el
+ejemplo 150), Sub Sede (para el ejemplo 19)
+y número de/de la Censista (para el ejemplo
+0039).
+c. Después de haber realizado la reasignación de la carga de trabajo, si por algún motivo o error realizó un
+procedimiento que no corresponde, en el aplicativo podrá Editar o Eliminar dicha reasignación, siga las
+mismas instrucciones descrita en la viñeta g y h de la reasignación de carga por censista.
+9
+10
+11
+12
+Capítulo 02Módulos de Reasignación Capítulo 01
+15
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.5.4 USO DEL BOTÓN DETALLE REASIG (Detalle de la reasignación)
+Al ingresar a esta opción se podrá visualizar todas las reasignaciones generadas pendientes de enviar al
+servidor.
+Se debe dar un toque en Detalle Reasig. (Ver 1), en la siguiente ventana emergente seleccione el número
+del/de la Jefe/a de Sección Censal y seleccione el número del/de la Censista (Ver 2) a quién se le ha
+reasignado carga. Luego en el cuadro se mostrará las filas correspondientes a la reasignación generada
+(Ver 3), Toda esta información se visualizará cuando esté seleccionada la opción Pendiente por Transferir
+(Ver 4).
+Vista de reasignación por vivienda Vista de reasignación por Censista
+Mostrará la siguiente información
+• N°: se mostrará en orden consecutivo del 1 al N.
+• AT: mostrará el número del ATU a 4 dígitos.
+• Periodo: mostrará el número del periodo.
+• N° Vivi.: mostrará el número de la vivienda que fue
+reasignada
+Mostrará la siguiente información:
+• N°: se mostrará en orden consecutivo del 1 al N.
+• AT: mostrará el número del ATU a 4 dígitos.
+• Periodo: mostrará el número del periodo.
+• Total Reg: mostrará el número total de
+registros en el ATU.
+• Cant Viv.: mostrará la cantidad de viviendas que
+han sido reasignadas en el ATU
+3
+2
+4
+2
+4
+3
+1
+Capítulo 01 Módulos de Reasignación
+16
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.5.5 TRANSFERENCIA DE CARGA DE TRABAJO
+A. Cuando la carga fue reasignada por Censista
+Para transferir información debemos ingresar a la opción Detalle Reasig y en la ventana emergente que
+se muestra, seleccione el/la jefe/a de sección y censista a quién le han reasignado la carga de trabajo
+(Ver1), se va mostrar el N° de ATU, periodo, total de registros y cantidad de viviendas reasignadas al/a la
+Censista.
+Para transferir los datos al Servidor INEI, dar un toque en el botón Transferir (Ver 2). Inmediatamente
+aparecerá una ventana emergente mostrando el avance de la exportación de la carga reasignada,
+finalmente se mostrará una ventana con un mensaje de confirmación de Archivo Enviado Correctamente,
+donde deberá seleccionar el botón Aceptar (Ver 3).
+Después de esto, la fila generada como resultado de la reasignación dejará de mostrarse, asi la casilla
+Pendiente por transferir está seleccionada (Ver 4). Sin embargo, se mostrará si seleccionas la casilla
+Resumen de lo transferido (Ver 5).
+3
+1
+2
+4
+5
+Capítulo 02Módulos de Reasignación Capítulo 01
+17
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Una vez culminada la reasignación de carga de trabajo, el/la Jefe de Sección Censal podrá verificar en el
+módulo Marco de Trabajo del aplicativo SUPERVISIONCENSOS2025 las viviendas reasignadas, para lo
+cual debe dar un toque en el menú principal y ubicar el módulo Marco de Trabajo (Ver 6), desde la pantalla
+principal del Marco de Trabajo seleccionará el número del/de la Censista, número de periodo y el área de
+trabajo que ha sido reasignado (Ver 7). Seguidamente se mostrarán las viviendas que fueron reasignadas
+en color rosado (Ver 8).
+B. Cuando la carga fue reasignada por Vivienda
+Para transferir información debemos ingresar a la opción Detalle Reasig y seleccionar el/la Jefe/a de
+Sección y Censista a quién le han reasignado la carga de trabajo (Ver1), se va mostrar el N° de ATU,
+periodo, total de registros y la relación de las viviendas reasignadas al/a la Censista. Para transferir los
+datos al Servidor INEI, dar un toque en el botón Transferir (Ver 2).
+Inmediatamente aparecerá una ventana emergente mostrando el avance de la exportación de la carga
+reasignada, finalmente se mostrará una ventana con un mensaje de confirmación de Archivo Enviado
+Correctamente, donde deberá seleccionar el botón Aceptar (Ver 3).
+1
+2
+6
+7
+8
+Capítulo 01 Módulos de Reasignación
+18
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Después de esto, la fila generada como resultado de la reasignación dejará de mostrarse, si la casilla
+Pendiente por transferir, así esté seleccionada (Ver 4). Sin embargo, se mostrará si seleccionas la casilla
+Resumen de lo transferido (Ver 5).
+Una vez culminada la reasignación de carga de trabajo, el/la Jefe de Sección Censal podrá verificar en el
+módulo Marco de Trabajo del aplicativo SUPERVISIONCENSOS2025 las viviendas reasignadas, para lo
+cual debe dar un toque en el menú principal y ubicar el módulo Marco de Trabajo (Ver 6), desde la pantalla
+principal del Marco de Trabajo seleccionará el número del/de la Censista, número de periodo y el área de
+trabajo que ha sido reasignado (Ver 7). Seguidamente se mostrarán las viviendas que fueron reasignadas
+en color rosado (Ver 8).
+3
+4
+5
+7
+7
+8
+Capítulo 02Módulos de Reasignación Capítulo 01
+19
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.6 AUTORIZACIÓN DE LA NUEVA CARGA DE TRABAJO REASIGNADA
+El/La Supervisor/a de Sector Censal tiene la responsabilidad de autorizar o denegar la descarga de la nueva carga
+de trabajo reasignada por el/la Jefe de Sección a los/las Censistas dentro de su ámbito de supervisión.
+Esta tarea garantiza una distribución eficiente del trabajo que optimiza la cobertura censal mientras salvaguarda la
+seguridad del personal.
+El/la Jefe/a de Sección Censal en su Tablet realizará la reasignación de carga ya sea por censista o por viviendas,
+puede realizar una reasignación parcial de la carga de trabajo en el periodo programado, transfiriendo parte de las
+viviendas no trabajadas asignadas a un/a censista hacia uno/a o más censistas, la cual será transferirá a la nube
+para su aprobación del/de la Supervisor de Sector Censal.
+El/la Supervisor/a de Sector Censal deberá loguearse en el aplicativo de supervisión con su usuario y contraseña
+(Ver 1), para ingresar en él, debe dar un toque en aceptar (Ver 2 ).
+En esta pantalla se mostrará los siguientes recuadros:
+• Supervisor Censal: este campo se encuentra predeterminado, se mostrará el número del/de la Supervisor/a de
+Sector Censal a cuatro (4) dígitos. Este recuadro NO ES MODIFICABLE (Ver 3).
+• Jefe/a de Sección: al tocar en el recuadro Jefe de Sección, se desplegará la lista de Jefes/as de Sección que
+conforman la Sección censal, seguidamente deberá seleccionar al/a la Jefe/a de Sección que realizó la
+reasignación y está a la espera de que la autoricen o denieguen (Ver 4).
+• Sincronizar: permite actualizar todas las reasignaciones realizadas por los/las Jefes de Sector Censal que están
+bajo su conducción como Supervisor/a de Sector Censal (Ver 5).
+• Última sincronización: mostrará la fecha y hora en que el/la Supervisor/a de Sector Censal se realizó la última
+sincronización o actualización de datos (Ver 6).
+1
+2
+4 3
+5
+6
+Capítulo 01 Módulos de Reasignación
+20
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+El/la Supervisor/a de Sector Censal seleccionará en el recuadro Jefe de Sección, al/a la Jefe/a de Sección de su
+equipo que realizó la reasignación (Ver 7) y en la parte inferior se listarán todas las reasignaciones que ese/a Jefe/a
+de Sección ha realizado (columna donde figura el cuadrado para seleccionar de color plomo) (Ver 8) y las que están
+pendientes de autorizar o denegar (columna donde figura el cuadrado sin marca y de color negro) (Ver 9)
+El/la Supervisor de Sector Censal revisará de la reasignación de carga en su Tablet, para lo cual conversará con el/la
+Jefe/a de Sección y procederá a aprobarla o denegarla de ser el caso, para los.
+Mientras que el/la Supervisor/a de Sector Censal no autorice la reasignación a los/las Censistas, ellos/as no podrán
+visualizarla en sus tabletas ni realizar el trabajo en campo.
+El cuadro mostrará:
+• Columna N: lista del 1 a la N las reasignaciones realizadas por el/la Jefe/a de Sección Censal, tanto las que se
+han realizado así como las que están pendientes de autorización por el/la Supervisor de Censal.
+• Columna A.T.: muestra los números de ATU donde se ha realizado la reasignación de carga.
+• Columna Censista Carga Origen: lista el número de censista dueño/a de la carga de trabajo según marco inicial,
+quién solicitó apoyo y de quién han reasignado la carga.
+• Columna Periodo: muestra el número de periodo de trabajo al cual pertenece la carga reasignada.
+• Columna Nro. Viv: lista el número de vivienda que ha sido reasignada, cuando la reasignación fue a nivel de
+vivienda, y se muestra en blanco, cuando la reasignación fue a nivel de censista o ATU completo.
+• Total de Viv. : muestra el total de viviendas que han sido reasignadas cuando la reasignación fue por Censista o
+ATU completo y en blanco cuando la reasignación fue por vivienda.
+• Columna Censista Asignado: lista el número de censista de apoyo, es decir, quien tiene a su cargo la nueva carga
+de trabajo reasignada.
+• Columna check: Muestra recuadro en blanco para
+activar con un check la autorización o no de la
+reasignación.
+Tenga en cuenta:
+• Las reasignaciones autorizadas tienen un barrita de
+color verde al lado izquierdo.
+• Las reasignaciones denegadas tienen un barrita de
+color rojo al lado izquierdo.
+• Las reasignaciones que aún están pendientes de
+autorización no tienen ninguna barrita al lado izquierdo.
+7
+9
+8
+Capítulo 02Módulos de Reasignación Capítulo 01
+21
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+El/la Supervisor/a de Sector Censal, procederá a dar un toque a cada una de las reasignaciones para autorizarla o
+de ser el caso, denegarlas.
+De ser el caso que autoriza las reasignaciones planteadas, debe activar con un check las casillas en blanco del
+lateral derecho (Ver 10), luego dará un toque en Autorizar (Ver 11); recuerde que puede seleccionarlas una por una
+para autorizar o por bloque.
+Se muestra una ventana emergente con el mensaje de confirmación para autorizar la reasignación, damos toque en
+aceptar (Ver 12).
+Finalmente se muestras la ventana Actualizando información, en la cual se muestra el mensaje envío realizado
+correctamente, el cual se refiere al mensaje de autorización remitido al/a la Jefe/a de Sección, quien lo va poder ver
+en el aplicativo SUPERVISIONCENSOS2025 de su tableta, dé un toque en aceptar (Ver 13)., mensaje que también
+previamente lo visualiza el Supervisor de Sector Censal (Ver 14).
+12
+13
+10
+11
+10
+11
+14
+Capítulo 01 Módulos de Reasignación
+22
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+De ser el caso que deniega las reasignaciones planteadas, después de activar con un check las casillas, dará un
+toque en Denegar, recuerde que puede seleccionarlas una por una para autorizar o por bloque. (Ver 15).
+Se muestra una ventana emergente con el mensaje de confirmación para denegar la reasignación, damos toque en
+aceptar (Ver 16).
+Finalmente se muestras la ventana Actualizando información, en la cual se muestra el mensaje envío realizado
+correctamente, el cual se refiere al mensaje de autorización remitido al/a la Jefe/a de Sección, quien lo va poder ver
+en el aplicativo SUPERVISIONCENSOS2025 de su tableta, dé un toque en aceptar (Ver 137, mensaje que también
+previamente lo visualiza el Supervisor de Sector Censal (Ver 18).
+El/la Supervisor de Sector Censal deberá sincronizar permanentemente para refrescar y/o actualizar en el aplicativo
+de supervisión las últimas reasignaciones que los/las Jefes/as de Sección Censal de su equipo hayan realizado; para
+lo cual debe dar un toque en el ícono de Sincronizar (la nube con la flecha para abajo) (Ver 19), se mostrará la ventana
+emergente que indica que se está sincronizando reasignaciones (Ver 20) y al culminar se mostrará el mensaje
+Proceso Terminado (Ver 21) y al costado del ícono sincronizar se mostrará la fecha de la última sincronización (Ver
+22), la cual se actualizará cada vez que se realice la acción descrita.
+15
+
+16
+17
+18
+19
+20
+21
+22
+Capítulo 02Módulos de Reasignación Capítulo 01
+23
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.7 CONFIRMACIÓN DE AUTORIZACION DE LA REASIGNACION: USUARIO JEFE DE SECCIÓN
+Una vez que el/la Supervisor/a de Sector Censal autorizó o denegó las reasignaciones realizadas por el/la Jefe/a de
+Sección Censal, él (Jefe/a de Sección Censal), al ingresar al aplicativo SUPERVISIONCENSOS2025 visualizará el
+mensaje del estado de la autorización de la reasignación, a la cual debe dar un toque en aceptar (Ver 1).
+Desde la pantalla Reasignación de Censos Nacionales 2025, seleccionará los campos Censista, Periodo, Tipo de
+Reasignación y Área de Trabajo (Ver 2) para que en la parte inferior se listen las reasignaciones autorizadas (de color
+verde) y las denegadas (de color amarillo) (Ver 3)
+Sobre las reasignaciones autorizadas y pintadas de color verde ya no se podrá realizar ningún tipo de acción, sin
+embargo, en las reasignaciones denegadas y pintadas de color amarillo, el/la Jefe/a de Sección Censal podrá
+únicamente eliminarlas para generar nuevas, para lo cual debe dar un toque en la fila de la reasignación denegada y
+se mostrará la ventana emergente Opciones, en la cual debe seleccionar Eliminar Reasig (Ver 4); se mostrará un
+mensaje para confirmar la acción de eliminar la reasignación, toque en aceptar (Ver 5); inmediatamente en la
+pantalla principal de la reasignación, la fila de la reasignación eliminada se mostrará sin el check en el recuadro del
+lado izquierdo (Ver 6).
+1
+2
+3
+4
+5
+6
+Capítulo 01 Módulos de Reasignación
+24
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.8 PROCEDIMIENTO PARA LA DESCARGA DE LA REASIGNACIÓN POR LOGUEO AUTOMÁTICO DEL/DE LA
+CENSISTA DE APOYO
+El/La Jefe/a de Sección Censal inmediatamente después de haber realizado la reasignación y verificar que fue
+autorizada por el/la Supervisor/a Censal deberá de informar al/a la Censista de Apoyo que realice los siguientes
+procedimientos:
+a. El/La Censista de apoyo deberá de volver a ingresar al aplicativo CENSOS2025 colocando su USUARIO y
+CONTRASEÑA (Ver 1) correspondiente; y dar un toque el botón ACEPTAR (Ver 2).
+b. Se mostrará una ventana emergente con el mensaje Buscando reasignación en el servidor. Por favor espere … y
+luego mostrará una ventana emergente (que solo aparecerá sola una vez, cuando reingresa a su APK como
+Censista con la carga reasignada) en la cual indica cual la carga reasignada para ser trabajada:
+• Columna N: listará del 1 a la N la cantidad de carga reasignada al/a la Censista. (sea por censista o por
+viviendas).
+• Columna AT: Mostrará el o los números de ATU reasignados como carga de trabajo.
+• Periodo: Mostrará el periodo al cual pertenece la carga de trabajo reasignada.
+• Nro. Viv. Listará el número de viviendas reasignadas, cuando la reasignación fue por vivienda; cuando es por
+censista quedará en blanco (Ver 3).
+1
+2
+3
+Capítulo 02Módulos de Reasignación Capítulo 01
+25
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Tenga en cuenta que :
+El ATU reasignado se visualizará de color azul (si corresponde a una reasignación por viviendas – carga parcial).
+El ATU reasignado se mostrará de color fucsia (si corresponde a reasignación por Censista – carga completa).
+El ATU carga original de trabajo del/de la Censista de apoyo se mostrará de color negro (carga según su marco
+de trabajo).
+c. Desde la ventana Marco de Trabajo se muestra el número del censista por defecto y se seleccionará el número
+de periodo y el área de trabajo donde de inmediato se visualizará la lista de ATUs. (Ver 4)
+El aplicativo mostrará el detalle de la carga de trabajo de apoyo o carga reasignada, mostrándose las viviendas
+particulares, viviendas y establecimientos, otros registros (pared corrida, ladera de cerro, entre otros) y los otros
+tipos de registros (puertas falsas, establecimientos, puertas garaje, entre otros).
+Si el/la Censista de apoyo en ese marco de trabajo reasignado encuentra viviendas omitidas PROCEDERÁ A
+AGREGAR ESAS NUEVAS VIVIENDAS, ya sea que se encuentren entre dos viviendas existentes, entre una
+vivienda y otro tipo de registro, entre dos otros tipos de registros o antes de la primera vivienda. (revisar Manual
+del Censista capítulo 8. Ingreso Al Marco De Trabajo Para El Diligenciamiento De La Cédula Censal, Ítem 8.2
+Ingreso Para El Diligenciamiento De La Cédula Censal y 8.4 Agregar Una Vivienda Particular Entre Otros Tipos De
+Registro)
+Si el/la Censista de apoyo en ese marco de trabajo reasignado encuentra otros tipos de registro que actualmente
+son viviendas PROCEDERÁ A EDITAR EL TIPO DE REGISTRO (revisar Manual del Censista capítulo 8. Ingreso Al
+Marco de Trabajo para el diligenciamiento de la Cédula Censal, Ítem 8.3 Modificación del Uso de Local
+Tener presente que para realizar cualquier tipo de reasignación debe de informar
+inmediatamente a su Supervisor de Sector Censal el cual le dará el visto bueno
+para seguir con los procedimientos.
+Jefe/a de Sección Censal
+Capítulo 01 Módulos de Reasignación
+26
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.9 VISUALIZACIÓN DE LA CARGA REASIGNADA DESDE LA VISTA DEL CENSISTA RESPONSABLE DEL ATU
+El/La Censista responsable del ATU podrá ingresar al aplicativo CENSOS025 para avanzar con su carga de trabajo
+asignada (la cual se mostrará de color celeste), sin embargo, aquella carga que le pertenecía, pero fue reasignada la
+podrá ver, pero no ejercer ningún tipo de acción sobre ella (se mostrará pintado de rosado).
+a. El/La Censista responsable del ATU ingresará al aplicativo CENSOS2025 colocando su USUARIO y
+CONTRASEÑA (Ver 1) correspondiente; y dar un toque el botón ACEPTAR (Ver 2).
+b. En caso que la tableta no cuente con señal de internet por encontrarse en una zona sin cobertura de internet
+deberá de seguir los siguientes procedimientos:
+i. El/La Censista deberá de volver a ingresar al aplicativo CENSOS2025 colocando su USUARIO y
+CONTRASEÑA correspondiente; y dando un toque el botón Aceptar.
+ii. Seguidamente se mostrará una ventana emergente con el mensaje No se detecta conexión a internet. No es
+posible importar la reasignación en este momento, el cual debe de dar un toque en el botón Aceptar.
+iii. Cuando ya cuente con acceso a internet el/la Censista al ingresar al aplicativo CENSOS2025 podrá visualizar
+en la parte superior derecha una notificación donde al darle un toque se mostrará una ventana emergente el
+cual indicara los siguiente: Tienes una reasignación pendiente para descargar. ¿Deseas importar ahora?
+Seguidamente debe darle un toque en el botón Aceptar.
+iv. Después de unos segundos aparecerá una barra donde indicará el avance de la información que se está
+importando a la tableta. Cuando la barra se haya completado en su totalidad se mostrará una ventana
+emergente en cual indicará que la Reasignación ha sido importada con éxito, el cual se debe dar un toque en
+el botón Cerrar.
+v. Finalmente se muestra el Marco de Trabajo asignado con las viviendas que fueron reasignadas.
+1
+2
+Capítulo 02Módulos de Reasignación Capítulo 01
+27
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.10 CASO ESPECIAL: VIVIENDAS PARTICULARES UBICADAS EN UNA MULTIFAMILIAR Y NO FIGURAN EN
+EL MARCO DE TRABAJO
+Ejemplo: Un censista con una carga inicial de 120 viviendas, al tercer día de trabajo, descubre una vivienda
+multifamiliar con 20 viviendas en los pisos 3, 4, 5, 6 y 7 que no están incluidas en su marco de trabajo
+inicial.
+Debido a la cantidad adicional de viviendas, puede darse el caso que el Censista no pueda censar todas
+ellas; por lo tanto, solicitará apoyo a su Jefe de Sección Censal, quien verificará en campo la existencia
+de las viviendas nuevas y evaluará si es conveniente reasignarlas.
+En caso de que se decida realizar la reasignación de carga, esta se llevará a cabo a nivel de viviendas y se
+asignará a otros censistas disponibles que no tengan carga de trabajo.
+Es importante tener en cuenta que el/la Censista debe agregar todas las viviendas que no figuren en su marco de
+trabajo. En aquellas viviendas que serán reasignadas, no debe generar ninguna visita, ya que el/la Jefe/a de Sección
+Censal solo visualizará en su marco de trabajo las viviendas que no han sido trabajadas y, por ende, no tienen
+ninguna visita registrada.
+Si la aparición de viviendas nuevas es una cantidad considerable y amerita
+reprogramación para otro período, el/la Censista deberá reportarlo a su jefe/a
+inmediato superior para que realice las coordinaciones necesarias y se reprograme
+en otro período.
+Jefe/a de Sección Censal
+Capítulo 02 Módulo de Bajas
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+28
+02 MÓDULO DE BAJAS
+El módulo de bajas permite reportar cuando un/a funcionario operativo no continuará en el Proyecto de los Censos
+Nacionales 2025, estas situaciones deben ser comunicadas con la debida anticipación al/ a la Jefe/a inmediato superior.
+En caso de que se trate de un/a Censista ya no continúe trabajando, el/la Jefe de Sección debe informarlo a su jefe
+inmediato, luego solicitar al/a la Censista que explique el motivo de su retiro del Proyecto y finalmente darle de baja en el
+aplicativo. Para ello, tenga presente los siguientes pasos:
+a. Ingrese al aplicativo de SUPERVISIÓN CENSOS2025, luego en el menú principal seleccione el Módulo Baja (Ver 1). La
+siguiente pantalla mostrará la lista de Censistas que conforman el equipo, donde deberá dar un toque prolongado en
+la fila del nombre de la persona que ya no continuará en el Proyecto (Ver 2), de inmediato se mostrará una ventana
+emergente donde deberá seleccionar Dar de Baja (Ver 3) y de inmediato se mostrará la ventana emergente con los
+datos del/de la Censista, donde deberá verificar sus datos como nombres y apellidos, número de celular, número del
+DNI (Ver 4).
+b. En el recuadro de Motivo de la Baja dar un toque para desplegará una lista de opciones posibles por el cual el/la
+Censista renunció, donde deberá seleccionar una sola opción, en el recuadro Último Día De Labores, registre el día,
+mes y año del último día de labores del/ de la Censista (Ver 5).
+Entre los motivos de renuncia se tienen:
+ Renuncia voluntaria
+ Problemas de salud
+ Término de contrato
+ Otro
+1
+2
+3
+5
+4
+Capítulo Módulo de Bajas Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+29
+c. Luego deberá tomar foto a la carta en la que justifica su desistimiento en el Proyecto. Para ello realice un toque en el
+ícono de cámara (Ver 6), luego en la siguiente pantalla captura la imagen al documento dando un toque en el botón
+circulo blanco (Ver 7) y el aplicativo retornará a la pantalla anterior donde se mostrará al costado del ícono de cámara
+la imagen del documento (Ver 8) lo cual es un indicativo que hay una toma guardada.
+d. En los recuadros fecha doc y hora doc, deberá dar un toque para registrar la fecha y la hora en el que el/la Censista ha
+presentado su carta de justificación. (Ver 9), de inmediato se mostrará un calendario donde debe seleccionar el día y
+mes, una vez que haya seleccionado la fecha dar un toque en Aceptar para grabar los datos (Ver 10) y el aplicativo
+retornará a la pantalla anterior donde se mostrará al costado del recuadro FECHA DOC los datos de día, mes y año
+guardados.
+De igual manera deberá registrar la hora en el que el/la Censista ha presentado su carta de justificación. Para ello, dar
+un toque en el recuadro HORA DOC (Ver 11) y de inmediato se mostrará una ventana emergente donde debe
+seleccionar la hora y minuto, luego dar un toque en la opción Aceptar para grabar los datos (Ver 12) y el aplicativo
+retornará a la pantalla anterior donde se mostrará los datos de fecha y hora guardados. Finalmente, para guardar los
+datos registrados dar un toque en el botón Aceptar (Ver 13)
+
+
+
+
+
+
+
+6 7
+
+8
+10
+Capítulo 02 Módulo de Bajas
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+30
+e. Para actualizar algún dato del/de la Censista, podrá editarlo dando un toque en la fila del nombre, luego en la siguiente
+ventana emergente Opciones, seleccione la opción Editar (Ver 14), que mostrará la ventana emergente Módulo de
+Bajas y proceda a actualizar en los campos según corresponda; para guardar los cambios dar un toque en Aceptar
+(Ver 15) y el aplicativo retornará a la pantalla principal donde se visualizará los datos actualizados.
+14
+11
+13
+12
+Capítulo Módulo de Bajas Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+31
+f. Una que ingresados los datos del/de la Censista que manifestó no continuar en el Proyecto, deberá enviarlo al Servidor
+INEI. Para ello, en la fila del nombre del/de la Censista active la casilla correspondiente con un check (Ver 16),
+seguidamente dar un toque en el botón Enviar (Ver 17) y se mostrará una ventana emergente con un mensaje de
+confirmación en la que deberá dar un toque en Aceptar (Ver 18).
+15
+16
+17
+18
+Capítulo 02 Módulo de Bajas
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+32 

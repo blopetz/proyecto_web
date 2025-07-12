@@ -1,0 +1,2195 @@
+
+Presentación
+Mediante Decreto Supremo N° 063-2024-PCM, del 22 de junio de 2024, se
+declara de interés y prioridad nacional la realización de los Censos
+Nacionales: XIII de Población, VIII de Vivienda y IV de Comunidades
+Indígenas, que se llevarán a cabo en el año 2025. Este decreto también
+establece que el Instituto Nacional de Estadística e Informática (INEI) es el
+órgano encargado de emitir las normas técnicas que regularán los próximos
+Censos Nacionales.
+Los Censos Nacionales son la principal fuente de información estadística
+del país para conocer la estructura, crecimiento y distribución de su
+población y las características de los hogares que conforman; así como de
+las viviendas que ocupan. También se obtiene información de las
+principales características de la Comunidades Indígenas. Esta información
+es fundamental para la adecuada evaluación y formulación de los planes y
+políticas nacionales de desarrollo para el bienestar social.
+La ejecución de los Censos Nacionales es un operativo de gran magnitud
+que involucra a numerosos Funcionarios Censales y compromete a todas
+las autoridades públicas, al sector privado y a toda la población del país.
+Por ello, es muy importante organizar el trabajo operativo de manera
+eficiente con el fin de asegurar que el recojo de información y los datos
+obtenidos sean de calidad.
+El Jefe de Sección Censal – Población y Vivienda dentro de la organización
+censal operativa, es el Funcionario Censal de más alto nivel en la sección
+censal y sobre quien recae la responsabilidad de conducir y supervisar la
+recolección de información, monitoreando que ésta sea confiable y de
+calidad; por lo tanto, su labor es muy importante.
+Para facilitar esta labor, se ha elaborado el Manual del Jefe de Sección
+Censal, cuyo propósito es proporcionar las instrucciones y procedimientos
+técnicos necesarios para realizar su trabajo en campo y se logre la
+recolección de la información censal. Además, servirá como una guía de
+referencia para estandarizar los criterios de recolección de datos en todo el
+país.
+El INEI agradece de antemano a los Jefes de Sección Censal y los anima a
+participar activamente, mostrando un gran sentido de responsabilidad y
+compromiso, ya que el éxito de los Censos Nacionales 2025 depende en
+gran medida de su trabajo.
+ Felicitamos tu decisión de participar en los Censos Nacionales 2025: XIII
+de Población, VIII de Vivienda y IV de Comunidades Indígenas y nos alegra
+que hayas sido seleccionado/a para desempeñar este importante cargo
+operativo censal.
+El INEI requerirá de la participación de todos los ciudadanos y ciudadanas
+del país, con el fin de obtener información de las características de la
+población y de las viviendas a nivel nacional.
+Asimismo, necesitará de la participación de miles de funcionarios/as
+censales que, así como Tú, decidan desempeñarse en el cargo,
+demostrando disciplina, madurez, profesionalismo y gran sentido ético en
+el desempeño de
+su labor.
+Por lo tanto, la supervisión que realices al trabajo de campo y recolección
+de información de los/las Censistas es muy importante porque contribuirá
+al aseguramiento de la cobertura deseada y al logro de los estándares de
+calidad de los datos a obtener, de tal manera que las autoridades del país,
+sobre la base de la evidencia de estos datos, tomen acciones para el
+desarrollo y bienestar de la población.
+Por ello, se ha elaborado el presente Manual del Jefe de Sección Censal,
+que no solo te será útil como apoyo didáctico durante la capacitación,
+sino también como soporte de consulta durante el trabajo en campo.
+Léelo permanentemente para repasar las definiciones y procedimientos a
+seguir en las tareas que realices.
+"Tu participación es
+IMPORTANTE para el PERÚ
+"
+
+Contenido
+
+INSTITUTO NACIONAL DE ESTADÍSTICA E INFORMÁTICA ............................................................................................. 11
+01 GENERALIDADES DE LOS CENSOS NACIONALES 2025 ........................................................................................ 13
+1.1 ¿QUÉ SON LOS CENSOS NACIONALES? ......................................................................................................... 13
+1.2 ¿CUÁLES SON LOS OBJETIVOS DE LOS CENSOS NACIONALES 2025? ....................................................... 13
+1.3 ¿POR QUÉ SON IMPORTANTES LOS CENSOS NACIONALES 2025?............................................................. 13
+1.4 ¿CUÁLES SON LAS UNIDADES DE INVESTIGACIÓN DE LOS CENSOS NACIONALES 2025? ..................... 14
+1.5 ¿QUÉ TIPO DE CENSO SE EJECUTARÁ EN LOS CENSOS NACIONALES 2025? ........................................... 14
+1.6 ¿POR QUÉ EJECUTAR UN CENSO DE DERECHO EN LOS PRÓXIMOS CENSOS NACIONALES 2025? ...... 14
+1.7 ¿CUÁL SERÁ LA MODALIDAD DE RECOLECCIÓN DE INFORMACIÓN EN LOS CENSOS NACIONALES
+2025? Y ¿QUIÉNES SERÁN LOS INFORMANTES? ........................................................................................... 14
+1.8 ¿LOS DATOS RECOPILADOS EN LOS CENSOS NACIONALES 2025 ESTARÁN PROTEGIDOS? ................. 14
+1.9 ¿CUÁL ES LA BASE LEGAL PARA EJECUTAR LOS CENSOS NACIONALES 2025?........................................ 14
+02 ORGANIZACIÓN DE LA OPERACIÓN EN CAMPO ................................................................................................... 15
+2.1 ORGANIZACIÓN FUNCIONAL ........................................................................................................................... 15
+2.2 DEPENDENCIA Y RESPONSABILIDAD DEL PERSONAL DE CAMPO.............................................................. 16
+2.3 ORGANIZACIÓN DEL TRABAJO DE CAMPO ..................................................................................................... 17
+2.4 NORMAS DE SEGURIDAD .................................................................................................................................. 18
+03 EL/LA JEFE/A DE SECCIÓN CENSAL ....................................................................................................................... 19
+3.1 BUENAS PRÁCTICAS Y PRINCIPIOS ÉTICOS.................................................................................................... 19
+3.2 LIDERAZGO.......................................................................................................................................................... 19
+3.3 FUNCIONES......................................................................................................................................................... 20
+3.4 OBLIGACIONES................................................................................................................................................... 20
+3.5 PROHIBICIONES ................................................................................................................................................. 21
+3.6 LEGAJOS, INDUMENTARIA Y EQUIPO A UTILIZAR........................................................................................... 21
+04 TAREAS DEL/DE LA JEFE/A DE SECCIÓN CENSAL ................................................................................................. 23
+4.1 ANTES DE LA OPERACIÓN DE CAMPO............................................................................................................. 23
+4.1.1 CAPACITARSE COMO JEFE/A DE SECCIÓN CENSAL E INSTRUCTOR/A CENSAL ........................... 23
+4.1.2 REUNIÓN DE COORDINACIÓN CON EL/LA SUPERVISOR/A DE SECTOR CENSAL ......................... 23
+4.1.3 RECEPCIÓN Y VERIFICACIÓN DE MATERIALES, INDUMENTARIA Y EQUIPOS POR EL/LA
+JEFE/A DE SECCIÓN CENSAL ................................................................................................................ 24
+4.1.4 ACCESO AL APLICATIVO INFORMÁTICO, VISUALIZACIÓN DEL MARCO DE TRABAJO Y
+DESCARGA DE LEGAJOS DIGITALES POR EL/LA JEFE/A DE SECCIÓN CENSAL .............................. 24
+4.1.5 REVISIÓN, RECONOCIMIENTO Y RECORRIDO DEL ÁREA DE TRABAJO URBANO DE LA
+SECCIÓN CENSAL ASIGNADA............................................................................................................... 25
+4.1.6 PARTICIPACIÓN DEL JEFE/A DE SECCIÓN CENSAL EN EL CURSO PRESENCIAL DIRIGIDO A
+CENSISTAS .............................................................................................................................................. 27
+4.1.7 ENTREGA DE LEGAJOS, INDUMENTARIA Y EQUIPOS A LOS/LAS CENSISTAS PARA LA
+EJECUCIÓN DEL TRABAJO DE CAMPO................................................................................................. 27
+4.1.8 SUPERVISIÓN DEL ACCESO AL APLICATIVO INFORMÁTICO CENSOS2025, VISUALIZACIÓN
+DEL MARCO DE TRABAJO Y DESCARGA DE LEGAJOS DIGITALES POR LOS/LAS CENSISTAS ....... 28
+4.1.9 SUPERVISIÓN DE LA REVISIÓN EN GABINETE DE LA DOCUMENTACIÓN CARTOGRÁFICA,
+LISTADO DE VIVIENDAS Y MARCO DE TRABAJO QUE DEBEN REALIZAR LOS CENSISTAS ............ 28
+4.1.10 COORDINACIÓN SOBRE LOS FONDOS ASIGNADOS PARA EL TRABAJO DE CAMPO..................... 30
+4.2 DURANTE LA OPERACIÓN DE CAMPO............................................................................................................. 30
+4.2.1 PRESENTACIÓN Y COORDINACIÓN ANTE LAS AUTORIDADES EXISTENTES EN EL ÁMBITO DE
+TRABAJO .................................................................................................................................................. 30
+4.2.2 ORIENTACIÓN Y UBICACIÓN DEL PUNTO DE INICIO DEL ÁREA DE TRABAJO DE CADA
+CENSISTA................................................................................................................................................. 31
+4.2.3 SUPERVISIÓN DEL TRABAJO DE CAMPO ............................................................................................. 31
+4.2.4 IDENTIFICACIÓN Y REGISTRO DE VIVIENDAS NUEVAS...................................................................... 33
+
+4.2.5 IDENTIFICACIÓN DE VIVIENDAS MULTIFAMILIARES NUEVAS........................................................... 34
+4.2.6 IDENTIFICACIÓN Y EVALUACIÓN DEL NIVEL DE SEGURIDAD EN LAS ÁREAS DE TRABAJO
+ASIGNADAS ............................................................................................................................................. 35
+4.2.7 SEGUIMIENTO DEL e-CENSO O CENSO EN LÍNEA (CÓDIGO ÚNICO DE VIVIENDA - CUV)............ 35
+4.2.8 COORDINACIÓN PARA LA EJECUCIÓN DEL CENSO EN VIVIENDAS MULTIFAMILIARES................ 36
+4.2.9 VIVIENDAS QUE EN CAMPO NO GUARDAN CONSISTENCIA CON EL LISTADO DE VIVIENDAS Y
+MARCO DE TRABAJO EN EL ÁREA URBANA......................................................................................... 36
+4.2.10 TRANSFERENCIA DE DATOS DE LA INFORMACIÓN CENSAL ............................................................ 41
+4.2.11 VERIFICACIÓN DE LA TRANSFERENCIA DE INFORMACIÓN EN TIEMPO REAL................................ 41
+4.2.12 SEGUIMIENTO AL RECORRIDO DENTRO DEL ÁREA DE TRABAJO POR EL PERSONAL DE
+CAMPO EN TIEMPO REAL....................................................................................................................... 42
+4.2.13 SEGUIMIENTO DEL AVANCE DE COBERTURA..................................................................................... 42
+4.2.14 USO DE LOS MÓDULOS OPERATIVOS.................................................................................................. 42
+4.2.15 RECUPERACIÓN DE VIVIENDAS PARTICULARES................................................................................ 42
+4.2.16 SEGUIMIENTO SOBRE EL REGISTRO DE LAS CONSULTAS................................................................ 42
+4.2.17 VERIFICACIÓN DE OMISIÓN DE VIVIENDAS ........................................................................................ 43
+4.3 DESPUÉS DE LA OPERACIÓN DE CAMPO........................................................................................................ 43
+4.3.1 AL CONCLUIR EL PERIODO DE TRABAJO............................................................................................. 43
+4.3.2 AL CONCLUIR LA OPERACIÓN DE CAMPO.......................................................................................... 43
+05 MONITOREO Y SEGUIMIENTO DE LA OPERACIÓN DE CAMPO ............................................................................. 45
+5.1 SISTEMA DE MONITOREO DE LOS CENSOS NACIONALES 2025 .................................................................. 45
+5.2 ACCESO Y NAVEGACIÓN DEL SISTEMA DE MONITOREO.............................................................................. 45
+5.3 REPORTES A MONITOREAR............................................................................................................................... 45
+5.3.1 SEGUIMIENTO DE AVANCE.................................................................................................................... 45
+5.3.2 SEGUIMIENTO AL CENSO EN LÍNEA..................................................................................................... 46
+5.3.3 SEGUIMIENTO DE LA VARIACIÓN DE VIVIENDAS Y POBLACIÓN POR MANZANA Y CENTRO
+POBLADO................................................................................................................................................. 46
+5.3.4 INDICADORES DE RENDIMIENTO Y SEGUIMIENTO AL PERSONAL EN CAMPO .............................. 47
+ANEXOS
+Doc.CPV.03.19 CROQUIS DE LA SECCIÓN CENSAL URBANA................................................................................... 51
+Doc.CPV.03.19A CROQUIS SATELITAL DE LA SECCIÓN CENSAL URBANA ............................................................... 52
+Doc.CPV.03.206 LISTADO DE VIVIENDAS DE LA SECCIÓN CENSAL URBANA .......................................................... 53
+Doc.CPV.03.208 RESUMEN DE LA SECCIÓN CENSAL URBANA.................................................................................. 54
+Doc.CPV.03.104 PROGRAMACIÓN DE RUTA DEL/DE LA JEFE/A DE SECCIÓN CENSAL .......................................... 55
+Doc.CPV.03.30 CROQUIS DE LA SECCIÓN CENSAL RURAL...................................................................................... 56
+Doc.CPV.03.30A CROQUIS SATELITAL DE LA SECCIÓN CENSAL RURAL................................................................... 57
+Doc.CPV.03.207 LISTADO DE VIVIENDAS DE LA SECCIÓN CENSAL RURAL.............................................................. 58
+Doc.CPV.03.209 RESUMEN DE LA SECCIÓN CENSAL RURAL..................................................................................... 59
+Doc.CPV.03.104 PROGRAMACIÓN DE RUTA DEL/DE LA JEFE/A DE SECCIÓN RURAL............................................. 60
+
+
+11
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Instituto
+Nacional de
+Estadística e
+Informática
+¿QUIÉNES SOMOS?
+Somos la institución pública más importante del país en la generación y difusión de información estadística oficial;
+que sirve para conocer, analizar y proponer cambios en nuestra realidad, a través de políticas públicas que
+favorezcan a las poblaciones más necesitadas y apoyen el desarrollo sostenido de nuestro país.
+NUESTRA MISIÓN NUESTRA VISIÓN
+Es producir y difundir información estadística oficial que
+el país necesita, con la calidad, oportunidad y cobertura
+requeridas, con el propósito de contribuir al diseño,
+monitoreo y evaluación de políticas públicas y al proceso
+de toma de decisiones de los agentes socioeconómicos,
+sector público y comunidad en general.
+Somos un organismo líder a nivel nacional e internacional,
+que utiliza los más altos estándares metodológicos y
+tecnológicos para la producción y difusión de estadísticas
+oficiales que contribuyen eficazmente en el diseño de
+políticas públicas para el desarrollo del país.
+Como institución tenemos compromisos que debemos cumplir:
+BUENAS PRÁCTICAS ESTADÍSTICAS
+COMPROMISO
+CON EL
+USUARIO
+• Atención de sus necesidades
+• Imparcialidad y objetividad
+• Integridad profesional
+• Transparencia, equidad y oportunidad
+• Coordinación y cooperación
+• No duplicidad
+• Atención demanda prioritaria
+• Carga proporcional a las fuentes
+COMPROMISO
+CON LA
+EFICIENCIA
+COMPROMISO
+CON LA
+CALIDAD
+• Mejoramiento continuo
+• Innovación metodológica y tecnológica
+• Capacidad analítica, técnica y
+profesional
+• Revisión permanente de los procesos
+
+12
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas Nuestro Organigrama Institucional es el siguiente:
+Generalidades de los Censos Nacionales 2025 Capítulo 01
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+13
+01 GENERALIDADES DE LOS CENSOS NACIONALES 2025
+
+La Proclamación de la Independencia en el año 1821 marca el inicio de la vida republicana de nuestro país; y desde ese
+tan importante hito, se han levantado:
+En el año 2025, se ejecutarán los Censos Nacionales: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas.
+1.1 ¿QUÉ SON LOS CENSOS NACIONALES?
+Es el conjunto de actividades destinadas a realizar el recuento completo de
+todas las viviendas, hogares y los habitantes del territorio nacional, de los
+cuales se recopilará información sobre sus principales características
+sociodemográficas y económicas.
+Además, servirá para disponer de información actualizada acerca de las
+Comunidades Indígenas (Nativas y Campesinas).
+Por ende, un Censo Nacional es la investigación estadística de mayor
+envergadura de un país por la magnitud, despliegue de personal censal
+que recopilará información y por la valiosa participación de toda la
+población al brindar sus datos.
+1.2 ¿CUÁLES SON LOS OBJETIVOS DE LOS CENSOS NACIONALES 2025?
+Entre los principales objetivos tenemos:
+A. CENSO NACIONAL DE POBLACIÓN Y VIVIENDA
+a. Conocer cuántas personas viven en el país y cómo están distribuidas, tanto en la Costa, Sierra y Selva, como
+a nivel departamental, provincial, distrital y centro poblado.
+b. Proporcionar información sobre las principales características de la población, tales como: sexo, edad, lugar
+donde nacieron, si presentan discapacidad, cómo se autoidentifican étnicamente, con qué lenguas
+aprendieron hablar, qué nivel educativo tienen, si trabajan o no, el número de hijos/as, entre otras.
+c. Disponer de información sobre los materiales con las que están construidas las viviendas, si cuentan con el
+servicio de agua y con qué frecuencia; si tienen servicio de desagüe, energía eléctrica, entre otras
+características.
+d. Conocer con qué equipos y artefactos cuentan los hogares para desarrollar sus actividades diarias y saber su
+nivel de bienestar; así como, la forma de eliminar los residuos sólidos y si algún miembro del hogar emigró a
+otro país.
+e. Actualizar las estimaciones y proyecciones del crecimiento de la población a futuro hasta realizar otro Censo
+Nacional de Población.
+f. Contar con un directorio censal actualizado de viviendas y población para la ejecución de futuras encuestas y
+estudios especializados.
+B. CENSO NACIONAL DE COMUNIDADES INDÍGENAS (Comunidades Nativas y Campesinas)
+a. Actualizar el directorio de comunidades existentes en el territorio nacional a nivel de Costa, Sierra y Selva, así
+como departamental, provincial y distrital.
+b. Caracterizar a las comunidades según los pueblos y las lenguas indígenas u originarias a las que pertenecen
+y hablan, respectivamente.
+c. Disponer de información sobre su organización comunal, situación de las tierras, acceso a recursos naturales,
+infraestructura y equipamiento.
+d. Recopilar información sobre las actividades económicas que realizan en la comunidad y los servicios de
+salud, educación y comunicación con los que cuentan.
+e. Brindar información sobre las vías de acceso y medios de transporte existentes en la comunidad.
+1.3 ¿POR QUÉ SON IMPORTANTES LOS CENSOS NACIONALES 2025?
+Porque constituyen la única fuente que proporciona datos de la población y de las viviendas que ocupan, al menor nivel
+de desagregación geográfica; con esta información, es posible la elaboración de programas y planes focalizados de
+desarrollo social y económico por las autoridades distritales, provinciales, regionales y de nivel nacional.
+Capítulo 01 Generalidades de los Censos Nacionales 2025
+
+14
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.4 ¿CUÁLES SON LAS UNIDADES DE INVESTIGACIÓN DE LOS CENSOS NACIONALES 2025?
+Las unidades de investigación según el tipo de censo a realizar son las siguientes:
+ En el XIII Censo Nacional de Población:
+• Las personas, Residentes Habituales, en viviendas
+particulares; así como los hogares que conforman.
+• Las personas, Residentes Habituales, en viviendas
+colectivas; así como las personas sin vivienda.
+ En el VIII Censo Nacional de Vivienda:
+Las viviendas que existan en el territorio del país.
+ En el IV Censo Nacional de Comunidades Indígenas:
+Las Comunidades Nativas y las Comunidades Campesinas.
+1.5 ¿QUÉ TIPO DE CENSO SE EJECUTARÁ EN LOS CENSOS NACIONALES 2025?
+Se ejecutará un Censo de Derecho, es decir, que las personas serán censadas en la
+vivienda o lugar donde viven permanente o habitualmente (Residentes Habituales).
+El tipo de censo del año 2025 será diferente a los ejecutados anteriormente que fueron
+Censos de Hecho, donde las personas eran censadas en el lugar donde habían pasado la
+noche anterior al Día del Censo que era de un (1) solo día.
+1.6 ¿POR QUÉ EJECUTAR UN CENSO DE DERECHO EN LOS PRÓXIMOS CENSOS NACIONALES 2025?
+Porque:
+a. El dato estadístico de una persona debe estar ligado a su ámbito de residencia habitual, desde el cual es sujeto
+de deberes y derechos como: recibir y pagar por servicios básicos, contar con atención de salud, educación,
+seguridad, entre otros.
+b. Se calculan indicadores sociales y económicos más precisos de la población al estar asociados a su lugar de
+residencia; lo que permite que las autoridades planifiquen y provean aquello que brinde bienestar a los
+habitantes de su jurisdicción.
+c. Permite ejecutar el operativo censal en mayor tiempo y aplicar mejores y permanentes controles de cobertura y
+calidad de los datos; y de seguridad al personal de campo.
+1.7 ¿CUÁL SERÁ LA MODALIDAD DE RECOLECCIÓN DE INFORMACIÓN EN LOS CENSOS
+NACIONALES 2025? Y ¿QUIÉNES SERÁN LOS INFORMANTES?
+a. Se ejecutará un Censo Presencial, es decir, que los/las Censistas visitarán todas las viviendas del país y
+entrevistarán a un/una Informante calificado/a del hogar para diligenciar las preguntas de la Cédula Censal.
+b. También existirá una modalidad para la recolección de información que será el Censo en Línea (en adelante eCenso) o por internet, para los casos de ausencias u otros. Se realizará mediante el diligenciamiento de un
+cuestionario electrónico al cual se podrá acceder desde cualquier dispositivo móvil o equipo computador de
+escritorio/laptop.
+c. El/La Informante calificado/a será el/la Responsable del hogar, cónyuge o persona de 18 años y más de edad,
+los mismos que deben conocer la información a requerir de la vivienda y de los demás miembros del hogar.
+1.8 ¿LOS DATOS RECOPILADOS EN LOS CENSOS NACIONALES 2025 ESTARÁN PROTEGIDOS?
+La información que se recopile en campo se mantendrá en estricta reserva dando cumplimiento con lo establecido
+en la Ley N° 13248, “Ley de Censos”, artículo 7°, donde se señala que “Tales datos e informaciones tienen carácter
+secreto. No podrán ser revelados en forma individualizada, aunque mediare orden judicial. Sólo podrán ser
+divulgados o publicados sus resultados estadísticos, en forma innominada”.
+En el mismo sentido, sobre la base del artículo 97° del Decreto Supremo N° 043-2001-PCM, se garantiza que la
+información proporcionada por las fuentes, personas naturales o jurídicas que se encuentran en el país, tiene
+carácter secreto, también en cumplimiento de los principios y disposiciones referidas al tratamiento de datos
+personales establecidos en la Ley N° 29733 “Ley de Protección de Datos Personales”.
+1.9 ¿CUÁL ES LA BASE LEGAL PARA EJECUTAR LOS CENSOS NACIONALES 2025?
+ Ley N° 13248, Ley de Censos, que dispone el levantamiento periódico de los Censos Nacionales de Población,
+Vivienda, Agropecuario y Económico, del 24 de agosto de 1959.
+ Decreto Supremo N° 063-2024-PCM, que declara de interés y prioridad nacional la ejecución de los Censos
+Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas, del 22 de junio del 2024.
+Capítulo 02
+15
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+02 ORGANIZACIÓN DE LA OPERACIÓN EN CAMPO
+La planificación, organización, conducción, monitoreo, control de calidad y supervisión de la Operación de Campo de los
+Censos Nacionales 2025 es de responsabilidad de la Dirección Nacional de Censos y Encuestas – DNCE a través de la
+Jefatura del Proyecto y esta a su vez, del Jefe de la Operación de Campo.
+A nivel departamental, la conducción, monitoreo, control de calidad y supervisión de la Operación de Campo está a cargo
+de los/las Directores/as de las Oficinas Departamentales/Zonales de Estadística e Informática (ODEIs/OZEIs), a través
+de los/las Coordinadores/as Departamentales Censales, bajo la normatividad técnica y administrativa de la DNCE.
+2.1 ORGANIZACIÓN FUNCIONAL
+La organización funcional y su dependencia jerárquica para la ejecución de la Operación de Campo se presenta en
+el organigrama siguiente:
+Organigrama Funcional
+1/ Este cargo funcional se implementará en los departamentos censales que tienen 600 a más Comunidades Indígenas, entre Nativas y Campesinas.
+Capítulo 02 Organización de la Operación de Campo
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+16
+2.2 DEPENDENCIA Y RESPONSABILIDAD DEL PERSONAL DE CAMPO
+Para la descripción de la dependencia y responsabilidad del personal que directamente realizará el trabajo en
+campo, es necesario mencionar que, para llevar a cabo esta tarea, distinguiremos cuatro (4) componentes
+operativos:
+1. Población y Vivienda – CPV 3. Personas sin Vivienda – SV
+2. Viviendas Colectivas – VC 4. Comunidades Indígenas - CI
+La dependencia y responsabilidad del personal operativo del Componente 1: Población y Vivienda es el siguiente:
+
+A. JEFE DE OPERACIÓN DE CAMPO
+Depende directamente de la Jefatura del Proyecto, bajo el monitoreo de la DNCE. Es el
+Funcionario Censal de mayor nivel jerárquico operativo.
+Es el responsable de la organización, conducción, monitoreo, control de calidad, supervisión
+y seguimiento administrativo de la Operación de Campo de los Censos Nacionales 2025.
+Tiene a su cargo a los/las Funcionarios/as Censales operativos a nivel nacional.
+Asimismo, para un seguimiento y supervisión eficiente de las tareas operativas tendrá a su
+cargo a tres (3) Responsables Operativos de los siguientes componentes: Viviendas
+Colectivas, Personas sin Vivienda y Comunidades Indígenas.
+
+B. SUPERVISOR/A DE MONITOREO CENSAL
+Depende directamente de la Jefatura del Proyecto, a través del Área Técnica de Monitoreo de
+los Censos Nacionales y es el/la responsable de realizar el seguimiento de los indicadores de
+rendimiento, cobertura y calidad de las actividades censales, así como reportar y monitorear
+a las incidencias presentadas en la/s Sede/s Departamental/es Censal/es asignadas.
+
+C. COORDINADOR/A DEPARTAMENTAL CENSAL
+Depende directamente del Jefe de Operación de Campo, bajo el monitoreo del/de la
+Director/a de la Oficina Departamental/Zonal de Estadística e Informática (ODEI/OZEI).
+Es responsable de la conducción, monitoreo, control de calidad, supervisión y seguimiento
+administrativo de las actividades a ejecutarse en el departamento censal asignado.
+En los componentes operativos de Viviendas Colectivas, Personas sin Vivienda y
+Comunidades Indígenas, la dependencia será a través de los Responsables Operativos
+correspondientes.
+Tiene a su cargo a quienes asuman la función de Especialista/Técnico/a Cartográfico/a, Coordinador/a de
+Subsede Departamental Censal, Supervisor/a de Sector Censal, Jefe/a de Sección Censal y Censista. Asimismo,
+al/ a la Jefe/a de Brigada Censal y Censista que recogerán información en los componentes operativos: Viviendas
+Colectivas y Personas sin Vivienda.
+También tendrá a su cargo al /a la Jefe/a de Brigada Censal y Censista de Comunidades Indígenas en aquellos
+departamentos con menos de 600 Comunidades Indígenas.
+
+D. ESPECIALISTA CARTOGRÁFICO/ TÉCNICO/A CARTOGRÁFICO
+Depende directamente del/de la Coordinador/a Departamental Censal y es el/la responsable
+de brindar soporte y apoyo cartográfico al personal en campo en el área urbana y rural del
+ámbito departamental, según lo señalado por el/la Coordinador/a Departamental Censal en
+función de lo concertado con el/la Coordinador/a de Subsede Departamental Censal.
+
+E. COORDINADOR/A DE SUBSEDE DEPARTAMENTAL CENSAL
+Depende directamente del/ de la Coordinador/a Departamental Censal.
+Es responsable de la conducción, ejecución, monitoreo, control de calidad, supervisión y
+seguimiento administrativo de las actividades a ejecutarse en la subsede departamental
+censal asignado.
+Tiene a su cargo a quienes asuman la función de Monitor/a Censal, Operador/a Informático/a,
+Administrativo/a, Supervisor/a de Sector Censal. Asimismo, al/a la Jefe/a de Sección Censal
+y Censista de Población y Vivienda.
+
+Capítulo Organización de la Operación de Campo Capítulo 02
+17
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+F. MONITOR/A CENSAL
+Depende directamente del/de la Supervisor/a de Monitoreo Censal y es el/la responsable de
+realizar el seguimiento de los indicadores de rendimiento, cobertura y calidad de las
+actividades censales, así como reportar y monitorear a las incidencias presentadas en la
+Subsede Departamental Censal.
+
+G. OPERADOR/A INFORMÁTICO/A
+Depende directamente del/de la Coordinador/a de Subsede Departamental Censal. Es el/la
+responsable de proporcionar soporte técnico y asistencia informática al personal operativo
+en campo. Además, se reportará y coordinará con la Unidad de Captura de Datos de la
+Oficina Técnica de Informática - OTIN de la Sede Central del INEI para la solución de las
+incidencias presentadas.
+
+H. ADMINISTRATIVO/A DE SUBSEDE DEPARTAMENTAL
+Depende directamente del/de la Administrativo/a de Sede Departamental. Es el/la
+responsable de la ejecución, monitoreo y seguimiento de las tareas administrativas en el
+ámbito de la Subsede Departamental Censal. Coordinará de manera permanente con el/la
+Coordinador/a de Subsede Departamental Censal y, de requerirse, brindará reportes al Área
+Técnica de Monitoreo de los Censos Nacionales.
+I. SUPERVISOR/A DE SECTOR CENSAL
+Depende directamente del/de la Coordinador/a de Subsede Departamental Censal. Es
+responsable de la ejecución, monitoreo y supervisión del avance y cobertura en el sector
+censal asignado del operativo de campo de Población y Vivienda.
+Tiene a su cargo a quienes asumen la función de Jefe/a de Sección Censal y Censista del
+componente operativo de Población y Vivienda.
+J. JEFE/A DE SECCIÓN CENSAL (CPV)
+Depende directamente del/de la Supervisor/a de Sector Censal. Es responsable de la
+ejecución, monitoreo y supervisión del avance y cobertura de la recolección de información
+en la sección censal asignada del componente operativo de Población y Vivienda.
+Tiene a su cargo a cuatro (4) Censistas (CPV).
+K. CENSISTA (CPV)
+Depende directamente del/de la Jefe/a de Sección Censal. Su función es la aplicación de la
+Cédula Censal en todas las viviendas, los hogares y las personas del Área de Trabajo Urbano
+(ATU) o Área de Trabajo Rural (ATR) que le sean asignadas, que corresponden al componente
+operativo de Población y Vivienda.
+2.3 ORGANIZACIÓN DEL TRABAJO DE CAMPO
+a. La Oficina Departamental Censal funcionará en la capital del departamento del que está a cargo el/la Director/a
+Departamental o Zonal de Estadística e Informática (ODEI/OZEI). Será el centro de operaciones del/de la
+Coordinador/a Departamental Censal y de/de la Coordinador/a Departamental de Comunidades Indígenas.
+b. La Oficina de la Subsede Departamental Censal funcionará en el distrito capital que sea asignado para tal fin y
+conforme al ámbito de la subsede departamental censal. Será el centro de operaciones del/de la Coordinador/a
+de Subsede Departamental Censal y del personal que se encuentra a su cargo.
+c. La ejecución del trabajo de campo será de tres (3) meses y se realizará en el área urbana y área rural de los
+departamentos censales.
+d. Las tareas operativas estarán organizadas a nivel de rutas y periodos de trabajo que se encontrarán programados
+para los tres (3) meses de Operación de Campo.
+Capítulo 02 Organización de la Operación de Campo
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+18
+e. Una ruta de trabajo estará conformada por Áreas de Trabajo Urbanas (ATUs) y/o Áreas de Trabajo Rurales (ATRs),
+y en el documento de programación de la misma se especificará el número de periodo en el que se trabajarán.
+Generalmente, en un periodo de trabajo, se trabajará un ATU o un ATR; en casos excepcionales se trabajará un
+ATU y ATR a la vez.
+f. Para ejecutar el trabajo operativo, al/a la Censista y Jefe/a de Sección Censal se les entregarán los listados de
+viviendas a trabajar y los croquis que muestra la ubicación del ATU o ATR asignado (en físico como parte de su
+legajo y en digital a través de la descarga de recursos en el aplicativo); así como, la programación de ruta y los
+archivos KMZ (a través de la descarga de recursos en el aplicativo).
+g. El/La Censista recibirá un usuario y contraseña para acceder al aplicativo informático CENSOS2025, que
+contiene el Marco de trabajo de las viviendas a censar y la Cédula Censal (Cuestionario electrónico) antes del
+inicio del trabajo de campo.
+h. A un (1) Censista le será asignada una ruta de trabajo; la misma que será trabajada de acuerdo a la programación
+establecida en cada periodo de trabajo.
+i. Un periodo de trabajo, según el desplazamiento a realizar, estará distribuido de la siguiente forma:
+En el área urbana (desplazamiento con asignación de movilidad local):
+- Seis (6) días de Operación de Campo
+- Un (1) día de descanso
+- Cuatro (4) días de Operación de Campo
+- Dos (2) días de recuperación de viviendas con resultado de entrevista incompleta, ausente y/o rechazo
+- Un (1) día de descanso
+En el área rural y en algunas áreas urbanas (desplazamiento con asignación de gastos operativos):
+- Diez (10) días de Operación de Campo
+- Dos (2) días de recuperación de viviendas con resultado de entrevista incompleta, ausente y/o rechazo
+- Dos (2) días de descanso
+Precisar que cada mes de Operación de Campo, estará dividido en dos (2) periodos de trabajo y cada uno, tendrá
+una duración de catorce (14) días.
+j. La carga diaria de trabajo promedio por Censista según el tipo de área será:
+- Área urbana: doce (12) viviendas particulares
+- Área rural: seis (6) viviendas particulares
+Deberá censar a todas las viviendas que existan en el área de trabajo; y no solamente las que figuran en el listado
+de viviendas. Por lo tanto, se debe verificar la existencia de otras viviendas que no figuran en el listado; de ser
+necesario se deben tocar las puertas del ATU o ATR para cerciorarse que no se omita alguna vivienda y así evitar
+la omisión de cobertura censal.
+k. Para el caso de las entrevistas a los/las Informantes calificados/as de viviendas particulares con ocupantes
+ausentes, los fines de semana están considerados como días que conforman un periodo de trabajo, puesto que,
+estos informantes pueden ser ubicados/as en estos días.
+l. Se recomienda realizar el trabajo operativo a tempranas horas de la mañana para ubicar a los/las Informantes
+calificados/as y/o concertar las entrevistas y/o citas que correspondan para lograr la cobertura y recopilación
+de los datos.
+m. Durante el periodo de trabajo, se debe regresar a las viviendas particulares las veces que sean necesarias y en
+diferentes días u horarios, a fin de lograr la cobertura de las viviendas de su ámbito de trabajo y garantizar la
+calidad de los datos a obtener.
+n. La información recopilada durante el día de trabajo, independientemente del resultado obtenido, debe ser
+exportada diariamente al servidor (cuando se concluya la visita en la vivienda). No debe esperar que culmine el
+día de trabajo o el último día del periodo de trabajo para realizar la transferencia de los datos.
+o. El/La Censista debe tener presente que, durante el trabajo de campo, el/la Jefe/a de Sección Censal verificará
+la información de las entrevistas efectuadas a través del aplicativo SUPERVISION2025; de encontrar algún error
+u omisión durante la verificación, esta información será recuperada o actualizada por el/la Censista.
+p. En el área urbana, por cada día de trabajo en campo, se asignará un monto por movilidad local; en el caso de
+traslado a centros poblados alejados, que son generalmente del área rural, se asignarán los gastos operativos
+correspondientes.
+q. Se tendrá un servicio de plan de datos para realizar la transferencia de información de campo.
+r. Toda incidencia relevante que se presente en el trabajo de campo debe comunicarlo de inmediato al/ a la
+Supervisor/a de Sector Censal.
+2.4 NORMAS DE SEGURIDAD
+Es su responsabilidad verificar que todo el personal operativo bajo su cargo cumpla estrictamente con las normas
+establecidas de seguridad que resguarden su integridad física, así como de la información recopilada durante el
+desarrollo de su trabajo en campo y gabinete. Estas normas se presentan en el Protocolo de Seguridad para el
+Personal Operativo.
+El/La Jefe/a de Sección Censal Capítulo 03
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+19
+03 EL/LA JEFE/A DE SECCIÓN CENSAL
+El/La Jefe/a de Sección Censal es el/la Funcionario/a Censal a quien se le ha delegado la responsabilidad de conducir,
+monitorear y supervisar la ejecución del Censo Nacional de Población y Vivienda en los ámbitos de trabajo que se le
+asigne y se realizará principalmente en campo. Asimismo, el/la Jefe/a de Sección Censal tiene la función de capacitar a
+los/las Censistas para guiarlos en el trabajo Censal.
+El éxito de los Censos Nacionales 2025 dependerá de la eficiencia y responsabilidad del/de la Jefe/a de Sección Censal,
+el mismo que debe seguir las buenas prácticas y principios de ética profesional que deben guiar su desempeño.
+3.1 BUENAS PRÁCTICAS Y PRINCIPIOS ÉTICOS
+Existen estándares de conducta que deben ser practicados por todos aquellos que realicen actividades estadísticas
+y que como Jefe/a de Sección Censal debe cumplir:
+a. Aprendizaje: hacer propios, compartir los conocimientos y las habilidades adquiridas durante la capacitación
+recibida y el desarrollo del trabajo de campo; así mismo, mantenerse actualizado de forma permanente.
+b. Compromiso: debe realizar su trabajo con disponibilidad, convicción, y espíritu de servicio en la realización de
+las tareas encomendadas con un alto nivel de seriedad y trabajo para el cumplimiento de las metas
+programadas.
+c. Confidencialidad: garantizar la privacidad de los datos obtenidos, los mismos que serán utilizados solo con fines
+estadísticos.
+d. Cooperación: apoyar proactivamente en el desarrollo de las tareas operativas del equipo de trabajo asignado.
+e. Eficiencia: optimizar el uso de los recursos y tiempo en el desempeño de las tareas asignadas para el logro de
+los objetivos censales: cobertura y calidad. Para ello, debe evaluar la cobertura lograda y revisar la información
+recopilada.
+f. Honradez: actuar siempre con la verdad y rectitud en la ejecución de las tareas asignadas. Registrar los datos de
+los propios Informantes, sin asumir o tergiversar los datos.
+g. Objetividad: la información estadística a obtener debe reflejar fielmente la realidad encontrada.
+h. Igualdad: no discriminar a persona alguna por su origen étnico, lengua, procedencia, sexo, preferencia sexual,
+edad, discapacidad, condición social y económica.
+i. Independencia: trabajar libre de cualquier tipo de presión de personas que afecten la producción estadística y
+sus resultados con transparencia y veracidad.
+j. Profesionalismo: tener el conocimiento de cada proceso censal en el que participe y realizar las tareas asignadas
+demostrando que se le puede tener un alto nivel de confiabilidad y.
+k. Respeto: a los compañeros de trabajo, a los/las Informantes y a los procedimientos
+técnicos operativos y administrativos establecidos por la DNCE.
+l. Rendición de cuentas: reportar, explicar o justificar el uso de los
+recursos humanos a cargo, financieros y materiales con apego a la
+normatividad, bajo criterios de racionalidad.
+m. Identidad institucional: debe esmerarse por ejecutar sus funciones y
+tareas de acuerdo a los valores institucionales, los objetivos del
+Censo y la confianza depositada por sus superiores en su trabajo.
+Como Jefe/a de Sección Censal, es importante que al realizar sus tareas
+se guíe por estos estándares de conducta y ética que como servidor/a
+público/a debe cumplir porque al hacerlo se garantiza que la información
+obtenida tenga los estándares técnicos establecidos.
+3.2 LIDERAZGO
+El/La Jefe/a de Sección Censal debe demostrar capacidad de liderazgo y competencia en la conducción de
+personas. Para cumplir con esta responsabilidad debe tener las siguientes aptitudes y capacidades:
+a. Planificación y organización de las actividades a realizar, así como la implementación de estrategias para lograr
+el cumplimiento de las tareas asignadas de tal forma que garantice que el personal a su cargo logre la cobertura
+de viviendas y población; con calidad en los datos.
+b. Empoderamiento para tener ascendencia sobre el personal a su cargo: debe ser proactivo, demostrar
+entusiasmo y tener la determinación para tomar decisiones o enfrentar situaciones complejas, siempre
+coordinando con su Jefe/a inmediato/a.
+c. Implementación de estrategias e iniciativa para la toma de decisiones y mejoras con el fin de lograr el
+cumplimiento de las tareas que tiene asignadas en estrecha coordinación con el/la Supervisora de Sector
+Censal.
+Capítulo 03 El/La Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+20
+d. Gestión de equipos de trabajo: implica tener claridad sobre los objetivos a cumplir, asignar tareas según lo
+establecido, delegar tareas cuando sea necesario, promover una comunicación efectiva, equilibrar las
+diferencias en el desempeño del personal, reconocer los logros alcanzados y, frente a un rendimiento
+insuficiente, proponer mejoras e inspirar al equipo siendo un ejemplo para seguir.
+e. Capacidad de análisis para la revisión y seguimiento de indicadores de cobertura y calidad de la Operación de
+Campo que contiene el Sistema de Monitoreo de los Censos Nacionales 2025: sobre la base de esta información
+se deben tomar las decisiones y planificar las estrategias operativas que correspondan.
+f. Comunicación constante con los/las Censistas de su equipo y con las instancias superiores.
+g. Buena predisposición para aceptar pautas de trabajo y sobre todo saber escuchar a las instancias superiores y
+a los/las Censistas a su cargo.
+3.3 FUNCIONES
+a. Conocer y cumplir los procedimientos e instrucciones detallados en el Manual del/de la Jefe/a de Sección
+Censal, Instructivo de Módulos del Jefe de Sección (Supervisión) y demás manuales de los/las Funcionarios/as
+Censales a su cargo y toda normatividad técnica establecida en dispositivos legales, directivas e instructivos
+emitidos durante el periodo censal.
+b. Verificar en campo que los/las Censistas respeten las rutas de trabajo establecidas, de esta forma se garantizará
+una total cobertura de las viviendas; y, por ende, de la información.
+c. Supervisar que los/las Censistas realicen la recuperación de información en las viviendas con resultado
+incompleto, ausente y/o el levantamiento de viviendas con rechazos.
+d. Si detecta un alto porcentaje de viviendas ausentes, con rechazo o entrega de Códigos Únicos de Vivienda (CUV)
+comuníquelo al/a la Supervisor/a de Sector Censal para establecer estrategias operativas y realizar la
+recuperación durante el periodo de trabajo.
+e. Realizar la supervisión presencial y no presencial durante el periodo de trabajo, a fin de evaluar el desempeño de
+los/las Censistas, de acuerdo a los procedimientos establecidos en el Doc.CPV.08.13A Instructivo de Módulos
+del Jefe de Sección (Supervisión).
+f. Verificar que el/la Censista corrija la omisión de viviendas (cobertura) y los errores de contenido (calidad)
+detectados durante la supervisión realizada; antes de que continúe con su carga de trabajo.
+g. Mantener comunicación permanente con los/las Censistas, vía telefónica, mensaje de texto y/o WhatsApp para
+conocer el avance de la cobertura y las incidencias presentadas durante la Operación de Campo.
+h. Absolver las consultas de los/las Censistas para asegurar la calidad de la información recolectada en campo.
+i. Informar de manera permanente y oportuna, al/a la Supervisor/a de Sector Censal, sobre el avance de las tareas
+operativas, así como de las acciones correctivas realizadas ante las incidencias y dificultades presentadas.
+j. Revisar en el Sistema de Monitoreo de los Censos Nacionales, los archivos transferidos de los/las Censistas y
+los indicadores de cobertura para conocer el avance del trabajo.
+k. Identifique a los/las Censistas que tienen un avance de cobertura fuera del rango promedio para la
+retroalimentación respectiva o la toma de medidas correctivas de ser recurrente.
+l. Participar en las reuniones técnicas, presenciales o virtuales, que convoque el/la Supervisor/a de Sector Censal
+u otro/a Funcionario/a Censal autorizado/a.
+m. Informar oportunamente al/a la Supervisor/a de Sector Censal acerca de la pérdida o robo de alguna tableta en
+un plazo no mayor de 24 horas de ocurrido el suceso.
+n. Exhortar al/a la Censista que haya incurrido en una falta grave, mediante correo con copia al/a la Supervisor/a de
+Sector Censal y a las instancias superiores, así como al Área Técnica de Monitoreo de los Censos Nacionales 2025.
+o. Participar como Instructor de los cursos programados dirigidos a los/las Censistas.
+p. Recepcionar, revisar y ordenar los materiales diligenciados y aquellos que no han sido utilizados deben ser
+entregados al/a la Supervisor/a de Sector Censal al culminar la Operación de Campo.
+q. Otras funciones que le asigne la Jefatura de la Operación de Campo según las estrategias operativas que se
+implementen para asegurar el avance de cobertura y calidad del desarrollo del trabajo de campo que realiza.
+3.4 OBLIGACIONES
+a. Llevar consigo todos los documentos, materiales, equipos (tableta y cargador portátil), entre otros para ejecutar
+el trabajo de campo; y velar por la seguridad e integridad de los mismos.
+b. Usar la credencial e indumentaria asignada en forma completa y en óptimas condiciones, debe cuidarla, puesto
+que lo/la identifica como Jefe/a de Sección Censal.
+c. Demostrar una conducta ejemplar durante el desarrollo de sus funciones de gabinete y campo de acuerdo con
+la importante misión que desempeña como líder de su equipo de trabajo.
+d. Desempeñar personalmente su trabajo con la atención y concentración que este amerita y no tener compañía
+de personas ajenas al proyecto.
+El/La Jefe/a de Sección Censal Capítulo 03
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+21
+e. Mantener alta la autoestima, de cada integrante del equipo y que las relaciones interpersonales sean cordiales,
+basadas en el respeto. Así como, exhortar a realizar un trabajo eficiente.
+f. De presentarse casos técnicos no previstos, debe realizar las consultas al Asistente Virtual YANAPAQ 2025.
+Asimismo, debe revisar las respuestas de las consultas técnicas realizadas en este Asistente con el fin de hacer
+la retroalimentación a los/las Censistas a su cargo.
+g. Utilizar el Plan de datos recibido solo y exclusivamente para la transferencia de los datos recopilados en campo
+al Servidor del INEI.
+h. Responder las llamadas telefónicas realizadas por los/las Funcionarios/as Censales autorizados/as, en los
+horarios que se establezcan para tal fin e informar sobre el control del avance diario y/o recibir indicaciones
+técnicas.
+i. Elaborar los informes y documentos administrativos (rendición de cuentas) dentro de los plazos establecidos.
+j. Devolver los documentos diligenciados y/o no utilizados al concluir su labor.
+3.5 PROHIBICIONES
+a. Renunciar al cargo. En caso de renuncia por causas debidamente justificadas, esta debe ser comunicada con
+quince (15) días de anticipación.
+b. Dedicarse a otra labor diferente mientras está desempeñándose como Jefe/a de Sección Censal.
+c. Alterar la programación de ruta que le ha sido asignada o la de los/las Censistas a su cargo sin previa
+comunicación al/a la Supervisor/a de Sector Censal.
+d. Retirarse del ámbito de trabajo antes de que los/las Censistas de su sección censal culminen su carga diaria de
+trabajo asignada; faltar al trabajo sin justificación alguna, llegar tarde a la oficina censal o para desempeñar sus
+labores en campo.
+e. Ingresar a las viviendas a ser supervisadas y/o recibir alimentos o bebidas. De presentarse el caso, agradecer la
+cordialidad demostrada e indicar que debe cumplir con los protocolos de seguridad establecidos.
+f. Permitir como Jefe/a de Sección Censal que los/las Censistas no permanezcan en su área de trabajo o apresurar
+el trabajo con el fin de “ganar” horas libres durante el periodo de trabajo.
+g. Alterar los datos registrados en la tableta o documentos diligenciados o el de los/las Censistas a su cargo.
+h. Tomar acciones sobre situaciones técnicas u operativas que no pueda absolver sin previa comunicación con su
+Supervisor/a de Sector Censal o en su defecto, con el Asistente Virtual Yanapaq 2025.
+i. Atemorizar o entablar discusiones sobre temas personales, políticos, religiosos, entre otros, con los/las
+Informantes.
+j. Destinar los fondos asignados para el trabajo de campo a fines diferentes. Así como, solicitar o recibir
+retribuciones en dinero o en especie, durante el desempeño de sus funciones.
+k. Compartir las claves o contraseñas proporcionadas por el INEI
+con los/las compañeros/as de trabajo o terceros.
+l. Revelar a otras personas o instituciones ajenas al proyecto, los
+datos obtenidos, excepto si el/la Funcionario/a está
+autorizado/a para verificar el trabajo realizado.
+m. Permitir que los/las Censistas no brinden reportes o que no
+sean transparentes sobre el trabajo realizado al Área Técnica
+de Monitoreo de los Censos Nacionales 2025 u otra instancia
+autorizada por la Jefatura del Proyecto.
+3.6 LEGAJOS, INDUMENTARIA Y EQUIPO A UTILIZAR
+A. DOCUMENTACIÓN IMPRESA Y DIGITAL
+a. Área urbana
+i. Documentación impresa: (Legajo)
+• Doc.CPV.03.19 Croquis de la Sección Censal Urbana: es la representación gráfica del ámbito de
+trabajo, donde se identificarán las manzanas en las que trabajarán los/las Censistas a cargo del/de la
+Jefe/a de Sección Censal, las que estarán delimitadas por líneas de diferente color y que se
+encuentran programadas según ruta de trabajo. Se entregará un (1) croquis impreso.
+• Doc.CPV.03.208 Resumen de la Sección Censal Urbana: documento que contiene la conformación
+de la sección censal: ATUs, Censistas, zonas, manzanas y viviendas.
+
+El personal que contravenga cualquiera de
+estas prohibiciones será separado
+definitivamente del proyecto y sancionado
+conforme a los dispositivos legales vigentes;
+según sea el caso.
+Jefe/a de Sección Censal
+Capítulo 03 El/La Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+22
+ii. Documentación digital:
+• Doc.CPV.03.206 Listado de Viviendas de la Sección Censal Urbana: es el documento que contiene el
+listado de viviendas a nivel de las manzanas programadas y que serán censadas por los/las Censistas
+a cargo del/de la Jefe/a de Sección Censal.
+• Doc.CPV.03.19A Croquis Satelital de la Sección Censal Urbana es la representación gráfica del
+ámbito de trabajo con imagen satelital de fondo y donde se identificarán las manzanas en las que
+trabajarán los/las Censistas a cargo del/de la Jefe/a de Sección Censal.
+• También se contará de forma digital con el Doc.CPV.03.208 Resumen de la Sección Censal Urbana.
+b. Área rural
+i. Documentación impresa (Legajo):
+• Doc.CPV.03.30 Croquis de la Sección Censal Rural: es la representación gráfica donde se
+identificarán los centros poblados que trabajarán los/las Censistas a cargo del/de la Jefe/a de Sección
+Censal. Se entregará un (1) croquis impreso.
+• Doc.CPV.03.209 Resumen de la Sección Censal Rural: conformación de la sección censal rural:
+ATRs, Censistas, centros poblados y viviendas.
+ii. Documentación digital:
+• Doc.CPV.03.207 Listado de Viviendas de la Sección Censal Rural: es el documento que contiene el
+listado de viviendas a nivel de centros poblados y que serán censadas por los/las Censistas a cargo
+del/de la Jefe/a de Sección Censal. Se entregará un (1) listado impreso.
+• Doc.CPV.03.30A Croquis Satelital de la Sección Censal Rural: es la representación gráfica donde se
+identificarán los centros poblados con imagen satelital de fondo en los que trabajarán los/las
+Censistas a cargo del/de la Jefe/a de Sección Censal.
+• También se contará de forma digital con el Doc.CPV.03.209 Resumen de la Sección Censal Rural.
+c. Archivo KMZ:
+El/La Jefe/a de Sección Censal podrá descargar en formato digital a través de la Descarga de Recursos el
+archivo KMZ que contiene información geográfica de la ubicación de las viviendas, así como otros elementos
+como los polígonos de las manzanas o los límites de los ATRs, visible en aplicaciones como Google Earth.
+Se tendrá acceso a los archivos KMZ de cada uno de sus censistas por cada periodo de trabajo.
+d. Programación de Ruta:
+El/La Jefe/a de Sección Censal recibirá de forma digital el Doc.CPV.03.104 Programación de Ruta del/de la
+Jefe/a de Sección Censal, documento que contiene la información de los días programados y de los gastos
+asignados en el área de trabajo urbano y/o rural para el cumplimiento de las funciones del/de la Jefe/a de
+Sección Censal en el periodo de trabajo.
+
+B. DOCUMENTOS AUXILIARES
+a. Carta de Presentación
+b. Oficios personalizados para las Viviendas Multifamiliares
+(Condominio y Edificio)
+c. Oficio de la coordinación con la Municipalidad
+d. Oficio de la coordinación con la Comisaría
+e. Nota de Visita
+f. Etiqueta de Vivienda Censada
+3.7 INDUMENTARIA
+a. Credencial (con QR)
+b. Chaleco y gorro
+c. Bolso censal
+d. Repelente y protector solar (según asignación)
+3.8 EQUIPO Y PLAN DE DATOS
+a. Tableta
+b. Plan de datos
+c. Batería Portátil
+3.9 APLICATIVO SUPERVISIONCENSOS2025
+Es el aplicativo informático (APK) que utilizará el/la Jefe/a de
+Sección Censal y el/la Supervisor/a de Sector Censal para
+ejecutar la supervisión presencial y no presencial al trabajo del/de
+la Censista.
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+23
+04 TAREAS DEL/DE LA JEFE/A DE SECCIÓN CENSAL
+El/La Jefe/a de Sección Censal debe poner especial énfasis en las tareas a realizar, concentrando esfuerzos y recursos
+para organizarlas y ejecutarlas en el tiempo programado y de forma eficiente, lo que permitirá garantizar el éxito de las
+labores operativas.
+Las actividades que involucran la ejecución del Censo Nacional 2025, se dividen en tres etapas: antes, durante y después
+de la Operación de Campo. En cada una de las etapas, se han establecido tareas de carácter técnico y operativo.
+Para el cumplimiento de estas tareas, deben aplicarse los procedimientos establecidos, así como el uso de los
+documentos y materiales censales correspondientes, con la finalidad de asegurar un buen levantamiento de la
+información censal, la cobertura de las viviendas y la población durante el Censo Nacional.
+A continuación, se detallan las tareas que realiza el/la Jefe/a de Sección Censal antes, durante y después de la operación
+de campo.
+
+4.1 ANTES DE LA OPERACIÓN DE CAMPO
+El/La Jefe/a de Sección Censal antes de iniciar con el trabajo de Operación de Campo realizará las actividades
+siguientes:
+4.1.1 CAPACITARSE COMO JEFE/A DE SECCIÓN CENSAL E INSTRUCTOR/A CENSAL
+El/La postulante para el cargo de Jefe/a de Sección Censal deberá participar del curso de capacitación que
+se realizará en la modalidad de externado en la Subsede Departamental Censal durante un periodo de ocho
+(8) días bajo modalidad presencial.
+La capacitación será impartida con los manuales operativos correspondientes y que son indispensables para
+conocer la labor que desempeñará como Jefe/a de Sección Censal. Asimismo, se le capacitará para
+desempeñar el rol de Instructor/a Censal en los Cursos dirigidos a los/las Censistas, según la necesidad y
+asignación de la Subsede Departamental Censal.
+Como participante del Curso deberá:
+• Ser puntual, estar atento/a, ser observador/a, sociable, respetuoso/a, mantener una actitud positiva y
+saber trabajar en equipo.
+• En casos de duda, formular las preguntas que sean necesarias y sin temor; tener presente que no hay
+pregunta buena o mala. El objetivo es obtener el conocimiento necesario para el cumplimiento de las
+funciones como Jefe/a de Sección Censal e Instructor/a de los/las Censistas.
+4.1.2 REUNIÓN DE COORDINACIÓN CON EL/LA SUPERVISOR/A DE SECTOR CENSAL
+Después de haber culminado el curso de capacitación y habiendo sido seleccionado como Jefe/a de Sección
+Censal, a tempranas horas y en el día programado, debe reunirse en la Oficina de la Subsede Departamental
+Censal con el/la Supervisor/a de Sector Censal para realizar las coordinaciones con relación al desarrollo de
+sus funciones y tareas.
+En esta reunión inicial, el/la Supervisor/a de Sector Censal:
+• Le entregará la credencial que lo identificará como funcionario/a del INEI durante el ejercicio de sus
+tareas con el cargo de Jefe/a de Sección Censal.
+• Para el desempeño de sus funciones y tareas operativas le asignará el número de la sección censal en la
+que trabajará.
+• Le hará entrega de los documentos y materiales censales que utilizará para el desempeño de su labor
+operativa y del personal a su cargo. En el acápite 4.1.3 del presente manual se detallarán las acciones
+que involucran esta entrega.
+• De ser el caso, le mostrará las modificaciones que se han encontrado en la/s manzana/s que conforman
+su sección censal y le entregará una copia del croquis de la sección donde figuran la/s actualización/es
+realizada/s (Ejemplo: aparición de nuevas manzanas en la periferia de la ciudad y/o aparición de nuevos
+edificios o condominios).
+• Le indicará que como primera tarea a realizar será el reconocimiento en el terreno de la sección censal
+asignada en el área urbana, correspondientes a los ATUs de los dos primeros periodos, como mínimo.
+• De ser el caso, le entregará copia del oficio entregado a las autoridades provinciales, distritales y/o sector
+público para la presentación del mismo ante cualquier eventualidad ocurrida en campo o le brinden las
+facilidades para el desarrollo del trabajo en campo.
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+24
+4.1.3 RECEPCIÓN Y VERIFICACIÓN DE MATERIALES, INDUMENTARIA Y EQUIPOS POR EL/LA JEFE/A DE
+SECCIÓN CENSAL
+A. PARA LA CAPACITACIÓN
+a. El personal que postule al cargo de Jefe/a de Sección Censal recibirá del/de la Coordinador/a
+Departamental Censal la tableta y sus accesorios en la oficina de la Subsede Departamental Censal.
+b. La entrega de la tableta y sus accesorios al/a la Jefe/a de
+Sección Censal, será por el Sistema de Logística Censal,
+mediante la generación de un cargo de entrega, este
+documento presentará los siguientes datos: Apellidos,
+Nombres, DNI, cargo, teléfono, correo personal, control
+patrimonial, características de la tableta, accesorios
+asignados y un campo para la firma y huella digital, el cual
+deberá ser firmado por el/la Jefe/a de Sección Censal en
+el momento de la recepción del equipo, quien deberá
+verificar el contenido de la entrega.
+c. Asimismo, recepcionará los materiales de capacitación (manuales, útiles y documentos) del/de la
+Coordinador/a de Subsede Departamental Censal en la oficina de la Subsede Departamental Censal,
+por el cual deberá firmar una planilla impresa como cargo de recepción, dicho material deberá ser
+revisado para verificar su contenido.
+d. Al finalizar el curso de capacitación el/la Jefe/a de Sección Censal hará la devolución del equipo y
+accesorios en las mismas condiciones en que fueron entregados, verificando el registro de la firma
+por la persona que recibe el equipo. Dicha devolución se realizará en la Subsede Departamental
+Censal.
+
+B. PARA LA OPERACIÓN DE CAMPO
+a. El/La Jefe/a de Sección Censal, en cada Subsede Departamental Censal, recibirá del/de la
+Coordinador de Subsede Departamental Censal la Tableta. Dicha entrega será a través del sistema
+de logística censal, mediante la generación de un cargo de entrega el cual deberá ser firmado en la
+tableta y cuyo cargo se hará llegar de forma inmediata a su correo personal.
+b. Después de recepcionar la tableta, el/la Jefe/a de Sección Censal verificará su correcto
+funcionamiento (el encendido y cargado de la batería), de encontrar cualquier desperfecto (ralladura
+o abolladura) o mal funcionamiento, deberá comunicarlo inmediatamente al/a la Supervisor/a de
+Sector Censal y este a su vez al/a la Coordinador/a de Subsede Departamental Censal para las
+coordinaciones respectivas con el Área Técnica de Logística Censal.
+c. Por la entrega de la indumentaria y legajo al/a la Jefe/a de Sección Censal, se generará un documento
+de control impreso, la cual deberá firmar como cargo de la recepción, por lo que debe verificar la
+completitud de la indumentaria y legajo entregado; caso contrario debe informarlo de inmediato al/a
+la Supervisor/a de Sector Censal.
+d. Luego de las verificaciones respectivas y de las firmas de los cargos y documentos de control
+impresos, estos últimos, deben ser guardados por el/la Jefe/a de Sección Censal para fines de
+presentación y control al momento de la devolución de los bienes recibidos culminada la Operación
+de Campo.
+4.1.4 ACCESO AL APLICATIVO INFORMÁTICO, VISUALIZACIÓN DEL MARCO DE TRABAJO Y DESCARGA DE
+LEGAJOS DIGITALES POR EL/LA JEFE/A DE SECCIÓN CENSAL
+a. El/La Coordinador/a Departamental Censal, mediante correo electrónico del Área de Operación de
+Campo, recibirá un enlace drive con los siguientes archivos: Listado de usuarios y contraseñas de los
+aplicativos informáticos y la Programación de Rutas de los/las Funcionarios/as Censales a su cargo para
+realizar el trabajo de campo en su jurisdicción.
+b. El aplicativo SUPERVISIÓNCENSOS2025 estará instalado en la tableta asignada para el/la Jefe/a de
+Sección Censal, por lo que no será necesario realizar ninguna instalación adicional.
+c. El/La Jefe/a de Sección Censal:
+i. Recepcionará del/de la Supervisor/a de Sector Censal, el usuario y contraseña para acceder al
+aplicativo SUPERVISIONCENSOS2025, luego se realizará el logueo automático y visualizará el Marco
+de Trabajo.
+ii. Posteriormente entrará al módulo de Descarga de Recursos para que realice la descarga de los
+siguientes documentos digitales: listados, croquis y KMZs. Para esta acción debe estar activado el
+plan de datos. Estos documentos estarán disponibles a nivel de cada periodo de trabajo conforme se
+desarrolle el trabajo operativo.
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+25
+iii. Debe de realizarse la verificación del Marco de Trabajo asignado de manera OBLIGATORIA con los
+croquis y listados entregados por cada periodo de trabajo.
+iv. Esta tarea debe realizarse bajo la coordinación y supervisión del/de la Supervisor/a de Sector Censal.
+Es preciso señalar que, si no se realizan estas acciones, antes de salir a campo, no podrá ejecutar el
+trabajo operativo.
+4.1.5 REVISIÓN, RECONOCIMIENTO Y RECORRIDO DEL ÁREA DE TRABAJO URBANO DE LA SECCIÓN CENSAL
+ASIGNADA
+a. Una vez asumido el cargo, el/la Jefe/a de Sección Censal ejecutará la verificación en terreno de las Áreas
+de Trabajo Urbano programadas de los dos primeros periodos de trabajo, como mínimo, de cada uno/a
+de los/las Censistas a su cargo.
+b. Para ello, previamente el/la Jefe/a de Sección Censal debe revisar los documentos físicos y digitales
+(estos últimos mediante la Descarga de Recursos en la tableta) que le han sido entregados para ejecutar
+esta tarea de los periodos de trabajo a verificar; debe validar que sean coincidentes entre sí, con relación
+a los datos de departamento, provincia, distrito y manzana censal, entre otros según corresponda:
+i. A nivel de área urbana, deben guardar coincidencia:
+- Doc.CPV.03.206 Listado de Viviendas de la Sección Censal Urbana
+- Doc.CPV.03.19 Croquis de la Sección Censal Urbana
+ii. A nivel de área rural deben guardar coincidencia:
+- Doc.CPV.03.207 Listado de Viviendas de la Sección Censal Rural
+- Doc.CPV.03.30 Croquis de la Sección Censal Rural
+c. Esta tarea consistirá en realizar un recorrido a las ATUs para ubicar y verificar en el terreno los límites de
+estas áreas de trabajo; así como detectar la omisión, aparición o modificación de las manzanas que las
+conforman. Para ello utilizará el Doc.CPV.03.19 Croquis de la Sección Censal Urbana.
+Asimismo, de ser el caso, corroborará las modificaciones de las manzanas de la sección censal que le
+fueron comunicadas por el/la Supervisor/a de Sector Censal como resultado de la verificación que este
+realizó con anterioridad.
+d. Verificará, si existen diferencias en la cantidad o el orden de las viviendas que figuran en Doc.CPV.03.206
+Listado de Viviendas de la Sección Censal Urbana.
+e. Para ello, durante el reconocimiento y recorrido a las ATUs; tenga presente lo siguiente:
+i. Debe identificar la primera ATU a reconocer, terminado con esta, proceda con el reconocimiento de
+la siguiente ATU hasta terminar con todas, de esta forma realizará un trabajo ordenado.
+ii. Tenga presente que un ATU está delimitado por una flecha ( ) que inicia con un círculo pequeño,
+lo cual indica el punto de inicio del recorrido del ATU en la manzana, frente o parte de un frente que lo
+conforma. En este recorrido debe verificar las viviendas existentes.
+Tenga presente que en el Doc.CPV.03.19 Croquis de la Sección Censal Urbana vendrá diferenciado
+de un distinto color el ATU de cada uno de sus Censistas el cual permitirá conocer el área de cada uno
+de ellos y realizar el recorrido en su totalidad.
+iii. Si durante el reconocimiento se encuentra con un establecimiento (hotel, hostal, hospedaje, entre
+otros), pregunte al responsable del local si al interior de este existe una vivienda particular (vivienda
+del administrador, guardián, entre otros) y si fuese el caso debe de ser reportado a su superior
+inmediato.
+iv. Entregará los oficios a la Junta de Propietarios de las viviendas multifamiliares que figuren en el
+Doc.CPV.03.206 Listado de Viviendas de la Sección Censal Urbana.
+Si la Junta de Propietarios solicitase un oficio personalizado, solicite al/a la Supervisor de Sector
+Censal la elaboración de este documento para la respectiva entrega a los representantes de estas
+viviendas multifamiliares.
+v. También verificará e informará, de ser el caso, sobre la presencia de viviendas particulares que se
+encuentran en viviendas multifamiliares que no figuran en el Doc.CPV.03.206 Listado de Viviendas de
+la Sección Censal Urbana.
+vi. Identificará la existencia de manzanas que puedan presentar peligrosidad para la aplicación de
+estrategias operativas en coordinación con el/la Supervisor/a de Sector Censal y este a su vez con
+el/la Coordinador/a de Subsede Departamental Censal.
+f. Durante este reconocimiento, OBLIGATORIAMENTE deberá coordinar con los/las Jefes/as de las
+secciones censales colindantes para evitar duplicidad u omisión de viviendas. En tal sentido, puede
+encontrar los siguientes casos:
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+26
+i. Que entre el fin de la sección censal asignada y el comienzo de la siguiente existan manzanas con
+viviendas que no forman parte de ninguna de estas secciones.
+ii. Que en el límite de la sección censal asignada en área de periferia urbana exista omisión o crecimiento
+de manzanas.
+En estos casos, debe asegurarse que efectivamente no pertenezcan a ninguna sección censal; de ser el
+caso debe informarlo al/a la Supervisor/a de Sector Censal.
+g. Concluido el reconocimiento de los ATUs en campo, el/la Jefe/a de Sección Censal retornará a la Oficina
+de Subsede Departamental Censal y se reunirá con el/la Supervisor/a de Sector Censal, para informar
+sobre lo siguiente:
+i. Las incidencias y/o dificultades encontradas durante el reconocimiento realizado.
+ii. Las modificaciones encontradas durante el reconocimiento de las Áreas de Trabajo Urbano recorridas
+(de los dos primeros periodos de trabajo, como mínimo) serán señaladas y plasmadas en el croquis
+de la sección censal.
+iii. Los periodos que no fueron verificados serán trabajados durante los días de recuperación de los
+periodos de trabajo una vez iniciada la operación de campo.
+h. De encontrar diferencias, omisión y/o crecimiento en las manzanas (en área periférica), como también
+diferencias en el número de viviendas en las ATUs, el/la Jefe/a de Sección Censal deberá informar
+inmediatamente al/a la Supervisor/a de Sector Censal y este a su vez al/a la Coordinado/a de Subsede
+Departamental Censal para que solicite la verificación cartográfica al/ a la Coordinador/a Departamental
+Censal, el/la cual junto al/a la Especialista Cartográfico realizarán la validación de la información. Esta
+acción permitirá que, al inicio de la Operación de Campo, el/la Censista trabaje con la información
+actualizada.
+Ejemplo: El Jefe de Sección Censal, Diego Huertas, al realizar el reconocimiento y recorrido del área
+de trabajo urbano de la sección censal asignada en el distrito de Pueblo Libre, se da cuenta
+que la manzana 33 ha sufrido una modificación ya que no se encuentra igual al
+Doc.CPV.03.19 Croquis de la Sección Censal Urbana.
+Diego ha detectado que en el medio de la manzana censal de número 33 existe el Pasaje Las
+Flores, que va desde el frente 1 hasta el frente 4, partiendo dicha manzana en dos;
+seguidamente con lapicero de color azul escribe la palabra MODIFICADA en la manzana 33
+e informa de lo acontecido a su Supervisor/a de Sector Censal para que pueda tomar las
+medidas pertinentes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MODIFICADA
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+27
+4.1.6 PARTICIPACIÓN DEL JEFE/A DE SECCIÓN CENSAL EN EL CURSO PRESENCIAL DIRIGIDO A CENSISTAS
+a. Apoyará como Instructor/a Censal y por ende como evaluador/a en la Práctica de Campo del curso
+Capacitación dirigido al cargo de Censista, donde participarán por un periodo de seis (6) días: cuatro (4)
+días de teoría y dos (2) días de práctica de campo; serán designados por el/la Coordinador/a de Subsede
+Departamental Censal de acuerdo al número de aulas de capacitación y recibirán las instrucciones
+pertinentes para realizar esta tarea.
+b. Recibirá del/de la Coordinador/a de Subsede Departamental Censal los materiales del curso de
+capacitación y con apoyo del/ de la Supervisor/a de Sector Censal ambientará el aula designada para
+los/las participantes antes del inicio del curso de capacitación.
+c. Tiene la responsabilidad de repasar el Manual del Censista con el fin de realizar una correcta capacitación
+para obtener excelentes resultados en la Operación de Campo.
+d. En la práctica de campo, estará a cargo de la evaluación de un grupo de postulantes a Censistas.
+Evaluarán la presentación y el diligenciamiento del Cuestionario Electrónico de acuerdo a los
+procedimientos técnicos establecidos en el Manual del Censista, el cual debe conocer de forma
+completa. Para lo cual un día antes serán instruidos como Evaluadores de la práctica de campo.
+e. Para la ejecución de la práctica de campo, los/las participantes serán citados de acuerdo al programa del
+curso de capacitación en el local de capacitación de la Subsede Departamental Censal, de donde se
+desplazarán al lugar donde se lleve a cabo la práctica de campo. Para ello, el/la Jefe/a de Sección Censal
+realizará las coordinaciones finales con el/la Supervisor/a de Sector Censal y tomará conocimiento de
+los datos de identificación de los Censistas que le corresponda evaluar.
+f. Los puntajes de evaluación que haya determinado por cada participante deben ser registrados en el
+Sistema de Capacitación, de acuerdo a las instrucciones del Área Técnica de Reclutamiento y
+Capacitación que serán comunicadas con oportunidad.
+g. Como conocimiento general, el/la Jefe/a de Sección Censal:
+i. Debe estar al tanto que previo al curso de capacitación se convoque en la Oficina de la Subsede
+Departamental Censal a los/las Censistas seleccionados/as para asistir al curso con el fin de
+hacerles entrega de las tabletas y sus accesorios, los manuales y útiles. La entrega se realizará luego
+de la conformidad y respectiva firma de contrato.
+Por lo tanto, debe estar al corriente de los cronogramas de convocatoria y mantener coordinación con
+el/la Supervisor/a de Sector Censal y/o Coordinador/a de Subsede Departamental Censal.
+ii. La entrega de tabletas y accesorios a los/las participantes al Curso se realizará haciendo uso del
+Sistema de Logística Censal que generará un cargo de entrega por participante el cual deberán firmar
+de manera digital. Posteriormente el cargo será enviado al correo personal de cada participante. Este
+documento presentará los siguientes datos: apellidos, nombres, DNI del/de la participante,
+características de la tableta, código patrimonial, accesorios asignados y cargo de postulación.
+Posteriormente, cada participante, luego de las verificaciones respectivas, firmará el cargo de entrega
+y colocará su huella digital.
+iii. Para la entrega de los manuales y útiles, los/las participantes firmarán un documento de control
+impreso como cargo de la recepción.
+iv. Luego de las verificaciones realizadas y de las firmas de los cargos y documentos de control, estos
+últimos, deben ser guardados por los/las Censistas para fines de control al momento de la devolución
+del material y equipo recibido.
+Finalmente tenga presente que, para esta tarea, se hará uso de una versión exclusiva para capacitación del
+aplicativo informático CENSOS2025, por lo que, culminado el curso dirigido a los/las Censistas, se instalará
+una versión para operación de campo para iniciar el trabajo operativo.
+4.1.7 ENTREGA DE LEGAJOS, INDUMENTARIA Y EQUIPOS A LOS/LAS CENSISTAS PARA LA EJECUCIÓN DEL
+TRABAJO DE CAMPO
+a. Antes del inicio de campo, se convocará al personal seleccionado en el Curso de Capacitación de
+Censistas, en la Oficina de la Subsede Departamental Censal, para hacerles entrega de los legajos,
+indumentaria y equipos a utilizar para el desarrollo del trabajo en campo.
+b. A los/las Censistas se les especificará el número de la ruta asignada para la ejecución de su trabajo
+durante la operación de campo.
+c. Una vez asignado el número de la ruta a cada Censista, la entrega del legajo, indumentaria y equipo es de
+responsabilidad del/de la Coordinador/a de Subsede Departamental Censal y debe desarrollarse de
+forma ordenada, ágil y ser registrada en el Sistema de Logística Censal.
+Para ello, contará con el apoyo y el trabajo conjunto de los/las Supervisores/as de Sector Censal y
+Jefes/as de Sección Censal.
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+28
+En las Subsedes Departamentales Censales de Lima Metropolitana, los/las Censistas recibirán los
+legajos, indumentaria y equipos directamente del Área Técnica de Logística Censal.
+d. Para la entrega de la tableta y sus accesorios a los/las Censistas, el Sistema de Logística Censal generará
+un cargo de entrega, el cual presentará los siguientes datos: apellidos, nombres y DNI; características de
+la tableta, código patrimonial, accesorios asignados, y un campo para firma y huella digital.
+e. Posteriormente, el/la Jefe/a de Sección Censal debe indicar a los/las Censistas que después de
+recepcionar la tableta deben verificar su correcto funcionamiento (encendido y cargado de la batería) y de
+encontrar cualquier desperfecto (ralladura o abolladura) o mal funcionamiento, deberá comunicar
+inmediatamente al/a la Supervisor/a de Sector Censal y este a su vez al/a la Coordinador/a de Subsede
+Departamental Censal para que realice las coordinaciones respectivas con el Área Técnica de Logística
+Censal.
+Asimismo, debe indicarles que verifiquen que los legajos, indumentaria y equipos recepcionados estén
+completos. En caso de detectar algún legajo, indumentaria o equipo faltante debe informarlo de
+inmediato al/a la Supervisor/a de Sector Censal, este a su vez al/a la Coordinador/a de Subsede
+Departamental Censal para las coordinaciones respectivas con el Área Técnica de Logística Censal.
+f. Luego de la verificación realizada y de las firmas de los cargos y planillas respectivas, estos últimos deben
+ser guardados por los/las Censistas para fines de presentación y control al momento de la devolución de
+los bienes al culminar la operación de campo.
+4.1.8 SUPERVISIÓN DEL ACCESO AL APLICATIVO INFORMÁTICO CENSOS2025, VISUALIZACIÓN DEL MARCO
+DE TRABAJO Y DESCARGA DE LEGAJOS DIGITALES POR LOS/LAS CENSISTAS
+El/La Jefe/a de Sección Censal debe supervisar que los/las Censistas que tiene a su cargo accedan al
+aplicativo informático CENSOS2025, teniendo en cuenta lo siguiente:
+
+Verificar que:
+• Mantengan permanentemente la tableta cargada al 100%.
+• Las Tabletas deben estar conectados con plan de datos (Internet)
+Ingreso al Aplicativo informático CENSOS2025:
+• Verifique el ingreso al aplicativo con el usuario y contraseña proporcionados.
+• Debe observar que la versión del aplicativo no sea una versión de capacitación.
+• Debe corroborar que visualicen correctamente el Marco de Trabajo.
+
+Realizar la descarga recursos:
+• Croquis
+• Listados de Viviendas
+• Archivos KMZ
+4.1.9 SUPERVISIÓN DE LA REVISIÓN EN GABINETE DE LA DOCUMENTACIÓN CARTOGRÁFICA, LISTADO DE
+VIVIENDAS Y MARCO DE TRABAJO QUE DEBEN REALIZAR LOS CENSISTAS
+El objetivo de esta tarea es que los/las Censistas revisen y conozcan la documentación que le ha sido
+entregada para desarrollar el trabajo en campo; para lo cual el/la Jefe/a de Sección Censal debe reunirse con
+su equipo de trabajo y efectuar las siguientes acciones:
+a. Verificar que su documentación como Jefe/a de Sección Censal sea coincidente con la de los/las
+Censistas con relación a los datos del departamento, provincia, distrito (UBIGEO), centros poblados, N°
+de ATU, zonas, manzanas censales, N° de ATR, según corresponda:
+En caso de:
+- No visualizar correctamente el Marco de Trabajo
+- No existir cobertura o señal para la activación del plan de datos y realizar la descarga de recursos de
+forma automática
+Se comunicará con el/la Supervisor/a de Sector Censal, quien realizará las coordinaciones respectivas
+con el/la Coordinador/a de Subsede Departamental Censal. Debe esperar las instrucciones
+correspondientes.
+Jefe/a de Sección Censal
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+29
+b. Supervisar a cada Censista para que valide si la documentación que le ha sido entregada para ejecutar su
+carga en el periodo de trabajo, sea coincidente entre sí, con relación a los datos de departamento,
+provincia, distrito (UBIGEO) y manzanas censales, entre otros según corresponda:
+c. De existir inconsistencias entre la documentación del/de la Jefe/a de Sección Censal y los/las Censistas
+a su cargo o entre la de los/las Censistas debe comunicarlo al/a la Supervisor/a de Sector Censal para
+que las instancias superiores realicen las coordinaciones respectivas con el Área Técnica de
+Segmentación y la Jefatura de la Operación de Campo para las medidas correctivas.
+d. El/La Jefe/a de Sección Censal debe indicar a los/las Censistas:
+i. En el área urbana: verifiquen los límites de los ATUs asignados, es decir, el inicio y términos de cada
+uno de ellos en trabajo conjunto con los Censistas que tienen los ATUs colindantes, para detectar, de
+ser el caso inconsistencias y así evitar la superposición del trabajo entre dos (2) o más Censistas.
+ii. En el área rural: revisen los centros poblados que tienen asignados para verificar que no existan
+duplicados u omisiones comparando los croquis con los/las Censistas de ATRs colindantes y así
+evitar la superposición del trabajo entre dos (2) o más Censistas.
+iii. Asimismo, que identifique la existencia de viviendas multifamiliares en sus listados para la toma de
+conocimiento respectiva y estar atento/a de las coordinaciones y estrategias operativas que se deben
+implementar para garantizar la ejecución del Censo en estas viviendas.
+e. En esta tarea de revisión el/la Jefe/a de Sección Censal debe absolver las consultas de los/las Censistas.
+En caso de no poder absolverlas, debe hacer lo propio con el/la Supervisor/a de Sector Censal o en su
+defecto con el/la Coordinador/a de Subsede Departamental Censal.
+ÁREA URBANA
+Doc.CPV.03.21 Croquis del Área de
+Trabajo Urbano
+Doc.CPV.03.20 Listado de Viviendas
+del Área de Trabajo Urbano
+ÁREA RURAL
+Doc.CPV.03.26 Croquis del Área de
+Trabajo Rural
+Doc.CPV.03.25 Listado de Viviendas del
+Área de Trabajo Rural
+Doc.CPV.03.103 Programación de Ruta del/de la Censista
+Esta documentación urbana y rural debe coincidir con el MARCO DE
+TRABAJO que se encuentra en el aplicativo CENSOS2025.
+JEFE/A DE SECCIÓN CENSAL
+Doc.CPV.03.19 Croquis de la
+Sección Censal Urbana
+Doc.CPV.03.206 Listado de
+Viviendas de la Sección
+Censal Urbana
+CENSISTA
+Doc.CPV.03.21 Croquis del
+Área de Trabajo Urbano
+Doc.CPV.03.20 Listado de
+Viviendas del Área de
+Trabajo Urbano
+ÁREA URBANA
+Doc.CPV.03.30 Croquis de la
+Sección Censal Rural
+Doc.CPV.03.207 Listado de
+Viviendas de la Sección
+Censal Rural
+Doc.CPV.03.26 Croquis del
+Área de Trabajo Rural
+Doc.CPV.03.25 Listado de
+Viviendas del Área de
+Trabajo Rural
+ÁREA RURAL
+Doc.CPV.03.104
+Programación de Ruta del/de
+la Jefe/a de Sección Censal
+Doc.CPV.03.103
+Programación de Ruta
+del/de la Censista
+PROGRAMACIÓN
+DE RUTA
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+30
+4.1.10 COORDINACIÓN SOBRE LOS FONDOS ASIGNADOS PARA EL TRABAJO DE CAMPO
+El/La Jefe/a de Sección Censal realizará las coordinaciones pertinentes con el/la Supervisor/a de Sector
+Censal para que los fondos asignados para el trabajo de campo (movilidad local, gastos operativos o pasajes)
+se realicen de manera oportuna y puedan ser entregados antes del desplazamiento que debe realizar
+conjuntamente con los/las Censistas a las áreas de trabajo urbanas o rurales, según corresponda.
+4.1.11 INSTRUCCIONES A LOS/LAS CENSISTAS ANTES DE INICIAR EL PERIODO DE TRABAJO
+Constituido el/la Jefe/a de Sección Censal en la Oficina Censal a primera hora del primer día de trabajo del
+periodo realizará las siguientes actividades:
+a. Coordinar con el/la Supervisor de Sector Censal para recibir las últimas instrucciones y dar inicio a la
+ejecución de las tareas censales.
+b. Controlar la asistencia de los/las Censistas. De no estar completo el equipo informará inmediatamente
+al/a la Supervisor/a de Sector Censal para la indagación respectiva y descartar que se trate de una
+renuncia no comunicada.
+c. Antes de la salida a campo, el/la Jefe/a de Sección Censal brindará a los/las Censistas las siguientes
+instrucciones:
+i. Verificar que la batería de la tableta esté cargada al 100% y que esté cargado correctamente el Marco
+de Trabajo de viviendas del periodo a trabajar para el ingreso de la información.
+ii. Llevar el legajo con los croquis y listados de viviendas del Área de Trabajo Urbano o Rural para ejecutar
+el operativo de campo del periodo correspondiente.
+iii. Estar correctamente uniformados y tener la credencial de identificación como funcionarios/as del
+INEI.
+iv. Establecer los lugares que servirán como puntos de reunión, así como los horarios para coordinar e
+informar sobre los aspectos relacionados con el trabajo de campo durante y al final de la jornada de
+trabajo.
+v. Trabajar bajo un horario flexible, que se ajuste a la presencia de los/las Informantes en las viviendas,
+regresando a estas las veces que sean necesarias para concretar el que sean censadas.
+vi. Informará que al mediodía tomarán un descanso para el respectivo refrigerio para luego reanudar las
+tareas y culminar con la tarea encomendada.
+vii. Si durante el recorrido de su ATU/ATR el/la Censista encuentra más viviendas, estas también deben
+ser censadas.
+viii.No alterar la programación de la ruta asignada sin previa coordinación con el/la Jefe/a de Sección
+Censal y/o del/de la Supervisor/a de Sector Censal y siempre que lo amerite.
+ix. Responder obligatoriamente las llamadas telefónicas, de los/las Funcionarios/as Censales
+autorizados/as para informarles sobre el avance en campo.
+x. Realizar las consultas al Asistente Virtual YANAPAQ 2025 de presentarse alguna duda o consulta en
+campo.
+xi. Estar atentos a la existencia de manzanas nuevas (en áreas periféricas) u omisión de manzanas y
+repórtalas de inmediato.
+xii. Después de cada entrevista realizada transferir la información recopilada al Servidor INEI y verificar
+que la transferencia de la información se realizó de la manera correcta en los sistemas
+correspondientes.
+xiii.Realizar de forma entusiasta y optimista el trabajo en campo a pesar de las circunstancias que puedan
+presentar teniendo gran resiliencia.
+4.2 DURANTE LA OPERACIÓN DE CAMPO
+
+4.2.1 PRESENTACIÓN Y COORDINACIÓN ANTE LAS AUTORIDADES EXISTENTES EN EL ÁMBITO DE TRABAJO
+El/La Jefe/a de Sección Censal se presentará ante una autoridad del ámbito de trabajo asignado con la que
+pueda contactarse (autoridad del municipio, centro poblado, asentamiento humano, comisaría, entre otros)
+para dar a conocer sobre la ejecución de los Censos Nacionales 2025.
+Jefe/a de Sección Censal
+El/La Jefe/a de Sección Censal debe demostrar puntualidad, entusiasmo y dedicación, para
+que de esa manera se pueda motivar y solicitar lo mismo de su equipo de trabajo.
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+31
+En esta coordinación con las autoridades, el/la Jefe/a de Sección Censal debe:
+• Explicar de forma clara, ordenada y breve sobre las tareas censales a realizar; así como, sobre la
+necesidad de que la población residente del ámbito a trabajar colabore en esta importante tarea. Es muy
+importante que se enfatice en los objetivos de los Censos Nacionales 2025 y la confidencialidad de la
+información.
+• En el área urbana, solicitar el acompañamiento del Serenazgo o similares cuando se trabaje en zonas
+peligrosas; mientras que, en el área rural debe solicitar el apoyo policial o militar para el resguardo en
+zonas convulsionadas y/o brinden facilidades de alojamiento y puedan asegurar el censo en el centro
+poblado.
+• Solicitar el apoyo para que realicen la difusión de los Censos Nacionales 2025 en todo el ámbito de
+trabajo, especialmente a los/las presidentes/as de las juntas vecinales, club de adultos mayores,
+comedores populares, programas de vaso de leche, asociación de agricultores u otros programas
+sociales o entidades.
+• Luego de las coordinaciones realizadas con las autoridades contactadas enfatice el agradecimiento del
+INEI por el apoyo que nos puedan brindar.
+
+4.2.2 ORIENTACIÓN Y UBICACIÓN DEL PUNTO DE INICIO DEL ÁREA DE TRABAJO DE CADA CENSISTA
+Al inicio del periodo de trabajo, el/la Jefe de Sección Censal debe ubicar a cada uno de sus Censistas en el
+punto de inicio correspondiente a su área de trabajo. Esta tarea es fundamental para asegurar un inicio
+ordenado de las labores censales y evitar la duplicidad y/u omisión de viviendas particulares.
+Tenga en cuenta lo siguiente:
+• En una manzana censal en donde trabaje más de un Censista, deberá realizar la verificación de los
+límites de los ATUs a fin de evitar el “cruce” de trabajo y no se duplique u omita alguna vivienda.
+• En un edificio o block de condominio en el que trabaje más de un Censista, deberá realizar la verificación
+de los límites de los ATUs para evitar la omisión o duplicidad de viviendas. Esta misma situación se
+presenta el caso de quintas o casas de vecindad.
+En esta tarea es fundamental el uso de los listados de viviendas del área de trabajo y los archivos KMZ para
+la ubicación correcta de las viviendas, corroborando las viviendas anteriores y posteriores.
+4.2.3 SUPERVISIÓN DEL TRABAJO DE CAMPO
+Para lograr un buen trabajo durante el operativo censal, es necesario detectar y corregir a tiempo los errores
+que los/las Censistas pueden cometer en campo. Por tal motivo, la supervisión que cumpla el/la Jefe/a de
+Sección Censal, representa una de las tareas más importantes durante el Censo y debe efectuarse desde un
+primer momento.
+Este proceso no debe ser mecánico, sino que deberá velar por el cumplimiento de las instrucciones de
+carácter técnico, además de tener una visión crítica que ayude a mejorar las técnicas de entrevista y permita
+corregir a tiempo los errores en que incurran los/las Censistas y/o evaluar las preguntas que le son difíciles
+para su diligenciamiento y por las que debe retroalimentarlos hasta que logren un buen manejo.
+Es decir, la función del/de la Jefe/a de Sección Censal en campo, no es de simple acompañamiento al/a la
+Censista, sino de verificar que cada uno/a de los/las Censistas estén efectuando el diligenciamiento de la
+Cédula Censal (cuestionario electrónico) mediante el uso de la tableta de acuerdo a las instrucciones
+impartidas; así como, controlando el avance que tienen de su carga diaria de trabajo en el ATU o ATR para
+completar su cobertura dentro del periodo de trabajo.
+Esta tarea de supervisión será realizada de forma presencial mediante observación a las entrevistas y no
+presencial mediante reentrevista a una muestra de viviendas ya censadas. Las instrucciones detalladas de
+esta tarea se encuentran en el Doc.CPV.08.13A Instructivo de Módulos del Jefe de Sección (Supervisión).
+El/La Jefe/a de Sección Censal supervisará el trabajo realizado en campo de acuerdo a los criterios
+siguientes:
+a. Para realizar la supervisión debe llevar consigo los croquis y listados de viviendas de las ATUs o ATRs a
+supervisar.
+b. Verificará que cada uno de los/las Censistas se encuentre realizando el Censo en la/las manzana/as
+asignada/as (área urbana) o centros poblados (área rural).
+Jefe/a de Sección Censal
+Una vez que los/las Censistas se encuentren en su punto de inicio, el/la Jefe/a de Sección
+Censal debe verificar que cada uno inicie correctamente la labor censal, siguiendo los
+protocolos establecidos.
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+32
+c. Durante la supervisión no presencial verificará que las viviendas que hayan sido censadas se encuentren
+debidamente identificadas con la etiqueta de “Vivienda Censada”; de no ser así, indagará el motivo de
+esta situación con el/la Censista y solicitará que pegue la etiqueta para culminar con el proceso del
+censo.
+Asimismo, si identifica una vivienda con la etiqueta de Vivienda Censada y esta no ha sido censada según
+lo informado por los residentes de la misma, entonces convocará al/a la Censista para indagar el motivo
+de tal situación e indicará que cense a la vivienda.
+De tratarse de procedimientos incorrectos realizados por el/la Censista debe realizar la
+retroalimentación respectiva para corregirlos y no se vuelvan a presentar.
+d. Así mismo, debe supervisar que el/la Censista haya verificado todas las puertas y censado a todas las
+viviendas asignadas (listado) además a las viviendas omitidas que encuentre durante su recorrido.
+e. Por ningún motivo deberá llamar la atención al/a la Censista en presencia del/de la Informante calificado
+o residente habitual de la vivienda que se está realizando el censo o delante de personas ajenas.
+A. SUPERVISIÓN PRESENCIAL
+Consistirá en la observación que realice el/la Jefe/a de Sección Censal al desenvolvimiento del/de la
+Censista durante el recojo de información para detectar, registrar y corregir los errores en lo que incurra
+durante el trabajo de campo.
+Para ello, tenga presente las instrucciones siguientes:
+a. Para realizar esta tarea utilizará el aplicativo SUPERVISIONCENSOS2025 en el cual se registrará los
+errores cometidos por el/la Censista en las viviendas supervisadas.
+b. Los aspectos que se evaluarán en la supervisión presencial serán los siguientes:
+i. Adecuada presentación del/de la Censista ante el Responsable del Hogar: explicación de
+objetivos y confidencialidad de la información.
+ii. Diligenciamiento de la Cédula Censal con el/la Informante calificado de la vivienda: Responsable
+del hogar u otra persona del hogar mayor de edad y que conozca toda la información de las
+personas que residen permanentemente.
+iii. Correcta formulación de las preguntas de la Cédula Censal (cuestionario electrónico) tal como
+están redactadas.
+iv. Aplicación de sondeos en aquellas preguntas que lo requieran porque la respuesta del/de la
+Informante fue ambigua o no estuvo de acuerdo al objetivo y/o no asumir respuestas por
+adelantado.
+c. Además de estos aspectos es importante que el/la Jefe/a de Sección observe si existen otros que
+pueden estar afectando la calidad del trabajo de campo, tales como:
+i. Ubicación correcta de la primera vivienda para el inicio del trabajo operativo en la manzana, frente
+de manzana o segmento de la manzana.
+ii. Omisión de la vivienda del listado o de alguna vivienda anterior o posterior que no figure en el
+listado.
+iii. Correcto posicionamiento en el terreno para la toma del punto GPS de cada vivienda.
+d. En la supervisión del diligenciamiento de la Cédula Censal observe la aplicación de sondeos por el/la
+Censista, de corresponder, especialmente en las secciones y preguntas siguientes:
+Sección I: Localización Censal, Condición de ocupación y Número de hogares de la vivienda
+P-18 Sra./Sr.: Si hogar es la persona o grupo de personas que se alimentan de una misma olla y
+atienden en común otras necesidades básicas, ¿cuántos hogares ocupan esta vivienda?
+Sección II: Características y Servicios de la Vivienda
+P-4 ¿Cuántas habitaciones en total tiene la vivienda, sin contar el baño, la cocina, lavandería, los
+pasadizos ni el garaje?
+P-5.1 En la vivienda, el agua se distribuye
+P-6 ¿Cuánto tiempo demoran en ir, recoger agua y volver a la vivienda?
+P-7 La vivienda ¿tiene el servicio de agua todos los días de la semana?
+P-9.1 La energía eléctrica utilizada es con medidor:
+Sección III: Características del Hogar
+P-1 La vivienda que ocupa su hogar es:
+P-6 En los últimos 5 años, desde (....) del año 2020 a la fecha, ¿Alguna persona que era miembro
+de este hogar, se fue a vivir permanentemente a otro país?
+
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+33
+Sección IV: Personas que Conforman el Hogar (vivienda particular)
+P-1 ¿Cuántas personas viven permanentemente en este hogar, estén o no presentes en este
+momento? No olvide considerar a los recién nacidos/as y ancianos/as y a las personas que
+recién han llegado a vivir permanentemente aquí.
+Sección V: Características de la Población
+P-5. Hace 5 años, desde (…) del año 2020, ¿En qué distrito vivía (…)?
+P-6. Cuando (…) nació ¿En qué distrito vivía su madre?
+P-8. (…) Tiene dificultad permanente para:
+P-13. ¿Cuál fue el último nivel y grado o año de estudios que aprobó (…)?
+P-17. (...) La semana pasada, ¿Trabajó para obtener un ingreso, ganancia o ayudó en el negocio o
+empresa de su hogar?
+P-18. (…) La semana pasada:
+P-19. (…) En las últimas 4 semanas estuvo:
+P-29. Actualmente ¿Cuál es el estado civil o conyugal de (…)?
+e. Después de cada supervisión absolverá las consultas del/de la Censista para la mejora del
+diligenciamiento de la Cédula Censal.
+Las instrucciones específicas para realizar esta supervisión se detallan en el Doc.CPV.08.13A Instructivo
+de Módulos del Jefe de Sección (Supervisión).
+B. SUPERVISIÓN NO PRESENCIAL
+Consistirá en realizar reentrevistas a las viviendas censadas con resultado Completa, esta tarea se
+efectuará a una muestra aleatoria de viviendas particulares para detectar, registrar y corregir errores u
+omisiones de cobertura y calidad.
+El objetivo de realizar esta reentrevista es comprobar la calidad de la información obtenida en campo por
+el/la Censista, cuando no estuvo presente.
+Para ello, tenga presente las instrucciones siguientes:
+a. Para realizar la reentrevista el/la Jefe/a de Sección Censal utilizará el aplicativo
+SUPERVISIONCENSOS2025 que generará la muestra aleatoria de viviendas seleccionadas a las que
+debe verificar.
+b. Una vez situado en la vivienda, el/la Jefe/a de Sección Censal deberá presentar su credencial al/a la
+Responsable del hogar o con la persona que lo atienda y explicará que su visita obedece a verificar el
+trabajo realizado por el/de la Censista.
+c. El/La Jefe/a de Sección Censal preguntará por la persona que atendió al/a la Censista e indicará al
+informante que efectuará algunas preguntas a la persona que proporcionó información al/a la
+Censista. De no encontrar en la vivienda a la persona que proporcionó la información al/a la Censista,
+puede preguntar por una persona calificada mayor de 18 años, de no haber tendrá que retornar
+nuevamente para ubicarla.
+d. Entre los principales aspectos que se evaluarán en la reentrevista serán los siguientes:
+i. Ubicación correcta de la vivienda o seleccionada
+ii. Omisiones de viviendas, hogares y/o personas.
+iii. Cobertura de personas en la vivienda seleccionada.
+iv. Contenido de la información de las características y servicios de la vivienda, características del
+hogar y características de la población.
+e. Verificará que el/la Censista realice la corrección obligatoria de los errores observados durante la
+supervisión, así mismo diligenciará las correcciones en el aplicativo SUPERVISIONCENSOS2025
+para, posteriormente, realizar la retroalimentación a los/las Censistas de su equipo.
+Las instrucciones específicas para realizar esta supervisión se detallan en el documento
+Doc.CPV.08.13A Instructivo de Módulos del Jefe de Sección (Supervisión).
+4.2.4 IDENTIFICACIÓN Y REGISTRO DE VIVIENDAS NUEVAS
+El/La Jefe/a de Sección Censal debe OBLIGATORIAMENTE supervisar que los/las Censistas a su cargo
+verifiquen que no existan viviendas omitidas en su ATU o ATR, esto debido a que, durante la tarea de registro
+pre-censal, algunas viviendas pudieron ser omitidas; de ser el caso debe agregarlas como viviendas nuevas
+en su carga de trabajo y en el marco de trabajo del aplicativo CENSOS2025.
+Al finalizar la jornada diaria se debe realizar la retroalimentación a los/las
+Censistas de su equipo, con base en las observaciones realizadas durante la supervisión.
+Jefe/a de Sección Censal
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+34
+Para ello, los/las Censistas deben solicitar información a los residentes habituales de las viviendas
+anteriores y posteriores o consultar a los/las vecinos/as del “barrio” o frente de la manzana, quienes son los
+que conocen a las personas que viven en el lugar; de no poder obtener información, entonces el/la Censista
+de forma ágil, puede realizar el “tocado de puertas” pero recuerde que no es tocar la puerta “por tocar”, sino
+de indagar si existe alguna vivienda. De no lograr información se debe continuar con el censo del resto de
+viviendas; no debe perjudicar el avance del censo. En esta tarea el/la Jefe de Sección puede apoyar en el
+tocado de puertas para asegurar la cobertura de viviendas en su sección censal.
+También puede presentarse el caso contrario: que figuren en su listado como viviendas particulares, pero no
+lo son puesto que fueron registradas como tales erróneamente en la etapa precensal.
+En tal sentido se pueden presentar los casos siguientes:
+Caso 1: Si el/la Censista en su recorrido encuentra una vivienda particular que NO está en su listado de
+viviendas DEBE CENSARLA OBLIGATORIAMENTE; caso contrario se estaría omitiendo a la
+vivienda y las personas que la ocupan, lo que traería como consecuencia presentar una tasa de
+omisión censal.
+Caso 2: Si el/la Censista, durante su recorrido, detecta que una puerta que es otro tipo de registro (puerta
+falsa, puerta de garaje, puerta de almacén, entre otros) en su listado de viviendas, resulta ser una
+vivienda particular entonces debe editar la condición de uso local de esta puerta, en el marco de
+trabajo del aplicativo CENSOS2025. Luego DEBE CENSARLA OBLIGATORIAMENTE; caso
+contrario se estaría omitiendo a la vivienda y las personas que la ocupan, lo que traería como
+consecuencia tener una tasa de omisión censal, la misma que se debe evitar.
+Caso 3: Si el/la Censista según su listado se dirige a tocar la puerta de una vivienda particular y después
+de realizar el sondeo se da cuenta de que se trata de otro tipo de registro (puerta falsa, puerta de
+garaje, puerta de almacén, entre otros) entonces deberá seleccionar en la P-14. Lugar de
+Empadronamiento de la Sección I, la alternativa 5. Otro (Especifique) y registrará: PUERTA FALSA,
+PUERTA DE GARAJE, PUERTA DE ALMACÉN, entre otros, según corresponda. Luego, en la
+ventana de Entrevista y Supervisión, finalizará la visita con el código de resultado 9. Otro y digitará
+el uso de local que tiene actualmente.
+Caso 4: Si el/la Censista en su recorrido encuentra que la vivienda particular de su listado es en realidad
+una vivienda colectiva, en este caso debe seleccionar la alternativa 3. Vivienda colectiva de la P14 Lugar de Empadronamiento y debe censarla SIEMPRE Y CUANDO ALBERGUE HASTA 20
+PERSONAS; de exceder esta cantidad deberá comunicarlo de inmediato al/a la Supervisor/a de
+Sector Censal para que el equipo operativo de Viviendas Colectivas proceda a censarla.
+Para los casos 2, 3 y 4 debe actualizar el Doc.CPV.03.20 Listado de Viviendas del Área de Trabajo Urbano o
+Doc.CPV.03.25 Listado de Viviendas del Área de Trabajo Rural según corresponda, con el fin de llevar el
+control de las viviendas a trabajar.
+4.2.5 IDENTIFICACIÓN DE VIVIENDAS MULTIFAMILIARES NUEVAS
+El/La Jefe/a de Sección Censal debe monitorear y hacer seguimiento al/a la Censista para tomar
+conocimiento si en su recorrido encuentra una vivienda multifamiliar (edificio y/o condominio) que no está
+dentro del listado de viviendas y por ende en el marco de trabajo del aplicativo.
+Si el número de viviendas particulares que tiene la vivienda multifamiliar nueva no afecta la carga de viviendas
+del/de la Censista en su periodo de trabajo, deberá dar la instrucción de que sean censadas. Caso contrario,
+si este número de viviendas particulares es relevante y afectará el cumplimiento de la carga del/de la
+Censista, entonces el/la Jefe/a de Sección Censal, previa coordinación y visto bueno del/ de la Supervisor/a
+de Sector Censal, tendrá que reasignarla como carga para el equipo de trabajo y se censarán todas las
+viviendas particulares de la nueva vivienda multifamiliar.
+Para ello, debe seguir las instrucciones sobre reasignación establecidas en el Doc.CPV.08.14 Manual de
+Reasignación de Carga.
+En el caso de que se requiera el apoyo de dos (2) o más equipos de trabajo para censar la vivienda
+multifamiliar nueva, el/la Jefe/a de Sección Censal lo reportará al/a la Supervisor/a de Sector Censal,
+brindando la dirección y la cantidad de viviendas para que se realice la programación respectiva.
+Tenga presente que no se puede dejar de censar ninguna vivienda particular o las que se encuentren en una
+vivienda multifamiliar, se debe evitar tener una tasa de omisión censal.
+El/La Jefe/a de Sección Censal debe ser informado por el/la Censista de todos estos casos y otros
+que se puedan presentar para realizar la verificación y validación respectiva. No obstante, debe
+realizar un permanente seguimiento al trabajo del/de la Censista para detectar si se están
+presentando estos casos en campo.
+Jefe/a de Sección Censal
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+35
+4.2.6 IDENTIFICACIÓN Y EVALUACIÓN DEL NIVEL DE SEGURIDAD EN LAS ÁREAS DE TRABAJO ASIGNADAS
+a. En el área urbana o rural, el/la Jefe/a de Sección Censal debe tomar conocimiento por parte del/de la
+Supervisor/a de Sector Censal, quien se reunió con las autoridades locales, sobre la identificación de
+manzanas que presentan inseguridad ciudadana (delincuencia, narcotráfico, terrorismo, entre otros);
+además de tener en cuenta lo encontrado al respecto cuando realizó el reconocimiento de las ATUs
+asignadas en el terreno correspondientes al primer y segundo periodo.
+b. No obstante, este “mapeo” debe ser permanente y así establecer estrategias de resguardo y seguridad al
+personal de campo. A continuación, se presentan algunas estrategias:
+i. Tomar conocimiento de las coordinaciones realizadas con las fuerzas policiales por parte del/de la
+Supervisor/a de Sector Censal según corresponda; de tal forma que el personal pueda cumplir su
+trabajo sin contratiempos.
+ii. Realizar las coordinaciones como Jefe/a de Sección Censal con las Fuerzas Policiales o Serenazgo
+del ámbito a trabajar (comisaria, serenazgo o similares) para solicitar acompañamiento a su equipo
+iii. Reasignar la carga de trabajo en las áreas de trabajo que presentan peligrosidad para los/las Censista
+a su cargo. Se podrá realizar “barridos”, como estrategia, previa coordinación y autorización del/de la
+Supervisor/a de Sector Censal.
+c. Para realizar este “mapeo” debe observar o indagar con los habitantes del lugar:
+i. Si existen personas que se encuentran en condiciones de alcoholismo, drogadicción, de forma
+permanente en las manzanas (área urbana) o centros poblados (área rural).
+ii. Refieren un alto índice de delincuencia: robos al paso, robo en viviendas, asalto a las personas,
+extorsión, secuestros, entre otros.
+iii. Sitios considerados como zonas rojas: terrorismo, narcotráfico, trata de personas.
+iv. Otros, que se puedan identificar según la indagación, que, con sutileza, realice a los vecinos del
+ámbito de trabajo.
+4.2.7 SEGUIMIENTO DEL e-CENSO O CENSO EN LÍNEA (CÓDIGO ÚNICO DE VIVIENDA - CUV)
+El/La Jefe/a de Sección Censal deberá monitorear la cobertura de viviendas a las que, los/las Censistas a su
+cargo, entregaron el Código Único de Vivienda (CUV) para que realicen el censo mediante el e-Censo o Censo
+en línea.
+Asimismo, debe verificar que esta entrega se haya realizado de acuerdo a los parámetros establecidos:
+• Vivienda Ausente: si luego de reiteradas visitas a la vivienda, en días y horarios diferentes; y de sondear la
+situación de ocupación de la vivienda con los vecinos para lograr un censo de manera presencial, se
+registra como resultado de visita el código 4. Ausente, por tercera vez, entonces se podrá entregar el CUV.
+• Vivienda con Rechazo: si luego de la segunda visita a la vivienda, en días y horarios diferentes; para lograr
+un censo de manera presencial, se registra como resultado de visita el código 3. Rechazo, por segunda
+vez, entonces se podrá entregar el CUV para que puedan censarse a través del e-Censo.
+• Informante solicita el Censo en Línea: es cuando en la visita a la vivienda el Informante de manera
+“espontánea” solicita censarse por el e-Censo.
+• Vivienda se autocensará con CUV entregado por Call Center de los Censos Nacionales: en este caso el/la
+Censista no entregó el CUV, sino que el/la Informante solicitó el CUV llamando al Call Center. El/La Jefe/a
+de Sección Censal deberá realizar el seguimiento a fin de que el/la Censista retorne las veces que sean
+necesarias para que el/la Informante Calificado/a del hogar de la vivienda complete la información.
+Enfatice a los/las Censistas sobre la importancia de entregar el CUV solo en las situaciones antes
+mencionadas, YA QUE DEBE PRIORIZAR QUE EL CENSO SE REALICE DE MANERA PRESENCIAL, agotando
+todos los medios posibles, para asegurar que se complete al 100% la información de las viviendas y la
+población. Inclusive, se puede presentar el caso en el que realice el censo de manera presencial a solicitud
+del Informante a pesar de haber entregado previamente el CUV.
+Si se observa que el/la Censista, para el ATU o ATR asignado en el periodo de trabajo, presenta un alto número
+de viviendas a las que se entregó el CUV debe verificarlas, porque podría estar realizando una mala práctica
+utilizando esta entrega como un “comodín” para no realizar el censo de manera presencial.
+El/La Jefe/a de Sección Censal debe ser informado por el/la Censista de todos estos casos
+y otros que se puedan presentar para realizar la verificación y validación respectiva.
+Jefe/a de Sección Censal
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+36
+4.2.8 COORDINACIÓN PARA LA EJECUCIÓN DEL CENSO EN VIVIENDAS MULTIFAMILIARES
+El objetivo de esta tarea es realizar las acciones pertinentes para censar a todas las viviendas particulares de
+los edificios y condominios (viviendas multifamiliares) y a los residentes que viven en ellas, es decir, facilitar
+el ingreso y trabajo de los/las Censistas en este tipo de viviendas.
+Para ello, previamente se debe contar con un oficio dirigido al presidente, administrador o representante de
+la Junta de Propietarios de estas viviendas multifamiliares, que debe ser gestionado por el/la Supervisor/a de
+Sector Censal con la debida anticipación.
+Para conocer anticipadamente el número de oficios a elaborar y tramitar, anticipadamente en la revisión en
+gabinete de la documentación de croquis y listados realizada por el/la Jefe/a de Sección (acápite 4.1.4 del
+presente manual) se debe verificar la existencia de estas viviendas multifamiliares e informar a la brevedad
+al/a la Supervisor/a de Sector Censal, quien coordinará la elaboración de estos documentos con el/la
+Coordinador/a de Subsede Departamental, siendo este el encargado de firmarlas.
+En el oficio debe especificarse el nombre de la vivienda multifamiliar y de no contar con este, será
+denominada de forma general; asimismo debe explicar los objetivos de los Censos Nacionales 2025 y dejar
+en claro que toda la información que se brinde es de carácter confidencial y solicitar amablemente el ingreso
+para realizar el Censo.
+En la ejecución de esta tarea debe tener presente las siguientes instrucciones:
+a. En la vivienda multifamiliar, el/la Censista deberá presentarse como funcionario/a del INEI, y entregar el
+Oficio de presentación correspondiente, de lograrse el acceso debe de comenzar con el censo hasta
+finalizarlo. Tal vez sea necesario coordinar una o más visitas a la vivienda multifamiliar, lo que estará en
+función de la carga de viviendas que le han asignado y si tiene la facilidad para el acceso.
+b. Si para el ingreso a la vivienda multifamiliar la Junta Directiva o Empresa Administradora, solicita que se
+emita un oficio más personalizado, el/la Censista debe informar al/a la Jefe/a de Sección Censal, este
+informará al/a la Supervisor/a de Sector Censal, personal quien a su vez debe gestionar la generación de
+este oficio a la brevedad posible.
+c. El/La Jefe/a de Sección Censal debe realizar seguimiento a las solicitudes de elaboración de oficios
+personalizados, para entregar a los responsables de las Viviendas Multifamiliares en coordinación con
+los Censistas.
+d. El/La Jefe/a de Sección Censal debe llevar un control de aquellas viviendas multifamiliares en las que se
+entregaron oficios, hasta obtener una fecha para el ingreso de los Censistas y ejecutar el Censo.
+e. Puede presentarse el caso, que la junta de propietarios o empresa administradora de la vivienda
+multifamiliar acepte la ejecución del Censo, en un breve plazo (Ejem: un solo día), entonces el/la Jefe/a
+de Sección Censal deberá de reasignar la carga de trabajo entre los/las Censistas a su cargo y monitorear
+la actividad hasta verificar que se haya censado al 100% de las viviendas y su población.
+Si la respuesta por parte de la Junta de Propietarios o Empresa Administradora de la vivienda multifamiliar
+es ejecutar el Censo en fecha que no comprende el periodo de trabajo, el/la Jefe/a de Sección Censal
+deberá comunicar al/a la Supervisor/a de Sector Censal para poder avanzar con la carga del siguiente
+periodo.
+f. El reporte de las coordinaciones se realizará a través de los medios que serán comunicados al/a la Jefe
+de Sección Censal, con la finalidad de realizar el seguimiento de la programación para que el personal
+pueda realizar el trabajo de campo.
+4.2.9 VIVIENDAS QUE EN CAMPO NO GUARDAN CONSISTENCIA CON EL LISTADO DE VIVIENDAS Y MARCO DE
+TRABAJO EN EL ÁREA URBANA
+Para iniciar el trabajo operativo y orientarse en el terreno el/la Censista utilizará los siguientes documentos:
+los croquis de las áreas de trabajo, los listados de viviendas y el marco de trabajo del aplicativo.
+El/LaCensista, en campo, ubicará el punto de inicio para iniciar su recorrido utilizando el Listado de viviendas
+como referencia, así como el archivo KMZ; luego debe censar a todas las viviendas en orden secuencial, es
+decir tal como que se encuentran ubicadas, in situ, dentro de su Área de Trabajo.
+En el desarrollo de su trabajo, el/la Jefe/a de Sección Censal debe estar alerta de los casos atípicos que
+pueden encontrar el/la Censista durante el recorrido del Área de Trabajo, tales como:
+La tarea de coordinación para el ingreso y registro de las viviendas multifamiliares es
+importante y muy seria, debe ejecutarse de forma responsable y minuciosamente. El tiempo
+que tome coordinar el ingreso a la vivienda multifamiliar debe ser rápido, por ello es
+necesario explicar bien los objetivos. No se puede tomar como “excusa” para alargar el
+trabajo en campo.
+Jefe/a de Sección Censal
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+37
+Caso 1: La carga de trabajo está ubicada en zonas periféricas que no cuentan con datos de dirección
+Si la carga de trabajo asignada al/a la Censista está ubicada en periferia o asentamiento humanos donde la
+mayoría las viviendas no tienen direcciones definidas: Calle SN, Pasaje SN, Número de Puerta SN, entre
+otros, entonces para ubicar las viviendas podría consultar con los vecinos por el nombre y apellido de los/las
+Responsables delHogar que figuran en el listado de viviendas, para encontrar un punto de referencia, y ubicar
+a las viviendas que figuran en el listado.
+Si tampoco obtienen referencias de los/las vecinas para ubicar algún Responsable del Hogar, a partir del cual
+el/la Censista pueda orientarse y ubicar la vivienda en la que debe iniciar su recorrido, entonces iniciará su
+trabajo según el orden que se encuentren ubicadas las viviendas en campo e iniciará con la vivienda Nº 0001
+que figura en el aplicativo.
+Ejemplo:
+▪ El Censista Elmer al visualizar su Marco de Trabajo (tableta) y Listado de viviendas (documento impreso)
+(Ver 1), observa que las viviendas están ubicadas en vías que no tienen Nombre (SN) y las puertas que
+existe en estas vías no tienen número de placa, ni número de manzana y tampoco número de lotes.
+▪ Al llegar al área de trabajo, in situ, verifica que efectivamente, ninguna de las viviendas cuenta con datos
+de dirección (Ver 2); al consultar con los/las vecinos/as por el dato referencial de los nombres y apellidos
+de los/las Responsables de Hogar de su Listado de viviendas, no obtiene ninguna referencia que le
+permita ubicar un punto de inicio que lo oriente para comenzar el recorrido en el área de trabajo.
+▪ En este caso, el/la Censista deberá ubicarse en la primera vivienda de la manzana con la que según el
+Listado de viviendas debe iniciar su trabajo (Ver 3) y en la pantalla del Marco de Trabajo del aplicativo
+CENSOS2025 seleccionará la vivienda 0001 (Ver 4) para iniciar con el Censo; luego debe continuar con
+la siguiente vivienda consecutiva, y proseguir según el orden secuencial en el que se encuentran las
+viviendas, SIN OLVIDAR NINGUNA VIVIENDA.
+2
+3
+4
+1
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+38
+Caso 2: Viviendas continuas con numeración desordenada:
+Si en una zona consolidada el orden de las viviendas del Listado de viviendas (documento impreso) y el Marco
+de Trabajo del aplicativo CENSOS2025 no coincide por encontrar en campo, cierto desorden de ubicación
+de las viviendas, entonces deberá censarlas en el orden que se encuentre en campo. Y en la pantalla del
+Marco de Trabajo del aplicativo CENSOS2025 (tableta) deberá ingresar los datos en la fila del número de
+vivienda que le correspondan. Censar a las viviendas según su ubicación física es crucial para mantener el
+orden de ubicación de las mismas.
+Ejemplo:
+• El Censista Miguel, en campo, observa que la primera vivienda a censar es aquella que tiene número de
+puerta 115 la cual coincide con el Listado de Viviendas (documento impreso) y el Marco de Trabajo del
+aplicativo (tableta), realizando la recopilación de los datos censales.
+• Al continuar su recorrido, en campo, observa que la segunda vivienda a censar es la que tiene número de
+puerta 105 (Ver 1); pero en su Listado de viviendas (documento en físico) y el Marco de trabajo del
+aplicativo (tableta) esta se encuentra en la ubicación 0003 (Ver 2).
+• Entonces para censar la vivienda con número de puerta 105 deberá de seleccionar la fila en la que se
+encuentra ubicada según el Marco de Trabajo del aplicativo (tableta) (Ver 3). Inmediatamente aparecerá
+la ventana emergente Opciones y seleccionará la opción Ir a Cuestionario (Ver 4); en la P13.1
+Georreferenciación deberá dar un toque en el botón GPS (Dispositivo) (Ver 5) en la puerta de la vivienda
+N°105, seleccionar el botón Aceptar para que se registre el punto GPS (Ver 6) y seguir con el
+diligenciamiento correspondiente.
+• De esta forma la georreferenciación de la vivienda estará corrigiendo la ubicación de la misma a pesar de
+que en el Listado de viviendas (documento impreso) y el Marco de trabajo del aplicativo tiene ubicación
+0003.
+2
+1
+3
+4
+6
+5
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+39
+Caso 3: Vivienda No Existe en Campo:
+Si durante el recorrido el/la Censista no logra ubicar una vivienda que figura en su Listado de viviendas
+(documento impreso) y Marco de Trabajo del aplicativo (tableta); y después de verificar en campo confirma
+que la vivienda no existe, deberá ingresar al aplicativo CENSOS2025, seleccionará la fila correspondiente a
+la vivienda y en la ventana emergente Opciones dar un toque en Ir a Cuestionario; en la P-14 de la Sección I,
+asignará el código 5. Otro donde especificará Vivienda No Existe (Ver 1) y dará un toque en el ícono del
+disquete (Ver 2) para guardar la información registrada; el aplicativo lo direccionará a la pantalla de Entrevista
+y Supervisión mostrando por defecto la hora de inicio (Ver 3).
+Para finalizar la visita dar un toque en el botón Terminar (Ver 4) mostrándose la ventana emergente Terminar
+Visita; luego en el recuadro Resultado seleccione el código 9. Otro (Ver 5) y especifique Vivienda No Existe
+(Ver6). Luego proceda dar un toque en el botón GPS (Ver 7) para capturar la ubicación; finalmente de un toque
+en el botón Aceptar (Ver 8); en la ventana Terminar Visita también deberá dar un toque en el botón Aceptar
+(Ver 9) y se mostrará en la ventana Entrevista y Supervisión los datos ingresados (Ver 10).
+Estos casos deberán ser verificados en campo por el/la Jefe/a de Sección Censal.
+5
+6
+7
+8
+5
+1
+2
+3
+4
+10
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+40
+Ejemplo:
+• La Censista María al ubicarse en el punto de inicio de su área de trabajo observa en campo que la primera
+y segunda vivienda que le corresponde censar según su listado (documento en físico) y Marco de Trabajo
+(aplicativo) es la vivienda con dirección Mz. A Lt. 8 y Mz. A Lt. 7 respectivamente, procediendo a realizar
+el respectivo Censo.
+• Al continuar con la tercera vivienda en campo observa que tiene la dirección Mz. A Lt. 6 (Ver 1) pero
+observando su listado (documento en físico) y Marco de Trabajo (aplicativo) esta tercera tiene como
+dirección Mz. A Lt. 9 (Ver 2) y la Mz. A Lt. 6 corresponde a la cuarta vivienda (Ver3). La Censista realiza el
+respectivo sondeo con los vecinos preguntando por la existencia de la vivienda con dirección Mz. A Lt. 9
+y como dato solo de referencia por el nombre del Responsable del Hogar; llegando a la conclusión que
+esa vivienda NO EXISTE, dando aviso inmediatamente a su Jefe de Sección Censal para que realice la
+verificación y conformidad del caso.
+• Después de la conformidad de su Jefe de Sección Censal el Censista se posicionará en campo entre las
+viviendas con ubicación 002 y 003; dando un toque prolongado en el aplicativo en la fila de la Viv. 0003
+(Ver 4) del marco de trabajo del aplicativo CENSOS2025, aparecerá la ventana emergente Opciones
+seleccionando Ir a Cuestionario (Ver 5). En la P-13.1 Georreferenciación deberá dar un toque en el botón
+GPS (Dispositivo) (Ver 6), seleccionar el botón Aceptar para que se registre el punto GPS (Ver 7).
+• En la P-14 Lugar de Empadronamiento deberá dar un toque en la alternativa 5. Otro (Ver 8) y especifique
+VIVIENDA NO EXISTE (Ver 9); el aplicativo inmediatamente te llevará a la pantalla Entrevista y Supervisión
+(Ver 10) donde deberá dar un toque en el botón Terminar para concluir la visita (Ver 11) apareciendo la
+ventana emergente Termino de Visita y en el recuadro Resultado seleccionar el código 9. Otro (Ver 12) y
+especifique VIVIENDA NO EXISTE.
+• Seguidamente dar nuevamente un toque en el botón GPS (Ver 13) para el registro del punto GPS y dar un
+toque en el botón Aceptar (Ver 14), se mostrará la ventana Entrevista y Supervisión, en la sección
+Resultado Final de la Encuesta se muestra el estado final “Vivienda No Existe” (Ver 15).
+1
+2
+3
+4
+5
+7
+6
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+41
+4.2.10 TRANSFERENCIA DE DATOS DE LA INFORMACIÓN CENSAL
+El/La Jefe/a de Sección Censal debe monitorear que cada Censista de su equipo de trabajo realice la
+transferencia de los datos al Servidor INEI, una vez terminada la visita a la vivienda especialmente de
+aquellos/as que se encuentren en el área rural.
+4.2.11 VERIFICACIÓN DE LA TRANSFERENCIA DE INFORMACIÓN EN TIEMPO REAL
+El/La Jefe/a de Sección Censal deberá verificar que el envío de los archivos transferidos por los/las
+Censistas figure en el Sistema de Monitoreo y corroborará que coincida con el reporte diario del/de la
+Censista.
+Si en campo la dirección de la vivienda a censar coincide con lo que se muestra en el Listado
+de viviendas (documento impreso) y el Marco de Trabajo del aplicativo (tableta) pero no es
+coincidente con los datos del/de la Responsable de hogar, por tratarse de un inquilino o
+propietario nuevo o en la etapa precensal se dio el nombre del propietario de la vivienda,
+pero no de quien la ocupa entre otros, igual DEBE CENSARLA OBLIGATORIAMENTE.
+Recuerde que el objetivo es censar la vivienda y a los residentes que la ocupan.
+Jefe/a de Sección Censal
+8
+9
+10
+11
+12
+14
+13
+15
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+42
+4.2.12 SEGUIMIENTO AL RECORRIDO DENTRO DEL ÁREA DE TRABAJO POR EL PERSONAL DE CAMPO EN
+TIEMPO REAL
+El/La Jefe/a de Sección Censal mediante el Sistema de Monitoreo de los Censos Nacionales 2025 hará el
+seguimiento a los/las Censistas de su equipo, a fin de comprobar en tiempo real la ubicación y el recorrido
+que realiza durante la jornada diaria de trabajo de campo dentro de su ATU o ATR.
+Las utilidades del seguimiento de la geolocalización del/de la Censista en campo son:
+a. Registro de horario: permitirá conocer, en tiempo real, el desplazamiento del personal de campo a sus
+áreas de trabajo y del mismo modo, se podrá verificar si el personal se encuentra presente dentro o
+fuera de su área de trabajo.
+b. Control de la actividad laboral: se podrá conocer si la producción diaria de viviendas censadas se
+encuentra dentro de su área de trabajo asignado.
+c. Efectividad del trabajo: también se podrá conocer en tiempo real si los/las Censista/s regresan a sus
+áreas de trabajo para realizar la recuperación.
+4.2.13 SEGUIMIENTO DEL AVANCE DE COBERTURA
+El/La Jefe/a de Sección Censal en el Sistema de Monitoreo de los Censos Nacionales 2025 hará el
+seguimiento a los/las Censistas de su equipo para tomar conocimiento del avance de la cobertura de
+viviendas y conocer el resultado de las visitas o de las entrevistas; para esto se le brindará un usuario y
+contraseña con el cual podrá ingresar al sistema web.
+4.2.14 USO DE LOS MÓDULOS OPERATIVOS
+El/La Jefe/a de Sección Censal hará uso de módulos para desempeñar distintas tareas y que estarán
+contenidos en el aplicativo SUPERVISIONCENSOS2025, siendo los siguientes:
+a. Módulo de Supervisión: se utilizará para llevar a cabo las actividades de supervisión, tanto de manera
+presencial (a través de la observación directa) como no presencial (mediante reentrevistas), durante el
+desarrollo de la operación de campo en áreas urbanas y rurales, según corresponda.
+Es importante tener en cuenta que la descripción detallada del funcionamiento y uso de este módulo
+se encuentra en el Doc.CPV.08.13A Instructivo de Módulos del Jefe de Sección (Supervisión).
+b. Módulo de Reasignación: el/la Jefe/a de Sección Censal podrá realizar la reasignación de viviendas de
+un censista a otro censista de su sección o de otra sección como estrategia para lograr una total
+cobertura en el ámbito asignado. Esta acción debe de ser informada y validada por el/la Supervisor/a de
+Sector Censal ya que será el/la encargado de autorizar la reasignación según los procedimientos
+detallados en el Doc.CPV.08.14 Manual de Reasignación de Carga.
+c. Módulo de Bajas: El/la Jefe/a de Sección Censal tiene la facultad de registrar las bajas del personal que
+tiene a su cargo. Asimismo, debe informar oportunamente a su jefe/a inmediato/a para que se realicen
+los procedimientos correspondientes.
+La descripción detallada de los Módulos de Reasignación y de Bajas se encuentra en el Doc.CPV.08.14
+Manual de Reasignación de Carga.
+4.2.15 RECUPERACIÓN DE VIVIENDAS PARTICULARES
+Tanto para el área urbana y rural durante el periodo de trabajo, se tendrán designados dos (2) días para
+realizar la recuperación de aquellas viviendas que durante este periodo de trabajo obtuvieron como
+resultado: ausente, rechazo y/o incompleto.
+Por lo tanto, el/la Jefe/a de Sección Censal debe monitorear que los/las Censistas realicen esta tarea de
+forma eficiente y estratégicamente, volviendo a visitar las viviendas, las veces que sean necesarias durante
+estos dos (2) días de recuperación, lo que será relevante para lograr una cobertura con resultado
+“Completa” de las viviendas censadas.
+4.2.16 SEGUIMIENTO SOBRE EL REGISTRO DE LAS CONSULTAS
+El/La Jefe/a de Sección Censal y los/las Censistas ingresarán al Asistente Virtual YANAPAQ 2025, el cual
+se encontrará instalado en su tableta asignada. En este aplicativo se realizarán las consultas sobre
+casuísticas encontradas en la operación de campo. De manera opcional, podrá instalar este aplicativo en
+su computadora o laptop, así como podrá acceder desde su celular personal, según los procedimientos
+detallaos en el Doc.CPV.08.10 Instructivo del Asistente Virtual YANAPAQ.
+Las consultas realizadas deben estar relacionadas con casos particulares que no estén contempladas en
+los manuales de procedimientos.
+Sobre la base de las consultas registradas al Asistente Virtual YANAPAQ 2025, el/la Jefe/a de Sección
+Censal debe reunirse y retroalimentar su equipo de trabajo.
+Tareas del/de la Jefe/a de Sección Censal Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+43
+4.2.17 VERIFICACIÓN DE OMISIÓN DE VIVIENDAS
+El/La Jefe/a de Sección Censal verificará que en la ruta asignada por periodo (ATU / ATR) de los/las
+Censistas no exista omisión de viviendas. Deberá verificar en campo lo siguiente:
+a. Omisión de viviendas en establecimientos: el/la Jefe/a de Sección Censal preguntará en los
+establecimientos si existen viviendas particulares. De presentarse omisión de viviendas se le
+comunicará inmediatamente al censista para que trabaje las viviendas omitidas.
+b. Omisión de viviendas particulares en viviendas multifamiliares: el/la Jefe/a de Sección Censal
+preguntará al encargado / administrador de la vivienda multifamiliar si existe alguna vivienda particular
+sin censar, de presentarse omisión de viviendas se comunica de manera inmediata al censista para que
+trabaje las viviendas omitidas.
+4.3 DESPUÉS DE LA OPERACIÓN DE CAMPO
+
+4.3.1 AL CONCLUIR EL PERIODO DE TRABAJO
+Constituido el/la Jefe/a de Sección Censal y sus Censistas en la Oficina de Subsede Departamental Censal,
+después de haber cumplido con la carga de trabajo del periodo, deberá de efectuar las siguientes tareas:
+A. VERIFICACIÓN DE LA TRANSFERENCIA DE DATOS
+Al término de cada periodo de trabajo, deberá verificar y asegurar que los/las Censistas a su cargo hayan
+transferido el 100% de los datos recopilados. Para ello debe ingresar al Sistema de Monitoreo.
+B. RENDICIÓN DE CUENTAS DE LOS GASTOS OPERATIVOS
+Al finalizar cada periodo de trabajo, el/la Jefe/a de Sección Censal y los/las Censistas se apersonarán a
+la Oficina de Subsede Departamental Censal para entregar las rendiciones de cuentas de los gastos
+operativos otorgados (si fuese el caso). Esta tarea es muy importante, para poder tramitar la sustentación
+de los gastos otorgados.
+C. PRESENTACIÓN DEL INFORME DE OPERACIÓN DE CAMPO
+El/La Jefe/a de Sección Censal tendrá la responsabilidad de elaborar un reporte mensual sobre las
+incidencias y avances de operación de campo en su jurisdicción. Este informe se desarrollará conforme
+al formato estandarizado establecido y que será remitido por el Área Técnica de Operación de Campo, el
+cual tendrá la siguiente estructura:
+- Reporte de la PEA a cargo: documentación detallada del personal a cargo durante la operación de
+campo, incluyendo información de las altas y bajas presentadas, así como las estrategias
+implementadas para la distribución de la carga laboral ante las renuncias presentadas.
+- Resultados de la supervisión presencial y no presencial: registro de los hallazgos identificados
+durante las actividades de supervisión, con énfasis en la identificación de patrones recurrentes de
+errores, documentación de buenas prácticas implementadas y descripción de las medidas
+correctivas aplicadas. El informe incorporará indicadores de cumplimiento y una evaluación
+cualitativa del desempeño operativo del personal censal.
+- Gestión en las sedes censales: seguimiento detallado de la gestión realizada para las coordinaciones
+de la seguridad censal, acceso a viviendas multifamiliares y actividades de difusión censal. Se
+documentará el estado actual de cada acuerdo y el nivel de cumplimiento de los compromisos
+establecidos.
+- Procesos de reasignación: registro de las reasignaciones de carga de trabajo efectuadas,
+particularmente en casos de viviendas multifamiliares y áreas identificadas como peligrosas. Se
+especificarán los procedimientos implementados, criterios aplicados y resultados obtenidos en cada
+intervención.
+- Evaluación de cobertura: presentación de reportes sobre el avance de cobertura de la operación de
+campo, fundamentados en el análisis de los indicadores proporcionados por el Sistema de Monitoreo,
+identificando áreas críticas y presentando proyecciones de cumplimiento con sus respectivos
+sustentos. Así mismo, detallará la cobertura de las viviendas en donde se entregó el Código Único de
+Vivienda para el censo en línea.
+4.3.2 AL CONCLUIR LA OPERACIÓN DE CAMPO
+En el último periodo de trabajo con el que se concluye el Operativo de Campo se realizará las instrucciones
+del ítem. 4.3.1, ítem B; adicionalmente se tendrá que realizar las siguientes tareas:
+
+A. DEVOLUCIÓN DE LOS EQUIPOS (TABLETAS) Y ACCESORIOS CENSAL
+El/La Jefe/a de Sección Censal y los/las Censistas devolverán la tableta y sus accesorios en buen estado
+haciendo uso del cargo con el que se recepcionaron los mismos, al inicio del desarrollo de su trabajo.
+Esta entrega es personal y es el/la Coordinador/a Departamental Censal quien los recibirá.
+Capítulo 04 Tareas del/de la Jefe/a de Sección Censal
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+44
+El/La Jefe de Sección Censal debe de monitorear que los cuatros (4) Censistas a su cargo realicen esta
+entrega de forma ordenada y sin inconveniente alguno.
+El embalaje de los equipos y sus accesorios se realizará de forma independiente a los legajos
+recepcionados.
+B. DEVOLUCIÓN DE LOS LEGAJOS Y MATERIALES CENSALES
+El/La Jefe/a de Sección Censal para ejecutar y supervisar la devolución de los legajos y materiales
+censales debe tener en cuenta las siguientes instrucciones:
+a. El/La Censista embalará toda la documentación a devolver en una sola bolsa y estará rotulada con el
+nombre de la sede departamental censal, subsede departamental censal, sus nombres, apellidos y
+número de ruta.
+Al interior de esta bolsa deberá ingresar:
+i. Las bolsas de los legajos entregados para cada periodo de trabajo, es decir, debe contener lo
+correspondiente a los cinco (5) periodos de trabajo. Por lo tanto, la bolsa del legajo, según el área
+urbana o rural trabajada en el periodo de trabajo debe contener:
+• Área urbana
+- Doc.CPV.03.21 Croquis del Área de Trabajo Urbano (documento impreso)
+- Doc.CPV.03.20 Listado de Viviendas del Área de Trabajo Urbano (documento impreso)
+• Área rural
+- Doc.CPV.03.26 Croquis del Área de Trabajo Rural (documento impreso)
+- Doc.CPV.03.25 Listado de Viviendas del Área de Trabajo Rural (documento impreso)
+ii. Los documentos auxiliares no utilizados
+• Carta de Presentación
+• Nota de Visita
+• Etiqueta de Vivienda Censada
+iii. Indumentaria: credencial
+El/La Jefe/a de Sección Censal recibirá de cada Censista a su cargo la bolsa embalada por este último;
+luego ambos firmarán un cargo que especifique los materiales y documentos devueltos (Censista) y
+recepcionados (Jefe/a de Sección Censal) como constancia de conformidad.
+b. El/La Jefe/a de Sección Censal embalará su documentación en una sola bolsa y estará rotulada con
+el nombre de la sede departamental censal, subsede departamental censal, sus nombres, apellidos
+y número de sección censal. La documentación dentro de la bolsa deberá tener el orden siguiente:
+• Área urbana
+- Doc.CPV.03.19 Croquis de la Sección Censal Urbana (documento impreso).
+- Doc.CPV.03.208 Resumen de la Sección Censal Urbana (documento impreso).
+• Área rural
+- Doc.CPV.03.30 Croquis de la Sección Censal Rural (documento impreso).
+- Doc.CPV.03.209 Resumen de la Sección Censal Rural (documento impreso).
+Los documentos auxiliares no utilizados
+• Carta de Presentación
+• Oficios personalizados para las Viviendas Multifamiliares (Condominio y Edificio).
+• Nota de Visita
+• Etiqueta de Vivienda Censada
+También se devolverá la credencial que lo/la identifica.
+c. El/La Jefe/a de Sección Censal embalará las bolsas de los/las Censistas a su cargo y la de él/ella en
+una sola bolsa, la misma que deberá estar debidamente rotulada e identificada por sede
+departamental censal, subsede departamental censal y número de sección censal a la que
+pertenece, una vez que tenga todo embalado, lo entregará al/a la Supervisor/a de Sector Censal.
+B. ELABORACIÓN DEL INFORME FINAL DEL/DE LA JEFE/A DE SECCIÓN CENSAL
+El/La Jefe/a de Sección Censal después del término de la actividad censal entregará a su Supervisor de
+Sector Censal un Informe Final que dé cuenta de las tareas ejecutadas en campo. La estructura del
+Informe Final es la misma que el Informe presentado en cada mes de trabajo de la operación de campo,
+con la diferencia de que realizará el consolidado de todo el operativo censal, ofreciendo una visión
+integral y analítica del proceso censal en su totalidad.
+Monitoreo y Seguimiento de la Operación de Campo Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+45
+05
+MONITOREO Y SEGUIMIENTO DE LA OPERACIÓN
+DE CAMPO
+El/La Jefe/a de Sección Censal como parte de sus tareas tiene que realizar el monitoreo y seguimiento del avance de
+cobertura del trabajo de campo, así como de la calidad de los datos obtenidos por los/las Censistas a su cargo.
+
+5.1 SISTEMA DE MONITOREO DE LOS CENSOS NACIONALES 2025
+El Sistema de Monitoreo es una plataforma web diseñada como herramienta de gestión operativa que permite
+visualizar información clave sobre el desempeño censal. Facilita la toma de decisiones oportunas, la
+implementación de estrategias y la aplicación de medidas correctivas durante el desarrollo del censo.
+Este sistema proporciona datos actualizados sobre la producción individual de los/las Censistas, el avance de la
+cobertura y la calidad de los datos recolectados en cada Sección Censal.
+
+5.2 ACCESO Y NAVEGACIÓN DEL SISTEMA DE MONITOREO
+Dado el volumen de información disponible en el Sistema de Monitoreo, se ha desarrollado una vista simplificada
+adaptada para dispositivos móviles (tabletas), con el objetivo de facilitar su uso en campo. Esta vista prioriza los
+indicadores más relevantes, agrupados en cuatro reportes esenciales para el seguimiento de los/las Censistas
+asignados a la sección censal.
+El/la Jefe/a de Sección Censal contará con credenciales de acceso tanto al Sistema de Monitoreo por computadora,
+así como como por tableta, las cuales serán proporcionadas por su jefe/a inmediato/a.
+5.3 REPORTES A MONITOREAR
+Los reportes que el/la Jefe/a de Sección Censal podrá visualizar en el Sistema de Monitoreo serán los siguientes:
+5.3.1 SEGUIMIENTO DE AVANCE
+Permite al/a la Jefe/a de Sección Censal monitorear continuamente la cobertura alcanzada por cada
+Censista con contrato activo, asegurando el cumplimiento del cronograma establecido.
+Este reporte muestra los siguientes indicadores:
+ Total y porcentaje de viviendas censadas respecto al marco programado.
+ Total y porcentaje de viviendas con resultado completo, desglosado en:
+• Ocupada
+• Transitoria
+• Línea
+ Total y porcentaje de viviendas con resultado incompleto, desglosado en:
+• Ocupada
+• Transitoria
+• Censo en Línea
+ Total y porcentaje de viviendas que rechazaron, desglosado por:
+• Ocupada
+• Transitoria
+ Total y porcentaje de viviendas con resultado:
+• Ausente
+• No inició entrevista
+• Censo en línea no iniciado
+• Desocupada
+• Transitoria
+• Otro
+El reporte tabular que contiene estos indicadores se mostrará de la siguiente manera:
+ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%) ABS. (%)
+TELÉFONO OCUPADA TRANSITORIA NOMBRES Y TRANSITORIA OTRO
+APELLIDOS ATU/ATR PERIODO
+CAMPO
+NO
+ESPECIFICADO VIVIENDAS
+PROGRAMADAS
+CENSO EN
+LÍNEA NO
+INICIADO OCUPADA TRANSITORIA LÍNEA OCUPADA TRANSITORIA LÍNEA
+COMPLETA INCOMPLETA RECHAZO
+VIVIENDAS CENSADAS SEGÚN RESULTADO DE ENTREVISTA
+NO INICIÓ
+ENTREVIST
+A
+VIVIENDAS
+CENSADAS AUSENTE DESOCUPADA
+DATOS DEL CENSISTA
+DNI
+Capítulo 05 Monitoreo y seguimiento de la Operación de Campo
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+46
+5.3.2 SEGUIMIENTO AL CENSO EN LÍNEA
+Este reporte permite dar seguimiento a las viviendas en donde el/la Censista entregó el Código Único de
+vivienda para el Censo en Línea. La información se actualiza en tiempo real y permite revisar los siguientes
+indicadores:
+ Número de la vivienda registrada en la tableta.
+ Código único de vivienda (CUV) asignado a la vivienda.
+ Total de hogares registrados en la vivienda.
+ Código de seguimiento registrado por Censistas:
+• No inició el e-Censo
+• E-Censo en proceso
+• Autocensado
+• Censo presencial
+ Resultado del censo en línea, según sistema web:
+• Completo
+• En progreso
+• No iniciado
+ Código de finalización de la vivienda.
+ Datos del informante, para hacer el seguimiento:
+• Nombres y apellidos
+• Teléfono fijo
+• Teléfono celular
+• Correo electrónico
+El reporte tabular que contiene estos indicadores se mostrará de la siguiente manera:
+5.3.3 SEGUIMIENTO DE LA VARIACIÓN DE VIVIENDAS Y POBLACIÓN POR MANZANA Y CENTRO POBLADO
+Permite verificar la variación de vivienda y población entre el marco programado y la información recolectada
+a nivel de manzana y centro poblado. El/la Jefe/a de Sección debe validar en campo, especialmente aquellos
+casos con variación negativa.
+El reporte muestra los siguientes indicadores:
+ Estado operativo de la manzana o centro poblado:
+• Cobertura completa
+• Cobertura incompleta
+• En trabajo
+• Por trabajar
+• Por asignar
+ Viviendas programadas en la manzana o centro poblado.
+ Viviendas censadas en la manzana o centro poblado.
+ Variación porcentual de viviendas en la manzana o centro poblado.
+ Población programada en la manzana o centro poblado.
+ Población censada en la manzana o centro poblado.
+ Variación porcentual de población en la manzana o centro poblado.
+ Resultado de verificación de pérdidas de viviendas:
+• Omisión de viviendas
+• Información correcta
+• Sobreestimación de viviendas
+• Observación que explique la pérdida de vivienda.
+ Resultado de verificación de pérdidas de población:
+• Omisión de población
+• Información correcta
+CÓDIGO DE
+FINALIZACIÓN
+VINCULACIÓN DE VIVIENDA CON CENSO EN LÍNEA
+CUV
+NÚMERO DE
+VIVIENDA
+TOTAL DE
+HOGARES
+RESULTADO DEL
+CENSO EN LÍNEA
+CÓDIGOS DE
+SEGUIMIENTO
+DATOS DEL CENSISTA
+DNI
+NOMBRES Y
+APELLIDOS
+ATU/ATR PERIODO
+CAMPO
+TELÉFONO
+DATOS DEL INFORMANTE DE LA VIVIENDA
+NOMBRES
+Y APELLIDO
+TELÉFONO
+FIJO
+TELÉFONO
+CELULAR
+CORREO
+ELECTRÓNICO
+Monitoreo y Seguimiento de la Operación de Campo Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+47
+• Sobreestimación de población
+• Observación que explique la pérdida de población.
+El reporte tabular que contiene estos indicadores se mostrará de la siguiente manera:
+5.3.4 INDICADORES DE RENDIMIENTO Y SEGUIMIENTO AL PERSONAL EN CAMPO
+Este reporte permite al/a la Jefe/a de Sección supervisar el rendimiento diario del personal a su cargo.
+Incluye los siguientes indicadores:
+ Promedio de viviendas trabajadas en un día por el censista:
+• Trabajadas
+• Completas
+• Incompletas
+• Ausentes
+• Desocupadas
+ Tiempo promedio de permanencia en campo.
+ Promedio de visitas por vivienda.
+ Tiempo promedio de entrevista en vivienda ocupada completa.
+El reporte tabular que contiene estos indicadores se mostrará de la siguiente manera:
+5.3.5 INDICADORES DE SEGUIMIENTO AL PERSONAL
+Este reporte permite al/a la Jefe/a de Sección supervisar verificar su ubicación y tomar decisiones de
+reforzamiento durante el operativo si fuese necesario.
+ Información de la tableta:
+• Nivel de carga de la batería
+• Versión instalada del aplicativo informático
+ Información de llegada de la información al servidor:
+• Fecha de llegada
+• Hora de llegada
+Las instrucciones detalladas para el acceso, navegación y visualización de los reportes de los módulos del Sistema de
+Monitoreo se encuentran en la Guía del Usuario del Sistema de Monitoreo de los Censos Nacionales 2025.
+ PROGRAMADAS CENSADAS VARIACIÓN
+PORCENTUAL
+PROGRAMADA CENSADA
+VARIACIÓN
+PORCENTUAL
+RESULTADO DE
+LA
+VERIFICACIÓN
+OBSERVACIONES
+RESULTADO
+DE LA
+VERIFICACIÓN
+OBSERVACIONES
+DNI NOMBRES Y
+APELLIDOS
+TELÉFONO UBIGEO ZONA
+SECCIÓN
+CENSAL
+MANZANA/
+CENTRO
+POBLADO
+DISTRITO
+ESTADO
+DE LA MZ/CCPP
+DATOS DEL JEFE DE SECCIÓN UBICACIÓN GEOGRÁFICA RESULTADO DE LA VERIFICACIÓN
+VIVIENDAS POBLACIÓN
+SEGUIMIENTO DE LA VARIACIÓN DE VIVIENDAS Y POBLACIÓN POR MANZANA Y CENTRO
+POBLADO
+VIVIENDAS POBLACIÓN
+ANEXOS
+
+ ANEXO
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+51
+Anexo 1: Doc.CPV.03.19 CROQUIS DE LA SECCIÓN CENSAL URBANA
+
+ANEXO
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+52
+Anexo 2: Doc.CPV.03.19A CROQUIS SATELITAL DE LA SECCIÓN CENSAL URBANA
+
+
+
+ ANEXO
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+53
+Anexo 3: Doc.CPV.03.206 LISTADO DE VIVIENDAS DE LA SECCIÓN CENSAL URBANA
+
+
+
+Este Listado continua con el resto de
+Viviendas de la Sección Censal Urbana
+ANEXO
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+54
+
+Anexo 4: Doc.CPV.03.208 RESUMEN DE LA SECCIÓN CENSAL URBANA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ANEXO
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+55 Anexo
+5: Doc.CPV.03.104 PROGRAMACIÓN DE RUTA DEL/DE LA JEFE/A DE SECCIÓN CENSAL (EN EL ÁREA URBANA)
+
+ANEXO
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+56
+Anexo 6: Doc.CPV.03.30 CROQUIS DE LA SECCIÓN CENSAL RURAL
+
+
+ ANEXO
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+57
+Anexo 7: Doc.CPV.03.30A CROQUIS SATELITAL DE LA SECCIÓN CENSAL RURAL
+
+ANEXO
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+58
+Anexo 8: Doc.CPV.03.207 LISTADO DE VIVIENDAS DE LA SECCIÓN CENSAL RURAL
+
+Este Listado continua con el resto de
+Viviendas de la Sección Censal Rural
+ ANEXO
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+59
+Anexo 9: Doc.CPV.03.209 RESUMEN DE LA SECCIÓN CENSAL RURAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANEXO
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+60 Anexo 10: Doc.CPV.03.104 PROGRAMACIÓN DE RUTA DEL/DE LA JEFE/A DE SECCIÓN RURAL (EN EL ÁREA RURAL)
+
+ CARINA SULEY POMA GARCIA
+ ANEXO
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+61
+
+ 

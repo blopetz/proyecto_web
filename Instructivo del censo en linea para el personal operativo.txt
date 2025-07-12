@@ -1,0 +1,1104 @@
+01 GENERALIDADES DEL CENSO EN LÍNEA o e-CENSO 2025 .......................................................................................7
+1.1 ¿QUÉ ES EL CENSO EN LÍNEA?............................................................................................................................7
+1.2 ¿CUÁL ES EL OBJETIVO DEL e-CENSO 2025? ....................................................................................................7
+1.3 ¿QUIÉN DEBE CONTESTAR EL e-CENSO 2025?.................................................................................................7
+1.4 CONSIDERACIONES PARA EJECUTAR EL e-CENSO 2025 ................................................................................7
+1.5 DEFINICIONES BÁSICAS .......................................................................................................................................8
+1.5.1 PÁGINA WEB............................................................................................................................................8
+1.5.2 PLATAFORMA DIGITAL............................................................................................................................8
+1.5.3 CÓDIGO ÚNICO DE VIVIENDA (CUV)....................................................................................................8
+1.5.4 CALL CENTER DE LOS CENSOS NACIONALES 2025 ..........................................................................9
+02 PROCEDIMIENTO OPERATIVO PARA LA EJECUCIÓN DEL e-CENSO EN VIVIENDAS PARTICULARES ........... 10
+2.1 ENTREGA DEL CÓDIGO ÚNICO DE VIVIENDA POR EL/LA CENSISTA DE POBLACIÓN Y VIVIENDA........... 10
+2.1.1 VIVIENDA AUSENTE ............................................................................................................................. 10
+2.1.2 VIVIENDA QUE NO DESEA CENSARSE (RECHAZO) ......................................................................... 15
+2.1.3 VIVIENDA SOLICITÓ AUTOCENSARSE (e-CENSO) ........................................................................... 17
+2.1.4 VIVIENDA TIENE CÓDIGO ÚNICO DE VIVIENDA (CUV) DE FORMA INDEPENDIENTE (NO
+CENSISTA)............................................................................................................................................. 18
+2.2 SEGUIMIENTO DEL e-CENSO EN LAS VIVIENDAS PARTICULARES ............................................................... 20
+2.2.1 CONSIDERACIONES A TENER EN CUENTA....................................................................................... 20
+2.2.2 PROCEDIMIENTO DEL SEGUIMIENTO A VIVIENDAS PARTICULARES QUE TIENEN EL CUV......... 23
+2.3 ESTRATEGIA DE CAMPO DEL CENSO EN LÍNEA PARA EL INGRESO A VIVIENDAS MULTIFAMILIARES...... 31
+03 PROCEDIMIENTO PARA EL LLENADO DEL CUESTIONARIO ELECTRÓNICO EN LA PLATAFORMA
+WEB DEL e-CENSO......................................................................................................................................................... 32
+3.1 OBTENCIÓN DEL CÓDIGO DE ACCESO AL CUESTIONARIO ELECTRÓNICO EN LÍNEA.............................. 32
+3.2 LLENADO DEL CUESTIONARIO ELECTRÓNICO EN LÍNEA ............................................................................. 36
+Contenido
+7
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+01 GENERALIDADES DEL CENSO EN LÍNEA o e-CENSO 2025
+1.1 ¿QUÉ ES EL CENSO EN LÍNEA?
+Es una modalidad de recolección de información digital que permitirá a un/a Residente Habitual de la vivienda a
+censar a todos los miembros del hogar mediante una plataforma web, utilizando dispositivos electrónicos como
+computadoras, laptops, tabletas o smartphones con acceso a internet. Esta modalidad se denomina en adelante
+e-Censo.
+1.2 ¿CUÁL ES EL OBJETIVO DEL e-CENSO 2025?
+Utilizar una modalidad de recolección complementaria (Recuperación) al Censo presencial (entrevistas cara a cara)
+para la obtención de información de aquellas viviendas cuyos informantes se encuentren ausentes y de aquellas que
+rechacen ser censados.
+Para todos estos casos, el/la Censista hará entrega de un Código Único de Vivienda (CUV) mediante una Nota de
+Visita durante la visita a la vivienda; sin este CUV, el/los hogar/es no podrá/n autocensarse.
+Es MUY IMPORTANTE señalar que el/la Censista debe agotar todos los medios posibles para propiciar que el
+Censo se realice de forma presencial en cada hogar de la vivienda. Recuerde Censista que usted ha sido
+capacitado/a para realizar el recojo de información.
+1.3 ¿QUIÉN DEBE CONTESTAR EL e-CENSO 2025?
+El e-Censo será respondido por un/a Informante Calificado/a elegido por los miembros del hogar, y es la persona
+que proporcionará información sobre la vivienda, el hogar y los/las Residentes Habituales, a través del
+diligenciamiento del Cuestionario Electrónico. El/La Informante Calificado/a debe cumplir los siguientes requisitos:
+Tener 18 años o más de edad. Ser Residente Habitual en la
+vivienda.
+Conocer la información de todos/as
+los/las Residentes Habituales del
+hogar
+1.4 CONSIDERACIONES PARA EJECUTAR EL e-CENSO 2025
+Se ejecutará el e-Censo en los casos siguientes:
+Vivienda Ausente: si luego de reiteradas visitas a la vivienda no se encuentra a
+los/las Residentes Habituales pero se verifica que sí está ocupada (previo sondeo
+con vecinos, entre otros), entonces se podrá dejar el Código Único de Vivienda
+(CUV).
+Vivienda que no desea censarse (Rechazo): si luego de reiteradas visitas a la
+vivienda, los/las Residentes Habituales de la vivienda manifiestan su negativa a
+censarse, a pesar de explicarle de la importancia y objetivos censales, no desean
+participar, le entregará el CUV.
+Vivienda Solicitó autocensarse (e-Censo): cuando el/la Informante Calificado/a
+solicitó voluntariamente participar del e-Censo pese a que se le explicó sobre la
+importancia y ventajas de hacerlo de manera presencial, insiste en realizar el eCenso, se le entregará el CUV.
+Vivienda tiene Código Único de Vivienda (CUV) de forma independiente (No
+Censista): cuando el/la Informante Calificado/a, no esperó la visita del/de la
+Censista y solicitó elCUV llamando al Call Center de los Censos Nacionales 2025.
+Capítulo 01 Generalidades del Censo en Línea o e-Censo 2025
+8
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+1.5 DEFINICIONES BÁSICAS
+1.5.1 PÁGINA WEB
+Es un documento digital accesible a través de internet que contiene información en diversos formatos (texto,
+imágenes, videos, enlaces u otros elementos multimedia); por ejemplo: www.inei.gob.pe, Facebook entre
+otros.
+Para el caso del e-Censo, el/la Informante Calificado/a deberá ingresar a la página web de los Censos
+Nacionales 2025, ubicar el enlace que le dirija a la plataforma web del e-Censo y realizar los procedimientos
+descritos en el Capítulo 3 de este instructivo.
+Ejemplos:
+1.5.2 PLATAFORMA DIGITAL
+Se ejecuta desde un servidor remoto y se accede a través de un enlace. Permite a los/las usuarios/as
+interactuar en línea y compartir información, por ejemplo: las plataformas Q10 y UNETE AL INEI utilizados
+para las capacitaciones y reclutamiento de los/las Funcionarios/as Censales.
+1.5.3 CÓDIGO ÚNICO DE VIVIENDA (CUV)
+a. Es un identificador que permite ubicar a la vivienda a nivel de departamento, provincia, distrito, centro
+poblado, zona, manzana, frente y registro.
+Se genera para cada registro que, en la tarea precensal de la Actualización del Directorio de Viviendas y
+Establecimientos, se determinó como: vivienda particular, vivienda y establecimiento, vivienda
+multifamiliar (edificio/condominio/ quinta o vecindad), y vivienda colectiva.
+Generalidades del Censo en Línea o e-Censo 2025 Capítulo 01
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+9
+Asimismo, si durante la tarea precensal una puerta fue registrada como puerta falsa, puerta de garaje u
+otro tipo de acceso, también se le asignará un CUV, ya que, según lo observado en campo, podría
+corresponder a una vivienda particular.
+Posee las siguientes características:
+i. Tiene ocho (8) caracteres alfanuméricos (letras en mayúsculas y números), en donde se excluirán las
+letras N y O.
+ii. Se excluye la N porque será utilizada como carácter inicial en la generación del CUV para las nuevas
+viviendas, que se creen en campo desde el aplicativo CENSOS2025.
+iii. Se excluye la letra O con la finalidad de evitar confusión con el número cero (0).
+Visualización del CUV en el aplicativo
+CENSOS2025 para el/la Censista
+Visualización del CUV en la plataforma web
+del e-Censo para el/la Informante
+b. El/La Censista visualizará el CUV de forma predeterminada, cuando:
+i. La visita tenga como resultado código 8. Censo en línea (e-Censo), precedida de visitas donde
+los/las informantes calificados/as estuvieron ausentes o se negaron a ser censados/as.
+ii. El/La Informante Calificado/a solicita voluntariamente autocensarse, para lo cual el/la Censista, debe
+registrar como resultado de la visita el código 8. Censo en línea (e-Censo).
+iii. El/La Informante Calificado/a se comunicó previamente con el Call Center de los Censos Nacionales
+2025 para obtener el CUV para realizar el autocenso y en la visita realizada por el/la Censista es
+informado/a de ello, se debe asignar como resultado de visita el código 8. Censo en línea (e-Censo).
+1.5.4 CALL CENTER DE LOS CENSOS NACIONALES 2025
+Es el centro de atención telefónica del INEI que interactuará con la población, para proporcionar ayuda y
+respuesta a las consultas que puedan realizar en relación con el desarrollo de los Censos Nacionales 2025.
+Recuerde que en una vivienda puede existir más de un hogar, en ese caso, TENGA EN CUENTA QUE
+EL CUV entregado es a nivel de vivienda, es decir, el CUV será el mismo para cada uno de los
+hogares declarados como residentes en la vivienda; con este código, todos los hogares de la vivienda
+podrán autocensarse.
+Censista
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+10
+02
+PROCEDIMIENTO OPERATIVO PARA LA EJECUCIÓN DEL
+e-CENSO EN VIVIENDAS PARTICULARES
+2.1 ENTREGA DEL CÓDIGO ÚNICO DE VIVIENDA POR EL/LA CENSISTA DE POBLACIÓN Y
+VIVIENDA
+Los procedimientos a seguir dependerán de los casos encontrados durante las visitas realizadas a las viviendas. A
+continuación, se detallan:
+2.1.1 VIVIENDA AUSENTE
+Si después de varias visitas realizadas a la vivienda en diferentes días y horarios (mañana, tarde o noche), se
+registra por tercera vez, en la pantalla de Entrevista y Supervisión del aplicativo CENSOS2025 el código de
+resultado 4. Ausente, solo entonces, podrá registrar una siguiente visita con el código 8. Censo en línea (eCenso) para dejar la Nota de Visita con el CUV debajo de la puerta. Tenga en cuenta, que debe agotar
+previamente todos los medios posibles para ubicar a los/las Informantes. Para una mejor comprensión de
+este caso, veamos el siguiente ejemplo:
+Ejemplo: El Censista Pedro realizó un total de seis (6) visitas a la vivienda Nº 0001 antes de registrar el
+resultado de visita con código 8. Censo en línea. Estas visitas las realizó en diferentes días y
+horarios. A pesar de que en su primera visita tuvo como resultado 3. Rechazo, logró agendar citas,
+como se observa en los registros 3 y 5. Sin embargo, no logró obtener el censo de forma presencial
+(Ver 1).
+Solo después de realizar seis (6) visitas y haber registrado por tercera vez el resultado de visita 4.
+Ausente, procedió a registrar una séptima visita con resultado 8. Censo en línea (e-Censo) (Ver
+2).
+Siguiendo el ejemplo, a continuación, se detallan los
+pasos que debe realizar el/la Censista al registrar la
+séptima visita, cuyo resultado es el código 8. Censo
+en línea (e-Censo):
+Paso 1: En la pantalla del Marco de Trabajo del
+aplicativo CENSOS2025, ubique la fila
+correspondiente al registro de la vivienda
+donde realizará la visita y dé un toque
+prolongado (Ver 1), se mostrará la ventana
+emergente Opciones con tres (3) opciones:
+Ir a Cuestionario, Agregar Antes y Agregar
+Nueva Vivienda (Ver 2). Seleccione la
+opción Ir a Cuestionario (Ver 3), que le
+permitirá diligenciar las preguntas de la
+Cédula Censal (cuestionario electrónico).
+1
+2
+1
+2
+3
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+11
+Paso 2: En la pantalla de la SECCIÓN I: LOCALIZACIÓN CENSAL, CONDICIÓN DE OCUPACIÓN Y
+NÚMERO DE HOGARES DE LA VIVIENDA, el aplicativo mostrará de forma predeterminada los
+datos de ubicación geográfica y ubicación censal. A continuación, dé un toque en el ícono del
+Disquete (Ver 4) para guardar la información y desplazarse a la siguiente pantalla.
+Paso 3: Luego verifique que los datos registrados en los campos editables de la dirección de la vivienda sean
+los correctos (Ver 5).
+Para registrar la georreferenciación, el/la Censista dará un toque en la opción GPS (Dispositivo)(Ver
+6) y esperará que el aplicativo capture al menos cinco (5) satélites (Ver 7). Luego, para guardar los
+datos, dé un toque la opción Aceptar (Ver 8). El aplicativo retornará automáticamente a la pantalla
+anterior, mostrando los valores de latitud, longitud y altitud registrados (Ver 9). Luego, dé un toque
+en el ícono del Disquete (parte superior derecha de la pantalla) para guardar la información y
+desplazarse a la siguiente pantalla.
+4
+5
+6
+7
+8
+9
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+12
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Paso 4: Compruebe que la información consignada en la Sección I, Bloque A. LUGAR DE
+EMPADRONAMIENTO, TIPO Y CONDICIÓN DE OCUPACIÓN DE LA VIVIENDA, correspondiente
+a las preguntas 14, 15 y 16 (Ver 10) estén correctamente registradas, de ser así, dé un toque en el
+ícono del Disquete para guardar la información y avanzar a la siguiente pantalla.
+Paso 5: En la pantalla emergente que muestra la pregunta 18, como no se cuenta con información sobre el
+número de hogares en la vivienda, dé un toque el botón Cancelar (Ver 11) para continuar con la
+siguiente pantalla.
+Paso 6: En la pantalla de ENTREVISTA Y SUPERVISIÓN, deberá dar un toque en el botón Iniciar para
+registrar una nueva visita (Ver 12). A continuación, se mostrará una ventana emergente donde
+deberá capturar el punto GPS (Ver 13). Espere a que el aplicativo capture al menos cinco satélites
+(5) y luego dé un toque el botón Aceptar (Ver 14). En la ventana Iniciar vista, ya podrá visualizar la
+información de la georreferenciación, nuevamente, dé un toque en botón Aceptar (Ver 15), para
+retornar a la pantalla Entrevista y Supervisión.
+10
+11
+12
+Icono de Disquete
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+13
+Y ya podrá visualizar el registro generado para la
+nueva visita (Ver 16). Además, en la parte
+inferior de la pantalla Entrevista y Supervisión,
+en el recuadro correspondiente a
+Funcionarios/as Censales, verifique que se
+encuentren registrados su número de DNI y
+nombre completo. Además, debe incluir los
+datos del/de la Jefe/a de Sección Censal, solo si
+está presente durante la visita (Ver 17).
+Paso 7: Proceda a dar un toque en la opción Terminar (Ver
+18), enseguida se mostrará la ventana emergente
+Terminar visita, en la cual se mostrará la fecha y
+hora de término de la visita de forma automática
+(Ver 19). A continuación, seleccione como
+resultado de la visita el código 8. Censo en línea (eCenso) (Ver 20). Luego en el recuadro Motivo,
+debe seleccionar la opción 1. Vivienda Ausente, se
+entregó Código Único de Vivienda (CUV) (Ver 21)
+y el aplicativo mostrará el CUV (Ver 22).
+11
+13
+14
+15
+16
+17
+18
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+14
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Paso 8: Luego proceda a registrar los siguientes datos solicitados en la Nota de Visita:
+a. La fecha de la visita a la vivienda
+b. La dirección de la vivienda visitada
+c. El nombre de Subsede Departamental Censal
+d. El número del/de la Censista
+e. El número de vivienda según el Marco de Trabajo
+f. Los nombres y apellidos del/de la Censista
+g. El Código Único de Vivienda (CUV) que figura en la tableta (Ver 22)
+Ejemplo del diligenciamiento de la Nota de Visita:
+Luego, proceda a dejar la Nota de Visita debajo de la puerta de la vivienda, asegurándose de no
+colocarla en un lugar visible que pueda facilitar su pérdida o que sea accesible a personas ajenas.
+Recuerde que debe agotar previamente todos los medios posibles para ubicar a los/las
+Informantes y se puedan censar de manera presencial, si a pesar de ir muy temprano o
+muy tarde, ir domingos o feriados y en diferentes horarios a la vivienda no se logra encontrar a
+los/las Residentes Habituales proceda a seleccionar como resultado de visita el código 8.
+Censo en Línea (e-Censo).
+Censista
+19
+20
+21
+22
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+15
+Paso 9: Para finalizar la visita en la vivienda, dé un toque en el botón Aceptar (Ver 23). Luego en la ventana
+de ENTREVISTA Y SUPERVISIÓN se mostrará como resultado de la visita el código 8. Censo en
+línea (e-Censo) (Ver 24).
+2.1.2 VIVIENDA QUE NO DESEA CENSARSE (RECHAZO)
+Si después de varias visitas realizadas a la vivienda en diferentes días y horarios, se registra por segunda vez,
+en la pantalla de Entrevista y Supervisión del aplicativo CENSOS2025, el código de resultado 3. Rechazo,
+solo entonces podrá registrar una siguiente visita con el código 8. Censo en línea y le entregará la Nota de
+Visita con el CUV al/a la Informante Calificado/a. Para una mejor comprensión de este caso, veamos el
+siguiente ejemplo:
+Ejemplo: La Censista Rita realizó un total de cuatro (4) visitas a la vivienda Nº 0010 antes de registrar el
+resultado de la visita como 8. Censo en línea. Estas visitas la realizaron en diferentes días y
+horarios. Sin embargo, a pesar de la perseverancia de Rita para lograr obtener el Censo Presencial,
+al Informante Calificado no le interesa dar información (Ver 1).
+Solo después de realizar cuatro (4)
+visitas y haber registrado por segunda
+vez, el resultado de visita 3. Rechazo,
+procedió a generar otra visita con
+resultado 8. Censo en línea (Ver 2).
+Siguiendo el ejemplo, a continuación, se detallan los pasos que debe realizar el/la Censista al generar la
+quinta visita, cuyo resultado es el código 8. Censo en línea:
+Pasos del 1 al 6:
+• Es importante precisar que se deben seguir los pasos
+1, 2, 3, 4, 5 y 6 descritos en el numeral 2.1.1.
+• Tenga en cuenta el paso 4 (ver numeral 2.1.1), donde
+se debe verificar la información consignada en la
+Sección I, Bloque A. Lugar de Empadronamiento,
+Tipo y Condición de ocupación de la Vivienda,
+correspondiente a la pregunta 16, al tratarse de una
+vivienda en la que se no desean brindar información
+(rechazo), se debe seleccionar la alternativa 1. Con
+personas presentes (Ver 1).
+23 24
+1
+2
+1
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+16
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Paso 7: Una vez realizados los pasos previamente descritos, continúe con el cierre de la visita en la ventana
+ENTREVISTA Y SUPERVISIÓN:
+• Toque la opción Terminar (Ver 2).
+• Aparecerá la ventana emergente Terminar visita, donde se mostrará automáticamente la fecha
+y la hora de finalización de la visita (Ver 3).
+• Seleccione como resultado de la visita el código 8. Censo en línea (e-Censo) (Ver 4).
+• En el recuadro Motivo elija la opción 2. Vivienda Rechazó, se entregó Código Único de
+Vivienda (CUV) (Ver 5) y en el aplicativo CENSOS2025 se mostrará el CUV (Ver 6); luego
+registre en la nota de visita.
+• Enseguida, solicite al/a la Informante Calificado/a la cantidad de personas que viven en la
+vivienda y regístrela en el recuadro 1. Número total de personas en la vivienda.
+Luego, en el recuadro 2. Datos de la persona de contacto registre los datos de la persona de
+contacto. Para ello, solicite al/a la Informante Calificado/a sus nombres, apellidos y número de
+teléfono celular (Ver 7).
+• Si el/la Informante Calificado/a no desea brindar los datos solicitados para el recuadro 1. y 2.
+entonces los dejará en blanco.
+• Luego de un toque en el botón Aceptar (Ver 8).
+• Finalmente, entregue la Nota de Visita en la que registró el CUV, ya que este documento le
+permitirá al/a la Informante Calificado/a acceder a la plataforma web del Censo en Línea.
+Además, indíquele que, en caso de dudas, puede comunicarse al número telefónico que figuran
+en el documento.
+Debe agotar previamente todos los medios posibles para persuadir a los/las
+Informantes Calificados/as y convencerlos/las de que se censen de manera
+presencial, si a pesar de explicarle la importancia y el objetivo del Censo, mantiene el
+rechazo a participar, proceda a seleccionar como resultado el código 8. Censo en línea
+(e-Censo).
+Censista
+2
+3
+4
+5
+6
+7
+8
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+17
+2.1.3 VIVIENDA SOLICITÓ AUTOCENSARSE (e-CENSO)
+Este caso se presenta cuando el/la Informante Calificado/a solicita voluntariamente participar en el Censo
+en Línea (e-Censo), a pesar de haber recibido la explicación sobre la importancia y las ventajas de realizarlo
+de manera presencial. Para una mejor comprensión de este caso, veamos el siguiente ejemplo:
+Ejemplo: El/La Informante de la vivienda Nº 0020 atiende al/a la Censista en la puerta de su vivienda. Luego
+de recibir el saludo y la explicación sobre el objetivo de los Censos Nacionales, manifiesta que
+prefiere realizar el e-Censo, ya que se enteró a través de un familiar de que el INEI está ofreciendo
+esta nueva modalidad. A pesar de que el/la Censista le explica la importancia y las ventajas de
+realizar el Censo de forma presencial, el/la Informante Calificado/a señala que, por motivos de
+privacidad, prefiere completarlo en línea junto a su familia.
+Siguiendo el ejemplo, a continuación, se detallan los pasos que debe realizar el/la Censista al generar la visita
+cuyo resultado es el código 8: Censo en línea:
+Pasos del 1 al 6:
+• Es importante precisar que primero se deben seguir los pasos 1, 2, 3, 4, 5 y 6 descritos en el numeral
+2.1.1.
+• Tenga en cuenta el paso 4 (ver numeral 2.1.1), donde se debe verificar la información consignada en la
+Sección I, Bloque A. Lugar de Empadronamiento, Tipo y Condición de Ocupación de la Vivienda,
+correspondiente a la pregunta 16, al tratarse de una vivienda que solicitó e-Censo, se debe seleccionar la
+alternativa 1. Con personas presentes (Ver 1).
+Paso 7: Una vez realizados los pasos previos descritos anteriormente, continúe con el cierre de la visita
+en la ventana de ENTREVISTA Y SUPERVISIÓN:
+▪ Toque la opción Terminar (Ver 2).
+▪ Aparecerá la ventana emergente Terminar visita, donde se mostrará automáticamente la fecha
+y la hora de finalización de la visita (Ver 3).
+▪ Seleccione como resultado de la visita el código 8. Censo en línea (e-Censo) (Ver 4).
+▪ En el recuadro Motivo elija la opción 3. Vivienda solicitó e-Censo, se entregó Código Único
+de Vivienda (CUV) (Ver 5) y el aplicativo mostrará el CUV (Ver 6) luego regístralo en la Nota
+de Visita.
+▪ Enseguida, solicite al/a la Informante
+Calificado/a la cantidad de personas
+que viven en la vivienda y regístrela en
+el recuadro 1. Número total de
+personas en la vivienda.
+▪ Luego, en el recuadro 2. Datos de la
+persona de contacto registre los
+datos de la persona de contacto. Para
+ello, solicite al/a la Informante
+Calificado/a sus nombres, apellidos y
+número de teléfono celular (Ver 7).
+2
+1
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+18
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+▪ Si el/la Informante Calificado/a no desea brindar los datos solicitados para el recuadro 1. y 2.
+entonces los dejará en blanco. Luego de un toque en el botón Aceptar (Ver 8).
+▪ Finalmente, entregue la Nota de Visita con el CUV, ya que este documento le permitirá al/a la
+informante acceder a la plataforma web del Censo en Línea. Además, indíquele que, en caso
+de dudas, puede comunicarse al número telefónico que figuran en el documento.
+2.1.4 VIVIENDA TIENE CÓDIGO ÚNICO DE VIVIENDA (CUV) DE FORMA INDEPENDIENTE (NO CENSISTA)
+A. SI LA VIVIENDA SE ENCUENTRA EN EL MARCO DE TRABAJO Y EL CALL CENTER LE ENTREGA EL
+CUV
+Si al visitar la vivienda que figura en su Listado por primera vez, la persona que lo atiende le manifiesta que
+tiene el CUV porque ha llamado al Call Center de los Censos Nacionales, pregúntele si cuenta o no con
+su Constancia de Participación y, según corresponda, registre el resultado de la visita. Para una mejor
+comprensión de este caso, veamos el siguiente ejemplo:
+Ejemplo: El Censista Alberto visita por primera vez la vivienda N° 0023, ubicada en la Calle Los Pinos N°
+245, la cual figura en su Listado de Viviendas; al tocar la puerta, es recibido por la Informante
+Calificada y se presenta cordialmente, explicando el motivo de su visita. Ante ello, la
+Informante le indica que está en proceso de autocensarse con el e-Censo, a través de Internet.
+A continuación, se detallan los pasos que debe seguir el/la Censista cuando la vivienda tiene el Código
+Único de Vivienda de forma independiente:
+Pasos del 1 al 6:
+• Es importante precisar que primero se deben seguir los pasos 1, 2, 3, 4, 5 y 6 descritos en el numeral
+2.1.1.
+• Tenga en cuenta el paso 4 (ver numeral 2.1.1), donde se debe verificar la información consignada en
+la Sección I, Bloque A. Lugar de Empadronamiento, Tipo y Condición de Ocupación de la Vivienda,
+correspondiente a la pregunta 16, al tratarse de una vivienda autocensada, deberá seleccionar la
+alternativa 1. Con personas presentes (Ver 1)
+Censista
+Tenga en cuenta respecto al CUV:
+ Es INTRANSFERIBLE, es decir, no puede utilizarse para otras viviendas.
+ Es entregado a nivel de vivienda, es decir, es el mismo para cada uno de los
+hogares declarados que pertenecen a la vivienda y cada responsable puede
+diligenciar la información respectiva de su hogar.
+ Escriba el código tal como aparece en su tableta, si comete algún error, las personas no
+podrán usar el código para completar la Cédula Censal (cuestionario electrónico).
+4
+3
+7
+6
+8
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+19
+Paso 7: Una vez realizados los pasos descritos anteriormente, continúe con el cierre de la visita en la
+pantalla de ENTREVISTA Y SUPERVISIÓN:
+▪ Proceda a dar un toque en la opción Terminar (Ver 2).
+▪ Enseguida se mostrará la ventana emergente Terminar visita, en la cual se mostrará la fecha
+y hora de término de la visita de forma automática (Ver 3).
+▪ Seleccione como resultado de la visita el código 8. Censo en línea (e-Censo) (Ver 4).
+▪ A continuación, en el recuadro Motivo elija la opción 4. Vivienda tiene Código Único de
+Vivienda (CUV) de forma independiente (No censista) (Ver 5).
+▪ Seguidamente, el aplicativo mostrará la ventana de Códigos de Seguimiento del Censo en
+Línea (e-Censo) donde el/la Censista deberá seleccionar el Código de Seguimiento
+correspondiente, según la situación encontrada durante la visita a la vivienda (Ver 6).
+▪ Luego de un toque en el botón Aceptar (Ver 7)
+2
+4
+3
+5
+6
+1
+7
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+20
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+B. SI LA VIVIENDA NO SE ENCUENTRA EN EL MARCO DE TRABAJO Y LLAMA AL CALL CENTER:
+En caso las personas llamen al Call Center de los Censos Nacionales 2025 solicitando ser censadas en
+línea, y se verifique que no figuran en el Marco de Trabajo, se les solicitará su DNI para validar su identidad
+y deberán responder algunas preguntas adicionales para confirmar la existencia de la vivienda. Según la
+evaluación operativa, se podrá: a) agendar una cita para enviar al/a la censista, o b) se tomará la estrategia
+operativa más idónea para que se ejecute el e-Censo en base a lo informado por el Call Center.
+2.2 SEGUIMIENTO DEL e-CENSO EN LAS VIVIENDAS PARTICULARES
+Una de las tareas importantes del/de la Censista es realizar el seguimiento a la vivienda que entregó un CUV. Para
+ello, deberá regresar a la vivienda y verificar que el/la Informante haya completado el autocenso de todos los/las
+Residentes Habituales de su hogar. Para efectuar este procedimiento, es importante que tenga en cuenta las
+consideraciones señaladas en el punto 2.2.1.
+2.2.1 CONSIDERACIONES A TENER EN CUENTA
+a. Para realizar seguimiento del e-Censo, se debe ingresar a la pantalla del Marco de Trabajo del aplicativo
+CENSOS2025 y revisar las columnas Motivo del Censo en Línea, Resultado del Censo en Línea y
+Resultado de Censo Presencial (Ver 1).
+b. Veamos la descripción de las columnas:
+i. Motivo del Censo en Línea: muestra el motivo por el cual se registró el código 8. Censo en línea (eCenso), pudiendo corresponder una de las siguientes opciones: 1. Vivienda Ausente, se entregó el
+Código Único de Vivienda, 2. Vivienda Rechazó, se entregó Código Único de Vivienda (CUV), 3.
+Vivienda solicitó e-Censo, se entregó Código Único de Vivienda (CUV), 4. Vivienda tiene Código
+Único de Vivienda (CUV) de forma independiente (No Censista).
+ii. Resultado del Censo en Línea: Una vez iniciada su sesión en el aplicativo CENSOS2025, podrá
+visualizar en esta columna la información más reciente sobre el estado del e-Censo. En ella se
+muestra el avance del autocenso realizado por el/la Informante a través de la plataforma web, o en su
+defecto, lo registrado por el/la Censista durante las visitas de seguimiento a las viviendas. Las
+opciones que pueden figurar en esta columna son: 1. No inició el e-Censo, 2. e-Censo en proceso,
+3. Autocensado, 4. Censo presencial. Es importante señalar que la información actualizada en esta
+columna, permitirá al/a la Censista realizar su tarea de seguimiento y programar sus próximas visitas.
+iii. Resultado Censo Presencial: luego que el/la Informante Calificado/a optara por el Censo presencial,
+en esta columna se mostrará de manera automática, los resultados: 1. Completo o 2. Incompleto,
+obtenidos en la entrevista. El/la Censista realizará las visitas de seguimiento en aquellas viviendas con
+resultado 2. Incompleto.
+Acontinuación, se detallan las situaciones en las que
+corresponde registrar cada una de estas opciones:
+1. No inició el e-Censo: si durante las visitas de
+seguimiento realizadas por el/la Censista a la
+vivienda, el/la Informante Calificado/a expresa
+que aún no empezó a censarse, entonces,
+deberá seleccionar el código 1.No inició el e –
+Censo (Ver 2). Y se culmina el registro dando un
+toque en el botón Aceptar. (Ver 3)
+2
+3
+1
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+21
+2. e-Censo en proceso: cuando el/la Censista verifica que el/la Informante Calificado/a inició el censo
+y aún no lo culmina. Por ejemplo, de cinco (5) Residentes Habituales, autocensó solo a tres (3),
+entonces, deberá seleccionar el código de seguimiento 2. e – Censo en proceso (Ver 4). Y se culmina
+el registro dando un toque en el botón Aceptar. (Ver 5)
+3. Autocensado: si la/el Informante Calificado/a le manifiesta al/ a la Censista que ya autocensó a todos
+los/las Residentes Habituales de su hogar entonces, deberá seleccionar el código 3. Autocensado
+(Ver 6). Y se culmina el registro dando un toque en el botón Aceptar. (Ver 7)
+Para este código, tenga presente lo siguiente:
+• Cuando los motivos de la entrega del CUV fueron 1. Vivienda Ausente, se entregó Código Único
+de Vivienda (CUV) o código 4. Vivienda tiene Código Único de Vivienda (CUV) de forma
+independiente (No Censista), el/la Censista deberá solicitar al/a la Informante los datos
+siguientes (Ver 8):
+Recuadro 1. Número total de personas en la vivienda, que está referido al número de miembros
+de toda la vivienda.
+Recuadro 2. Datos de la persona de contacto: nombres, apellidos y número de teléfono celular,
+para el seguimiento al desarrollo del e-Censo.
+Recuadro 3. Código de Finalización, que se muestra en el Constancia de Participación, al
+culminar el autocenso. Si al solicitar este código refiere no recordarlo o saberlo, deberá seleccionar
+el código 1. No recuerda/no sabe.
+En caso de que el/la Informante Calificado/a no desee brindar dicha información, los recuadros
+quedarán en blanco. Finalmente, dar un toque en el botón Aceptar (Ver 9).
+5
+4
+6
+7
+8
+9
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+22
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+• Cuando los motivos de la entrega del CUV fueron
+2. Vivienda Rechazó, se entregó Código Único
+de Vivienda (CUV) o código 3. Vivienda solicitó
+e-Censo, se entregó Código Único de Vivienda
+(CUV), el/la Censista solo deberá solicitar al/a la
+Informante el dato del Código de Finalización
+(recuadro 3) que se muestra en el Constancia de
+Participación, al culminar el autocenso (Ver 10).
+Si al solicitar este código refiere no recordarlo o
+saberlo, deberá seleccionar el código 1. No
+recuerda/no sabe (Ver 11).
+En caso de que el/la Informante Calificado/a no
+desee brindar dicha información, los recuadros
+quedarán en blanco.
+Finalmente dar un toque en el botón Aceptar (Ver
+12).
+4. Censo presencial: cuando el/la Censista verifica que
+el/la Informante Calificado/a aún no ha iniciado el
+autocenso o que, habiendo iniciado, no lo ha
+completado, y solicita al/a la Censista que lo cense
+de manera presencial; entonces, debe seleccionar el
+código 4. Censo Presencial (Ver 13). A continuación,
+el aplicativo mostrará de forma predeterminada el
+resultado de la entrevista. Finalmente, dé un toque en
+el botón Aceptar (Ver 14).
+c. Constancia de Participación: es el documento
+generado por la plataforma web una vez
+finalizado el e-Censo en la vivienda. Este
+documento incluye un mensaje de
+agradecimiento, el Código de Finalización, un
+botón para su descarga y un mensaje
+recordatorio para que el/la informante guarde
+este documento correctamente (Ver 15).
+d. Código de Finalización: es un código
+alfanumérico único de ocho (8) caracteres que
+genera la plataforma web del e-Censo, una vez
+que el/la Informante Calificado/a haya
+completado la Cédula Censal (cuestionario
+electrónico) con la información de todos/as
+los/las Residentes Habituales de todos los
+hogares de la vivienda (Ver 16).
+Censista
+Tener cuenta que:
+Cabe señalar que, en las viviendas que iniciaron el e-Censo, pero no lo concluyeron y
+optan por ser censadas de manera presencial, deberá diligenciar el cuestionario
+electrónico desde el inicio.
+6
+13
+14
+15
+16
+10
+12
+11
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+23
+2.2.2 PROCEDIMIENTO DEL SEGUIMIENTO A VIVIENDAS PARTICULARES QUE TIENEN EL CUV
+Antes de realizar la visita de seguimiento a una vivienda con resultado 8. Censo en línea (e-Censo), deberá
+verificar la columna Resultado Censo en Línea del Marco de Trabajo en el aplicativo CENSOS2025, donde
+si el resultado es:
+a. El código 3. Autocensado, no es necesario realizar seguimiento. No obstante, si debe dejar la etiqueta de
+Vivienda Censada, siempre que se encuentre trabajando la vivienda dentro del periodo de trabajo; caso
+contrario debe coordinar con el/la Jefe/a de Sección.
+b. Si el resultado es diferente al código 3. Autocensado debe realizar el seguimiento
+c. Si el resultado del código 4. Censo Presencial es Incompleto debe realizar el seguimiento.
+A. PRIMERA VISITA DE SEGUIMIENTO
+El/La Censista, luego de haber entregado el CUV en las viviendas donde no fue posible realizar el censo
+presencial, debe hacer el seguimiento para garantizar que se complete el e-Censo o, en su defecto,
+lograr concretar el censo de forma presencial. Para ello, debe visitar la vivienda en distintos días y
+horarios durante el período.
+A continuación, se presentan los motivos por los cuales se realizará el seguimiento:
+a. Vivienda ausente, se entregó Código Único de Vivienda (CUV)
+Son los casos en los que no se ha encontrado a los/las Residentes Habituales de la vivienda y se ha
+dejado la Nota de Visita con el CUV debajo de la puerta. El/La Censista deberá realizar los siguientes
+pasos para el seguimiento:
+Paso 1: Visualizar la pantalla del Marco de Trabajo, ubicar las columnas Resultado, Motivo Censo
+en Línea, Resultado Censo en Línea (Ver 1), prestando especial atención a esta útima. Si en
+dicha columna se muestra el código 1. No inició el e-Censo o 2. e-Censo en proceso,
+asimismo, en la columna Resultado Censo Presencial con resultado 2. Incompleto, el/la
+Censista deberá ir a la vivienda para realizar el seguimiento, con el objetivo de invitar al/a la
+Informante a que inicie o complete el e-Censo; o en su defecto lograr realizar el censo
+presencial.
+Paso 2:
+Estando en la vivienda donde
+se realizará el seguimiento,
+deberá Iniciar la visita (Ver 2).
+Luego, para acceder a la
+pantalla que le permitirá
+realizar el seguimiento,
+deberá dar un toque en el
+botón Terminar (Ver 3).
+Paso 3: A continuación, se mostrará la venta emergente Terminar visita, donde en el recuadro
+Resultado, seleccionará el código 8. Censo en Línea (e-Censo) (Ver 4). En el recuadro
+Motivo, se mostrará de manera predeterminada el código 1. Vivienda Ausente, se entregó
+Código Único de Vivienda (CUV) (Ver 5).
+2 3
+1
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+24
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Luego, en el recuadroCÓDIGOS DE SEGUIMIENTO DEL CENSO EN LÍNEA (e-Censo), debe
+seleccionar uno de los códigos según la situación que se presente durante la visita de
+seguimiento a la vivienda (Ver 6), luego debe dar un toque en el botón Aceptar (Ver 7).
+Veamos los casos siguientes:
+i. Si encuentra al/a la Informante:
+Si es atendido/a por el/la Informante Calificado/a, consulte sobre el estado de avance del
+e-Censo y tenga presente las instrucciones siguientes:
+▪ Si el/la Informante Calificado/a, señala
+que todavía no ha comenzado a realizar
+el e-Censo, pero que lo realizará el
+él/ella mismo/a, entonces, deberá
+seleccionar el código 1. No inició el eCenso.
+▪ Si el/la Informante Calificado/a,
+menciona que ya comenzó a realizar el
+e-Censo, que aún no lo ha completado
+pero tiene previsto finalizarlo el él/ella
+mismo/a, entonces, deberá
+seleccionar el código 2. e-Censo en
+proceso.
+De otro lado, si el/la Informante
+Calificado/a no ha completado el eCenso pero desea proporcionar la
+información pendiente al/a la Censista
+(Censo Presencial), este último debe
+explicarle amablemente que, para
+realizar el Censo Presencial, tendrá
+que diligenciar las preguntas del
+cuestionario electrónico desde el
+principio. Si el/la Informante
+Calificado/a acepta, debe seleccionar
+el código 4. Censo Presencial y seguir
+las indicaciones del Manual del/de la
+Censista.
+Si el/la Informante decide continuar el mismo y culminar el censo a través de la
+plataforma web, debe seleccionar el código 2. e-Censo en proceso.
+▪ Si el/la Informante Calificado/a refiere
+que completó el e-Censo entonces,
+deberá seleccionar el código 3.
+Autocensado y el aplicativo mostrará los
+recuadros donde deberá registrar el 1.
+Número total de personas en la
+vivienda, 2. Datos de la persona de
+contacto y 3. Código de
+finalización(Ver 8).
+▪ Sí el/la Informante Calificado/a manifiesta que todavía no ha comenzado el e-Censo
+pero que desea realizar el censo de manera presencial, entonces debe seleccionar el
+código 4. Censo Presencial y censar a la vivienda de acuerdo a las indicaciones
+establecidas en el Manual del/de la Censista.
+ii. Si no encuentra al/a la informante:
+En el recuadro CÓDIGOS DE SEGUIMIENTO DEL CENSO EN LÍNEA (e-Censo) debe
+seleccionar el código que figura en la columna Resultado Censo en Línea del Marco de
+Trabajo del aplicativo CENSOS2025.
+iii. En cualquiera de los dos (2) casos presentados i. y ii.:
+Tenga presente que se debe diligenciar el recuadro CÓDIGO DE SEGUIMIENTO DEL
+CENSO EN LINEA (E-CENSO), según la situación encontrada durante la visita de
+seguimiento (Ver 6).
+5
+4
+7
+6
+8
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+25
+b. Vivienda Rechazó, se entregó código único de vivienda (CUV)
+Se trata de los casos en los que, al encontrar a los/las Residentes Habituales de la vivienda, estos se
+negaron a brindar información, por consiguiente, se le entregó la Nota de Visita con el CUV. El/la
+Censista deberá seguir los siguientes pasos para realizar el seguimiento:
+Paso 1: Visualizar la pantalla del Marco de Trabajo, ubicar las columnas Resultado, Motivo Censo
+en Línea y Resultado Censo en Línea (Ver 1), prestando especial atención a esta útima. Si
+en dicha columna se muestra el código 1. No inició el e-Censo o 2. e-Censo en proceso,
+asimismo, en la columna Resultado Censo Presencial con resultado 2. Incompleto, el/la
+Censista deberá ir a la vivienda para realizar el seguimiento, con el objetivo de inivitar al/a la
+informante a que inicie o complete el e-Censo; o en su defecto lograr realizar el Censo
+Presencial.
+Paso 2: Estando en la vivienda donde se realizará el seguimiento, deberá Iniciar la visita (Ver 2).
+Luego, para acceder a la pantalla que le permitirá realizar el seguimiento, deberá dar un toque
+en el botón Terminar (Ver 3).
+Paso 3: A continuación, se mostrará la venta emergente Terminar visita, donde en el recuadro
+Resultado, seleccionará el código 8. Censo en Línea (e-Censo) (Ver 4). En el recuadro
+Motivo, se mostrará de manera predeterminada el código 2. Vivienda Rechazó, se entregó
+Código Único de Vivienda (CUV) (Ver 5).
+Luego, en el recuadroCÓDIGOS DE SEGUIMIENTO DEL CENSO EN LÍNEA (e-Censo), debe
+seleccionar uno de los códigos según la situación que se presente durante la visita de
+seguimiento a la vivienda (Ver 6), luego debe dar un toque en el botón Aceptar (Ver 7).
+Veamos los casos siguientes:
+i. Si encuentra al/a la Informante:
+Si es atendido/a por el/la Informante Calificado/a consulte sobre el estado de avance del
+e-Censo y tenga presente las instrucciones siguientes:
+▪ Si el/la Informante Calificado/a señala que no realizará el e-Censo o que aún no ha
+iniaciado. Entonces, deberá seleccionar el código 1. No inició el e-Censo.
+2 3
+e-Censo en 1 proceso
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+26
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+▪ Si el/la Informante Calificado/a menciona que ya comenzó a realizar el e-Censo, pero
+aún no lo ha completado y tiene previsto finalizarlo el mismo, entonces, deberá
+seleccionar el código 2. e-Censo en proceso.
+De otro lado, si el/la Informante Calificado/a no ha completado el e-Censo pero desea
+proporcionar la información pendiente al/a la Censista (Censo Presencial), este
+último debe explicarle amablemente que, para realizar el censo presencial, tendrá
+que diligenciar las preguntas del cuestionario electrónico desde el principio. Si
+el/la Informante Calificado/a acepta, debe seleccionar el código 4. Censo Presencial
+y seguir las indicaciones del Manual del/de la Censista.
+Si el/la Informante Calificado/a decide continuar el mismo y culminar el censo a través
+de la plataforma web, debe seleccionar el código 2. e-Censo en proceso.
+▪ Si el/la Informante Calificado/a refiere que completó el e-Censo. Entonces, deberá
+seleccionar el código 3. Autocensado.
+▪ Sí el/la Informante Calificado/a manifiesta que todavía no ha comenzado el e-Censo
+pero que desea realizar el censo de manera presencial, entonces debe seleccionar el
+código 4. Censo Presencial y censar a la vivienda de acuerdo a las indicaciones
+establecidas en el Manual del/de la Censista.
+ii. Si no encuentra al/a la Informante:
+En el recuadro CÓDIGOS DE SEGUIMIENTO DEL CENSO EN LÍNEA (e-Censo) debe
+seleccionar el código que figura en la columna Resultado Censo en Línea del Marco de
+Trabajo del aplicativo CENSOS2025.
+iii. En cualquiera de los dos (2) casos presentados a. y b.:
+Tenga presente que se debe
+diligenciar el recuadro CÓDIGO DE
+SEGUIMIENTO DEL CENSO EN
+LINEA (E-CENSO), según la
+situación encontrada durante la
+visita de seguimiento (Ver 6).
+c. Vivienda solicitó e-Censo, se entregó código único de vivienda (CUV)
+Son las situaciones en las que el/la Informante solicitó voluntariamente participar del e-Censo, y se le
+entregó la Nota de Visita con el CUV. El/La Censista deberá seguir los siguientes pasos para realizar el
+seguimiento:
+Paso 1: Visualizar la pantalla del Marco de Trabajo, ubicar las columnas Resultado, Motivo Censo
+en Línea y Resultado Censo en Línea (Ver 1), prestando especial atención a esta última. Si
+en dicha columna se muestra el código 1. No inició el e-Censo o 2. e-Censo en proceso,
+asimismo, en la Columna Resultado Censo Presencial con resultado 2. Incompleto, el/la
+Censista deberá ir a la vivienda para realizar el seguimiento, con el objetivo de invitar al/a la
+Informante Calificado/a al a que inicie o complete el e-Censo; o en su defecto lograr realizar
+el Censo Presencial.
+4
+7
+5
+6
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+27
+Paso 2: Estando en la vivienda donde se realizará el seguimiento, deberá Iniciar la visita (Ver 2).
+Luego, para acceder a la pantalla que le permitirá realizar el seguimiento, deberá dar un toque
+en el botón Terminar (Ver 3).
+Paso 3: A continuación, se mostrará la venta emergente Terminar visita, donde en el recuadro
+Resultado seleccionará el código 8. Censo en Línea (e-Censo) (Ver 4). En el recuadro
+Motivo, se mostrará de manera predeterminada el código 3. Vivienda solicitó e-Censo, se
+entregó Código Único de Vivienda (CUV) (Ver 5).
+Luego, en el recuadro CÓDIGOS DE SEGUIMIENTO DEL CENSO EN LÍNEA (e-Censo) ,
+debe seleccionar uno de los códigos según la situación que se presente durante la visita de
+seguimiento a la vivienda (Ver 6), luego debe dar un toque en el botón Aceptar (Ver 7).
+Veamos los casos siguientes
+i. Si encuentra al/a la Informante:
+Si es atendido/a por el/la Informante Calificado/a, consulte sobre el estado de avance del
+e-Censo y tenga presente las instrucciones siguientes:
+▪ Si el/la Informante Calificado/a señala que todavía no ha comenzado a realizar el eCenso, pero que lo realizará el mismo, entonces, deberá seleccionar el código 1. No
+inició el e-Censo.
+▪ Si el/la Informante Calificado/a menciona que ya comenzó a realizar el e-Censo, que
+aún no lo ha completado pero tiene previsto finalizarlo el mismo, entonces, deberá
+seleccionar el código 2. e-Censo en proceso.
+De otro lado, si el/la Informante Calificado/a no ha completado el e-Censo pero desea
+proporcionar la información pendiente al/a la Censista (Censo Presencial), este
+último debe explicarle amablemente que, para realizar el censo presencial, tendrá
+que diligenciar las preguntas del cuestionario electrónico desde el principio. Si
+el/la Informante Calificado/a acepta, debe seleccionar el código 4. Censo Presencial
+y seguir las indicaciones del Manual del/de la Censista.
+Si el/la Informante Calificado/a decide continuar el mismo y culminar el censo a través
+de la plataforma web, debe seleccionar el código 2. e-Censo en proceso.
+2
+3
+1
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+28
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+▪ Si el/la Informante Calificado/a
+refiere que completó el e-Censo.
+Entonces, deberá seleccionar el
+código 3. Autocensado.
+▪ Sí el/la Informante Calificado/a
+manifiesta que todavía no ha
+comenzado el e-Censo pero que
+desea realizar el censo de manera
+presencial, entonces debe
+seleccionar el código 4. Censo
+Presencial y censar a la vivienda de
+acuerdo a las indicaciones
+establecidas en el Manual del/de la
+Censista.
+ii. Si no encuentra al/a la Informante:
+En el recuadro CÓDIGOS DE
+SEGUIMIENTO DEL CENSO EN LÍNEA
+(e-Censo) debe seleccionar el código
+que figura en la columna Resultado
+Censo en Línea del Marco de Trabajo
+del aplicativo CENSOS2025.
+iii. En cualquiera de los dos (2) casos presentados i. y ii.:
+Tenga presente que se debe diligenciar el recuadro CÓDIGO DE SEGUIMIENTO DEL
+CENSO EN LINEA (E-CENSO), según la situación encontrada durante la visita de
+seguimiento (Ver 6).
+d. Vivienda tiene Código Único de Vivienda (CUV) de forma independiente (No Censista)
+Se trata de los casos en los que el/la Informante Calificado/a manifestó haber obtenido el CUV, a
+través de la llamada realizada al Call Center de los Censos Nacionales 2025. El/La Censista deberá
+seguir los siguientes pasos para realizar el seguimiento:
+Paso 1: Visualizar la pantalla del Marco de Trabajo, ubicar las columnas Resultado, Motivo Censo
+en Línea y Resultado Censo en Línea (Ver 1), prestando especial atención a esta útima. Si
+en dicha columna se muestra el código 1. No inició el e-Censo o 2. e-Censo en proceso,
+asimismo, en la Columna Resultado Censo Presencial con resultado 2. Incompleto, el/la
+Censista deberá ir a la vivienda para realizar el seguimiento, con el objetivo de invitar al/a la
+Informante Calificado/a a que complete el e-Censo.
+4
+5
+7
+6
+e-Censo en proceso
+1
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+29
+Paso 2: Estando en la vivienda donde se realizará el seguimiento, deberá Iniciar la visita (Ver 2).
+Luego, para acceder a la pantalla que le permitirá realizar el seguimiento, deberá dar un toque
+en el botón Terminar (Ver 3).
+Paso 3: A continuación, se mostrará la venta emergente Terminar visita, donde en el recuadro
+Resultado seleccionará el código 8. Censo en Línea (e-Censo) (Ver 4). En el recuadro
+Motivo, se mostrará de manera predeterminada el código 4. Vivienda tiene Código Único de
+Vivienda (CUV) de forma independiente (No Censista) (Ver 5).
+Luego, en el recuadroCÓDIGOS DE SEGUIMIENTO DEL CENSO EN LÍNEA (e-Censo), debe
+seleccionar uno de los códigos según la situación que se presente durante la visita de
+seguimiento a la vivienda (Ver 6), luego debe dar un toque en el botón Aceptar (Ver 7).
+Veamos los siguientes casos:
+i. Si encuentra al/a la Informante:
+Si es atendido/a por el/la Informante Calificado/a, consulte sobre el estado de avance del
+e-Censo. Veamos algunos casos que podrían ocurrir:
+▪ Si el/la Informante Calificado/a
+señala que todavía no ha
+comenzado a realizar el e-Censo,
+pero que lo realizará el mismo,
+entonces, deberá seleccionar el
+código 1. No inició el e-Censo.
+▪ Si el/la Informante Calificado/a
+menciona que ya comenzó a
+realizar el e-Censo, que aún no lo
+ha completado pero tiene previsto
+finalizarlo el mismo, entonces,
+deberá seleccionar el código 2. eCenso en proceso.
+De otro lado, si el/la Informante
+Calificado/a no ha completado el eCenso pero desea proporcionar la
+información pendiente al/a la
+Censista (Censo Presencial), este
+último debe explicarle
+amablemente que, para realizar el
+censo presencial, tendrá que
+diligenciar las preguntas del
+cuestionario electrónico desde el
+principio.
+Si el/la Informante Calificado/a acepta, debe seleccionar el código 4. Censo
+Presencial y seguir las indicaciones del Manual del/de la Censista. Pero, si el/la
+Informante Calificado/a decide continuar el mismo y culminar el censo a través de la
+plataforma web, debe seleccionar el código 2. e-Censo en proceso.
+2 3
+5
+4
+7
+6
+Capítulo 02 Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares
+30
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+▪ Si el/la Informante Calificado/a refiere que
+completó el e-Censo, entonces, deberá
+seleccionar el código 3. Autocensado y el
+aplicativo le mostrará los recuadros donde
+deberá registrar el 1. Número total de
+personas en la vivienda, 2. Datos de la
+persona de contacto y 3. Código de
+finalización.
+▪ Sí el/la Informante Calificado/a manifiesta que todavía no ha comenzado el e-Censo
+pero que desea realizar el censo de manera presencial, entonces debe seleccionar el
+código 4. Censo Presencial y censar a la vivienda de acuerdo a las indicaciones
+establecidas en el Manual del/de la Censista.
+ii. Si no encuentra al/a la Informante:
+En el recuadro CÓDIGOS DE SEGUIMIENTO DEL CENSO EN LÍNEA (e-Censo) debe
+seleccionar el código que figura en la columna Resultado Censo en Línea del Marco de
+Trabajo del aplicativo CENSOS2025.
+iii. En cualquiera de los dos (2) casos presentados i. y ii.:
+Tenga presente que se debe diligenciar el recuadro CÓDIGO DE SEGUIMIENTO DEL
+CENSO EN LINEA (E-CENSO), según la situación encontrada durante la visita de
+seguimiento (Ver 6).
+B. VISITAS DE SEGUIMIENTO POSTERIORES A LA PRIMERA VISITA DE SEGUIMIENTO
+Después de haber realizo la primera visita de seguimiento, el/la Censista deberá regresar a las viviendas
+que mantienen los resultados el e-Censo con los códigos 1. No se inició o 2. e-Censo en proceso, en el
+Marco de Trabajo del aplicativo CENSOS2025 con la finalidad de invitar al/a la Informante a iniciar o
+completar el e-Censo según corresponda; o en su defecto, concretar el Censo de forma presencial.
+Los procedimientos a seguir son los mismos que se han desarrollado en el ítem A.
+Jefe/a de Sección y Supervisor de Sector Censal
+Tener en cuenta:
+Si en la visita de seguimiento el/la Informante Calificado/a indicó al/a la Censista
+que ya realizo el Autocenso de la vivienda al/a la Censista es IMPORTANTE
+VERIFICAR que este resultado figure en el Sistema de Monitoreo de los
+Censos Nacionales 2025.
+Para visualizar la información actualizada del resultado del e-Censo en el
+Marco de Trabajo, se recomienda iniciar sesión nuevamente en el aplicativo
+antes de comenzar a realizar las visitas de seguimiento a las viviendas
+particulares que cuentan con CUV.
+Censista
+Procedimiento operativo para la ejecución del e-Censo en Viviendas Particulares Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+31
+2.3 ESTRATEGIA DE CAMPO DEL CENSO EN LÍNEA PARA EL INGRESO A VIVIENDAS
+MULTIFAMILIARES
+A continuación, se presentan las situaciones que podrían ocurrir durante el trabajo de campo del/de la Censista:
+CASO 1: Permiten el ingreso a la vivienda multifamiliar para la entrega de la Nota de Visita con el Código Único
+de Vivienda (CUV)
+Si en la carga de trabajo del/de la Censista hay viviendas multifamiliares por las cuales, el/la
+Coordinador/a de Subsede Departamental Censal, el/ la Supervisor/a de Sector Censal y/o el/la Jefe/a de
+Sección Censal han realizado coordinaciones para el ingreso a las viviendas multifamiliares con los/las
+administradores/as y/o presidentes/as de las Juntas Directivas, los cuales manifiestan la negativa de
+los/las Residentes Habituales a realizar el Censo Presencial, entonces, como estrategia operativa se
+consultará sobre la posibilidad de entregar las Notas de Visita con el Código Único de Vivienda (CUV), y
+las Cartas de Presentación a las viviendas para que participen en el Censo en Línea.
+Si de la consulta realizada la respuesta es afirmativa por parte de los/las administradores/as y/o
+presidentes/as de las Juntas Directivas, entonces proceda a realizar los siguientes pasos:
+Paso 1: Solicite amablemente al/a la representante de la vivienda multifamiliar la disponibilidad para
+que, le permita verificar las viviendas particulares por piso o block coinciden con las del
+Listado de Viviendas impreso, de haber diferencia, proceda a crear las viviendas nuevas, según
+las consideraciones del Manual del/de la Censista.
+Paso 2: Sondee o indague con el/la representante del condominio o edificio entre otros, sobre la
+condición de ocupación de las viviendas existentes.
+Paso 3: Organice las Cartas de Presentación y/o Notas de Visita, separándolas por block, piso y
+número de interior, de acuerdo, con el Listado de viviendas impreso.
+Paso 4: Visite a cada una de las viviendas del condominio y/o edificio entre otros; y realice los pasos
+para la entrega del Código Único de Vivienda (CUV), según las consideraciones del Manual del/de
+la Censista.
+Paso 5: Anote la información solicitada y el Código Único de Vivienda (CUV) en la Nota de Visita y
+déjela bajo la puerta de las viviendas en donde no se encuentra el/la Informante o entréguela al/a
+la Informante presente en cada una de las viviendas.
+CASO 2: No permiten el ingreso a la vivienda multifamiliar y se niegan a dar datos de la Junta Directiva
+Ante la negativa del personal de seguridad de proporcionarlos datos de los integrantes de la junta directiva
+de la vivienda multifamiliar, así como la negativa de cada uno/a de los/las responsables del hogar de las
+viviendas al interior del condominio, edificio u otro, y no es posible dejar las Cartas de Presentación y/o
+Notas de Visita para responder el Censo en Línea.
+Para ello, debe solicitar amablemente al personal de la puerta de ingreso (vigilantes, conserje u otro) que
+brinde algún dato de contacto de los/las representantes de la Junta Directiva de la vivienda multifamiliar,
+a fin de hacerles llegar la documentación oficial sobre la ejecución de los Censos Nacionales 2025. Esta
+información puede incluir nombres y apellidos o solo apellidos, número de interior en el que reside o cargo
+funcional que ejerce en la Junta Directiva.
+Si la negativa persiste, se deberá intentar obtener la información a través de alguno de los/las Residentes
+Habituales de la vivienda multifamiliar, previa explicación sobre la importancia de esta actividad.
+Comunique la situación al/a la Jefe/a de Sección Censal y/o al/a la Supervisor/a de Sector Censal, quienes
+informarán a su jefe/a inmediato/a sobre los inconvenientes para ingresar a la vivienda multifamiliar, a fin
+de que, de manera conjunta, se puedan obtener los datos requeridos.
+Si durante la espera para gestionar los datos requeridos, algunos/as de los/las Informantes Calificados/as
+que residen en las viviendas particulares acepta recibir la Nota de Visita, proceda con su entrega
+respectiva, siguiendo el procedimiento establecido en este instructivo.
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+32
+03 PROCEDIMIENTO PARA EL LLENADO DEL CUESTIONARIO
+ELECTRÓNICO EN LA PLATAFORMA WEB DEL e-CENSO
+El personal operativo de campo debe conocer el procedimiento del e-Censo que realizará el/la Informante Calificado/a.
+3.1 OBTENCIÓN DEL CÓDIGO DE ACCESO AL CUESTIONARIO ELECTRÓNICO EN LÍNEA
+El/La Informante Calificado/a debe ingresar el Código Único de Vivienda (CUV) que le entregó el/la Censista o el Call
+Center de los Censos Nacionales 2025 y seguir las siguientes instrucciones:
+Paso 1: Deberá ingresar a la página web de los Censos
+Nacionales 2025 en su buscador, o escaneando el
+código QR de la página oficial y/o en sus redes sociales
+del INEI (Ver 1).
+Paso 2: Hará clic o dará un toque sobre el botón Iniciar Registro, si es por primera vez o en el botón Continuar
+Censo, cuando retome el diligenciamiento (Ver 2), leerá y aceptará los términos de consentimiento para
+continuar con el diligenciamiento (Ver 3) y luego, hará clic o dará un toque en el botón Comenzar (Ver 4).
+1
+2
+3
+4
+Procedimiento para el llenado del cuestionario electrónico en la plataforma Web del e-Censo Capítulo 03
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+33
+Paso 3: Ingresará el Código Único de Vivienda (CUV) que le fue entregado (Ver 5) y hará clic o dará un toque en el
+botón Validar Código (Ver 6). En esta pantalla, al/ a la Informante calificado/a se le enfatiza que el CUV es
+único e intransferible y que debe conservarlo hasta finalizar su registro en el censo.
+Paso 4: En la ventana datos personales, el/la Informante Calificado/a, responsable de completar la información de
+los miembros del hogar en el Cuestionario Censal ingresará sus datos (Ver 7) y hará clic o dará un toque en
+el botón Continuar para guardar la información (Ver 8).
+5
+6
+7
+8
+Capítulo 03 Procedimiento para el llenado del cuestionario electrónico en la plataforma Web del e-Censo
+34
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Paso 5: En la ventana Registro, el/la Informante Calificado/a registrará el correo electrónico o anotará el número de
+celular, en el medio que haya registrado, recibirá un mensaje con el Código de Acceso (Ver 9) y luego, hará
+clic o dará un toque en el botón Enviar código (Ver 10).
+Paso 6: Revise su correo electrónico para comprobar, si recibió el mensaje con el Código de Acceso para realizar
+el Censo en Línea (Ver 11).
+11
+Procedimiento para el llenado del cuestionario electrónico en la plataforma Web del e-Censo Capítulo 03
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+35
+Paso 7: Registrará el Código de Acceso que recibió en el correo (Ver 12) y hará clic o dará un toque en el botón
+Verificar código (Ver 13).
+Paso 8: Después de realizar estos pasos, el/la Informante
+Calificado/a quedará listo para empezar con el
+diligenciamiento o llenado del Cuestionario Censal
+porque tiene su Código de Acceso. Asimismo, deberá
+dar un toque o hacer clic en el botón Iniciar Sesión
+(Ver 14):
+Importante
+ Todos los miembros de su hogar deben censarse.
+ Este código se generará cada vez que se ingrese a continuar con el Censo en Línea.
+ Mientras, el Censo en Línea esté vigente, podrá ingresar a contestar el Cuestionario
+Censal, cuantas veces lo requiera, hasta terminar con el diligenciamiento.
+12
+13
+14
+Capítulo 03 Procedimiento para el llenado del cuestionario electrónico en la plataforma Web del e-Censo
+36
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+3.2 LLENADO DEL CUESTIONARIO ELECTRÓNICO EN LÍNEA
+Paso 9: El/La Informante Calificado/a leerá minuciosamente las instrucciones, antes de iniciar con el
+diligenciamiento de la información en el Cuestionario Censal y luego, hará clic o dará un toque en el botón
+Comenzar el censo (Ver 15).
+A partir del siguiente paso, puede completar cada una de las secciones del cuestionario electrónico
+censal: vivienda, hogar y personas. Cuando llene una sección se habilitará la siguiente y si tiene alguna
+duda acerca de los conceptos o definiciones presentados, hará clic o dará un toque en el ícono para
+visualizar la ayuda necesaria.
+Paso 10: Registrará los datos de las preguntas 18 y 19 de la Sección I. Localización Censal, Condición de
+Ocupación y Número de Hogares de la Vivienda (Ver 16), luego, hará clic o dará un toque en el botón
+Siguiente para guardar la información y avanzar (Ver 17).
+15
+16
+17
+Procedimiento para el llenado del cuestionario electrónico en la plataforma Web del e-Censo Capítulo 03
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+37
+Paso 11: SOLO EL HOGAR PRINCIPAL o el PRIMER HOGAR EN INGRESAR, deberá responder las preguntas de la
+Sección II. Características y Servicios de la Vivienda que se centran en el material de construcción de
+predominante en paredes, techos, pisos y servicios de agua y energía eléctrica.
+Para ello, seleccionará las alternativas de respuesta en TODAS las preguntas de la Sección II, luego, hará
+clic o dará un toque en el botón Siguiente (Ver 18).
+Paso 12: Continuará con el llenado de las preguntas de la Sección III. Características del Hogar que abarcan la
+posesión de la vivienda y de bienes, servicios del hogar, tipo de energía para cocinar, eliminación de
+residuos sólidos y la emigración.
+Seleccionará el código de las alternativas de respuesta en TODAS las preguntas de la Sección III, luego,
+hará clic o dará un toque en el botón Siguiente (Ver 19).
+18
+19
+Capítulo 03 Procedimiento para el llenado del cuestionario electrónico en la plataforma Web del e-Censo
+38
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+Paso 13: Registrará la información en TODAS las preguntas de la Sección IV. Personas que conforman el Hogar,
+que trata sobre el número de personas que viven permanentemente en el hogar, así como sus nombres,
+apellidos, parentesco, sexo y edad.
+Para cada hogar corresponde un/a Responsable del hogar, para el resto de los miembros del mismo hogar,
+indicar su parentesco respecto al/a la Responsable del hogar, para avanzar a la próxima sección y hará
+clic o dará un toque en el botón Siguiente para guardar la información y avanzar (Ver 20).
+Paso 14: De igual forma para la Sección V. Características de la Población, donde se registrarán los datos de cada
+persona teniendo como referencia la Sección IV. Personas que conforman el hogar, finalizará con el
+llenado que comprende las preguntas desde la relación de parentesco pasando por nivel y grado
+educativo hasta el estado civil.
+Para ello, deberá seleccionar el código y/o registrará en la alternativa de la respuesta en TODAS las
+preguntas de la Sección V y, completará los datos de TODOS los miembros de su hogar, declarados en el
+listado anterior, luego, hará clic o dará un toque en el botón Siguiente (Ver 21).
+20
+21
+Procedimiento para el llenado del cuestionario electrónico en la plataforma Web del e-Censo Capítulo 03
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+39
+Paso 15: Luego, de completar la información de cada uno de los/las Residentes Habituales de la vivienda, se
+mostrará en una pantalla emergente el resultado del Censo en su vivienda y el Código de Finalización,
+para finalizar con el e-Censo, hará clic o dará un toque en el botón Descargar QR (Ver 22) para descargar
+el Constancia de Participación (Ver 23).
+Asimismo, al escanear el Código QR que se
+encuentra en el Constancia de Participación, en
+la pantalla de su celular se mostrará el Código
+de Finalización (Ver 24), información que
+deberá conservar el/la informante para cuando
+el/la Censista los solicite en sus visitas de
+seguimiento.
+El código QR, se almacenará en el dispositivo
+(PC, laptop, celular) donde realizo realizó el
+registro del censo
+24
+22
+23
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+40

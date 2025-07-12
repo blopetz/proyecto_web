@@ -1,0 +1,493 @@
+
+
+
+
+
+
+
+
+Contenido
+
+01 USO Y MANEJO DE LA TABLETA LENOVO TAB TB311XU ...................................................................... 7
+1.1 RECONOCIMIENTO DE LA TABLETA ............................................................................................. 7
+1.2 PARTES Y ACCESORIOS DE LA TABLETA ...................................................................................... 7
+1.2.1 PARTES DE LA TABLETA ....................................................................................................... 7
+1.2.2 ACCESORIOS DE LA TABLETA.............................................................................................. 8
+1.3 DESCRIPCIÓN DE LAS PRINCIPALES PARTES Y ACCESORIOS DE LA TABLETA ........................... 8
+1.3.1 BOTÓN DE ENCENDIDO....................................................................................................... 8
+1.3.2 RANURA DE TARJETA MICRO SD (MEMORIA EXTERNA) O TARJETA SIM (CHIP) .............. 10
+1.3.3 CARGADO DE LA BATERÍA ................................................................................................. 11
+1.3.4 BATERÍA EXTERNA.............................................................................................................. 11
+1.4 MANEJO DE LA TABLETA ............................................................................................................ 12
+1.4.1 DESBLOQUEO DE DISPOSITIVO ........................................................................................ 12
+1.4.2 CONFIGURACIÓN DE BRILLO DE PANTALLA .................................................................... 13
+1.4.3 CONFIGURACIÓN DE WI-FI................................................................................................ 14
+02 MÓDULO DE COBERTURA DEL APLICATIVO CENSOS2025 ............................................................... 16
+2.1 CENSOS DE POBLACIÓN Y VIVIENDA ............................................................................................ 16
+2.2 CENSOS DE COMUNIDADES INDÍGENAS ...................................................................................... 24
+
+
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+7
+01 USO Y MANEJO DE LA TABLETA LENOVO TAB TB311XU
+
+
+1.1 RECONOCIMIENTO DE LA TABLETA
+Para el desarrollo del trabajo de campo, la herramienta informática que se empleará es la TABLETA LENOVO TAB
+TB311XU, cuya información del software contiene la versión Android 14. Este dispositivo se caracteriza por utilizar
+una pantalla táctil como mecanismo principal para interactuar con el/la usuario/a.
+1.2 PARTES Y ACCESORIOS DE LA TABLETA
+Con el objetivo de optimizar el recojo de información en campo, es necesario conocer las partes y los accesorios
+con los que cuenta la tableta LENOVO TAB TB311XU, tal y como se visualizan en la imagen siguiente:
+1.2.1 PARTES DE LA TABLETA
+1 Conector USB - C 5 Botón de encendido y apagado
+2 Conector de auriculares 6 Cámara Posterior
+3 Ranura para tarjeta micro SD y tarjeta SIM (Chip) 7 Cámara frontal
+4 Botones de volumen
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+8
+1.2.2 ACCESORIOS DE LA TABLETA
+En las siguientes imágenes, se muestran los accesorios de la tableta LENOVO TAB TB311XU que le serán de
+utilidad para optimizar el recojo de la información:
+Cable micro USB
+Adaptador de Corriente
+Llave de extracción
+Equipo móvil Caja de tableta
+1.3 DESCRIPCIÓN DE LAS PRINCIPALES PARTES Y ACCESORIOS DE LA TABLETA
+1.3.1 BOTÓN DE ENCENDIDO
+Este botón permite realizar las acciones siguientes:
+a. Tableta en modo encendido: Para ello, mantenga presionado el botón de Encendido por alrededor de
+cuatro (4) segundos (Ver 1) y de inmediato, se mostrará el logo de LENOVO lo cual es un indicativo que
+su tableta se ha encendido.
+Botón
+Encendido
+1
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+9
+b. Tableta en modo Suspensión: Tener en cuenta que, estando la tableta encendida, al presionar el botón
+de Encendido (Ver 2) el dispositivo puede entrar en modo suspensión para ahorrar energía.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c. Activación de pantalla de la tableta: Para poder activar nuevamente la pantalla existen dos (2) maneras:
+1. Presionando el botón de Encendido (Ver 3).
+2. Realizando doble toque a la pantalla (Ver 4).
+Modo activado
+d. Apagado o reinicio de la tableta: Para apagar, presione el botón de Encendido por dos (2) segundos (Ver
+5); y de inmediato, en la tableta se mostrará una ventana emergente mostrando tres (3) acciones a
+realizar; luego realice un toque en Emergencias (Ver 6), en Reiniciar (Ver 7) o Apagar (Ver 8), según sea su
+elección.
+2
+Botón de
+Encendido
+3
+Doble toque
+a la Pantalla
+4
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+10
+1.3.2 RANURA DE TARJETA MICRO SD (MEMORIA EXTERNA) O TARJETA SIM (CHIP)
+La ranura para tarjeta micro SD y/o tarjeta SIM está ubicada en la parte lateral derecha de la tableta.
+a. Para insertar una tarjeta Micro SD y/o tarjeta SIM(Chip), la
+tableta debe estar apagada. Luego, utilizando la llave de
+extracción, abra la cubierta de la ranura de la tarjeta.
+1. Para poder abrir la bandeja de la tarjeta de memoria,
+inserte la llave de extracción en el orificio de la bandeja.
+2. Asegúrese que la llave de extracción se encuentre de
+forma perpendicular al orificio.
+3. Luego extraiga con cuidado la bandeja de su ranura.
+4. Inserte la tarjeta Micro SD y/o tarjeta SIM (lado dorado de
+la tarjeta SIM) dentro de la ranura.
+5. Presione suavemente tarjeta Micro SD y/o tarjeta SIM
+(Chip), hacia la bandeja; asegurarse que se encuentre
+correctamente fijada.
+b. Para retirar la tarjeta Micro SD y/o tarjeta SIM (Chip), el equipo debe estar apagado; y de igual manera,
+utilice la llave de extracción para abrir la ranura de la tarjeta.
+5
+Botón
+6 7 8
+Importante
+La pantalla de la tableta debe estar obligatoriamente de forma vertical para poder
+facilitar su uso en las labores diarias. Los pasos a seguir para realizar esta acción
+son:
+1. Girará la pantalla de forma vertical.
+2. Desliza la pantalla desde la parte superior derecha hasta la parte inferior.
+3. Hacer clic en el botón Giro automático (Activado) para poder Desactivarlo.
+Importante
+Para insertar la tarjeta SIM (chip) la tableta debe encontrarse apagada.
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+11
+1.3.3 CARGADO DE LA BATERÍA
+Para cargar la batería de la tableta, debe conectar el adaptador de corriente a una fuente de energía eléctrica.
+Tenga presente que la tableta cargará con mayor rapidez si está apagada.
+Existen otras formas para cargar la tableta:
+- Si se desea cargar la tableta mediante una computadora o laptop, se debe conectar el cable micro USB
+al puerto USB de una computadora o laptop que se encuentre encendida; tenga en cuenta que el proceso
+de cargado por este medio toma más tiempo. Asimismo, es recomendable tener apagada la tableta al
+momento de hacer la conexión con la computadora o laptop, para que lo reconozca como dispositivo.
+1.3.4 BATERÍA EXTERNA
+Cuando la batería de la tableta esté por agotarse y no cuente con una fuente de suministro de energía
+eléctrica o se encuentre en pleno trabajo de campo, debe utilizar una batería externa que se le entregará
+como accesorio adicional.
+Para cargar la tableta con este dispositivo, se debe proceder de la manera siguiente:
+- Conectar la tableta, mediante el cable USB, a la batería externa.
+- Encender el cargador y se espera a que la tableta inicie la carga.
+- Cuando la tableta se encuentre cargada; se desconecta y se apaga el cargador.
+Para cargar por primera vez la batería externa, debe conectar a una fuente de energía eléctrica
+aproximadamente ocho (8) horas, mediante el adaptador de corriente de la tableta.
+Para saber la capacidad de carga disponible de la batería externa, deberá observar que las cuatro (4) luces
+led estén en color azul, lo cual indica que la carga está completa.
+Importante
+Tenga en cuenta que el nivel de batería con el que cuenta el equipo, podrá ser
+visualizado en la parte superior derecha.
+Estados de la Batería:
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+12
+Modelo: Xiaomi Redmi Power Bank 20000 mAh
+1.4 MANEJO DE LA TABLETA
+Es importante conocer el adecuado manejo de la tableta ya que nos permitirá tener una mejor accesibilidad a los
+aplicativos y sus configuraciones.
+1.4.1 DESBLOQUEO DE DISPOSITIVO
+A continuación, se muestran dos formas distintas para realizar el desbloqueo de la tableta:
+Cuando la tableta se encuentre en modo de suspensión (pantalla oscura), presione el botón de Encendido,
+ubicado en la esquina superior derecho de la tableta (Ver 1).
+1
+botón
+Encendido
+Pantalla inicial de la tableta
+a en modo suspensión.
+Importante
+El botón de revisión de nivel de energía No es botón de encendido.
+El indicador de energía se apaga automáticamente dos minutos, después de
+agotarse la batería.
+Si no enciende el indicador de corriente después de dar un toque al botón, puede
+que el producto haya entrado en estado de protección. Para restaurarlo, intente
+conectar el dispositivo a un cargador externo.
+Puerto Micro USB (entrada)
+Indicador de revisión de nivel de batería
+Puerto USB A (salida)
+Puerto USB– C (entrada)
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+13
+A continuación, la pantalla se activará; en el caso la tableta se encuentre bloqueada, deslizar el dedo hacia
+arriba de la pantalla para desbloquear la tableta (Ver 2).
+Pantalla inicial de la tableta bloqueada. Pantalla principal de la tableta desbloqueada.
+
+1.4.2 CONFIGURACIÓN DE BRILLO DE PANTALLA
+Desbloquea la tablet y desliza hacia abajo desde la parte superior de la pantalla para abrir el panel de
+notificaciones o configuración rápida. (Ver 1).
+Busca el ícono de brillo (generalmente es un sol con una barra). Puedes ajustar directamente el brillo
+desde ahí deslizando la barra. (Ver 2)
+Desliza hacia
+arriba para
+desbloquear
+la pantalla
+1
+hacia arriba
+para
+desbloquear
+la pantalla
+1
+Desliza la pantalla
+desde la parte
+superior hasta la
+parte inferior.
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+14
+1.4.3 CONFIGURACIÓN DE WI-FI
+• MEDIANTE WI-FI
+Para establecer la conexión a Internet por medio de Wi-Fi ingrese al icono de WifiCenter (Ver 1);
+seleccione Después para Activar esta opción, realice un toque sobre el interruptor (Ver 2). A continuación,
+se muestra la lista de redes de Wi-fi disponibles. (Ver 3)
+2
+1
+2
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+15
+Posteriormente, ubique la red a la cual desea conectarse, ingrese la contraseña correspondiente y dar un
+toque en CONECTAR (Ver4). Finalmente, la conexión estará establecida cuando visualice el siguiente
+ícono en el panel de notificaciones. (Ver 5)
+4
+5
+3
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+16
+02 MÓDULO DE COBERTURA DEL APLICATIVO CENSOS2025
+2.1 CENSOS DE POBLACIÓN Y VIVIENDA
+Los reportes del módulo de Cobertura permitirán visualizar el avance del trabajo de campo de los/las Censistas para
+controlar las viviendas según el resultado final obtenido en campo.
+Para acceder al módulo de Cobertura, el/la Censista debe ingresar al aplicativo CENSOS2025 con su usuario y
+contraseña otorgado. Luego debe dar un toque en el menú principal (tres líneas de la parte superior izquierda) (Ver
+1) y se listarán los diferentes módulos que tiene el aplicativo, a continuación, seleccionará el módulo Cobertura (Ver
+2).
+Este módulo mostrará ocho (8) reportes de control del avance del trabajo, de tal forma que los/las Censistas puedan
+verificar cuantas viviendas van trabajando y el resultado de las mismas, tanto a nivel de viviendas faltantes, viviendas
+incompletas, hogares incompletos, personas incompletas, viviendas cita pendientes (no inició entrevista), resumen
+de viviendas por resultado, resumen de exportación, viviendas por resultado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+17
+REPORTE 01. VIVIENDAS FALTANTES
+Para ingresar al reporte de Viviendas Faltantes, se debe dar un toque en el ícono Reporte 01. Viviendas Faltantes
+(Ver 1), se mostrará la interface del Reporte 01 donde deberá seleccionar los recuadros Periodo y Área de Trabajo.
+Recuerde que el recuadro Censista ya viene por defecto con información NO MODIFICABLE (Ver 2).
+2
+1
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+18
+El reporte mostrará todas las viviendas que faltan ser trabajadas, es decir, no tienen un resultado final.
+REPORTE 02. VIVIENDAS INCOMPLETAS
+Para ingresar al reporte de Viviendas Incompletas, se debe dar un toque en el ícono Reporte 02. Viviendas
+Incompletas (Ver 1), se mostrará la interface del Reporte 02 donde deberá seleccionar los recuadros Periodo y Área
+de Trabajo. Recuerde que el recuadro Censista ya viene por defecto con información NO MODIFICABLE (Ver 2).
+Este reporte mostrará todas las viviendas que tienen como resultado final Incompleta, e indicará qué secciones
+tienen información y qué secciones carecen de ella. Las secciones con información tendrán un check de color verde
+en sus respectivos recuadros, mientras que las secciones sin información tendrán una equis de color rojo en sus
+respectivos recuadros (Ver 3).
+1
+2
+3
+3
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+19
+REPORTE 03. HOGARES INCOMPLETOS
+Para ingresar al reporte de Hogares Incompletos, se debe dar un toque en el ícono Reporte 03. Hogares Incompletos
+(Ver 1), se mostrará la interface del Reporte 03 donde deberá seleccionar los recuadros Periodo, Área de Trabajo y
+Viviendas Incompletas. Recuerde que el recuadro Censista ya viene por defecto con información NO MODIFICABLE
+(Ver 2).
+El reporte mostrará todas las viviendas que tienen como resultado final Incompleta, listando los hogares declarados
+y en ellas se indicará cuáles de las secciones de los hogares deben tener información, cuales ya la tienen o aquellos
+hogares que no tiene información.
+En este sentido, las secciones, a nivel de hogares, que le corresponden tener información son: Sección III, Sección
+IV y Sección V.
+Las secciones con información tendrán un check de color verde en sus respectivos recuadros, mientras que las
+secciones que no tiene información tendrán una equis de color rojo en sus respectivos recuadros.
+REPORTE 04. PERSONAS INCOMPLETAS
+Para ingresar al reporte de Persona Incompletas, se debe dar un toque en el ícono Reporte 04. Personas Incompletas
+(Ver 1), se mostrará la interface del Reporte 04 donde deberá seleccionar los recuadros Periodo, Área de Trabajo y
+Viviendas Incompletas. Recuerde que el recuadro Censista ya viene por defecto con información NO MODIFICABLE
+(Ver 2).
+1
+2
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+20
+El reporte mostrará todas las personas, a nivel de
+hogares, que aún están pendiente de dar
+información, por lo tanto, esas viviendas tienen
+como resultado final Incompleta.
+Asimismo, listará las secciones que se recogen a
+nivel de personas, indicando que secciones tienen
+información y cuales carecen de ella.
+Las secciones, a nivel de personas que le
+corresponden tener información son: Sección V.
+Las secciones con información tendrán un check de
+color verde en sus respectivos recuadros, mientras
+que las secciones sin información tendrán una
+equis de color rojo en sus respectivos recuadros.
+REPORTE 05. VIVIENDAS CITAS PENDIENTES (NO INICIÓ ENTREVISTA)
+Para ingresar al reporte de viviendas citas pendientes (no
+inició entrevista), se debe dar un toque en el ícono Reporte
+05. VIVIENDAS CITAS PENDIENTES (NO INICIÓ
+ENTREVISTA) (Ver 1), se mostrará la interface del Reporte
+05 donde deberá seleccionar los recuadros Periodo y Área
+de Trabajo. Recuerde que el recuadro Censista ya viene por
+defecto con información NO MODIFICABLE (Ver 2).
+2
+1
+1
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+21
+El reporte mostrará todas las viviendas que tiene como resultado final código 7. No inició entrevista, lo cual es una
+alerta para que el/la Censista y el/la Jefe/a de Sección Censal hagan seguimiento a esas viviendas y puedan
+concretar la entrevista.
+REPORTE 06. RESUMEN DE VIVIENDAS POR RESULTADO
+Para ingresar al reporte de resumen de viviendas por resultado, se debe dar un toque en el ícono Reporte 06.
+RESUMEN DE VIVIENDAS POR RESULTADO (Ver 1), se mostrará la interface del Reporte 06 donde deberá
+seleccionar los recuadros Periodo y Área de Trabajo. Recuerde que el recuadro Censista ya viene por defecto con
+información NO MODIFICABLE (Ver 2).
+2
+2
+1
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+22
+El reporte mostrará todas las viviendas que forman parte del marco de trabajo con su respectivo resultado final, lo
+cual es una alerta para que el/la Censista y el/la Jefe/a de Sección Censal hagan seguimiento a esas viviendas que
+tiene un resultado diferente de completo.
+Este reporte va mostrar de manera detallada las viviendas por cada tipo de resultado, es decir
+• Listará todas las viviendas cuyo resultado final es completo.
+• Listará todas las viviendas cuyo resultado final es incompleto.
+• Listará todas las viviendas cuyo resultado final es rechazo.
+• Listará todas las viviendas cuyo resultado final es ausente.
+• Listará todas las viviendas cuyo resultado final es vivienda desocupada.
+• Listará todas las viviendas cuyo resultado final es vivienda transitoria.
+• Listará todas las viviendas cuyo resultado final es censo en línea
+• Listará todas las viviendas cuyo resultado final es otro.
+Este reporte es un tipo resumen para poder visualizar cuantas viviendas tiene un determinado resultado final de
+entrevista.
+REPORTE 07. RESUMEN DE EXPORTACIÓN
+Para ingresar al reporte de resumen de exportación, se debe dar un toque en el ícono Reporte 07. RESUMEN DE
+EXPORTACIÓN (Ver 1), se mostrará la interface del Reporte 07 con todas las Viviendas con resultado final para ser
+exportadas (Ver 2).
+Este reporte va mostrar todas las viviendas con resultado final que están pendientes de ser exportadas, de esa
+manera el/la Censista y el/la Jefe/a de Sección Censal harán seguimiento a esas viviendas para una oportuna
+exportación de información al servidor.
+1
+2
+2
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+23
+REPORTE 08. VIVIENDAS POR RESULTADO
+Para ingresar al reporte de viviendas por resultado se debe dar un toque en el ícono Reporte 08 VIVIENDAS POR
+RESULTADO (Ver 1), se mostrará la interface del Reporte 08 donde deberá seleccionar los recuadros Periodo, Área
+de Trabajo y Resultado. Recuerde que el recuadro Censista ya viene por defecto con información NO MODIFICABLE
+(Ver 2).
+Este reporte va mostrar de manera detallada las viviendas por cada tipo de resultado, es decir
+• Si se selecciona Completa listará todas las viviendas cuyo resultado final es completo.
+• Si se selecciona Incompleta listará todas las viviendas cuyo resultado final es incompleto.
+• Si se selecciona Rechazo listará todas las viviendas cuyo resultado final es rechazo.
+• Si se selecciona Ausente listará todas las viviendas cuyo resultado final es ausente.
+• Si se selecciona Vivienda Desocupada listará todas las viviendas cuyo resultado final es vivienda desocupada.
+• Si se selecciona Vivienda Transitoria listará todas las viviendas cuyo resultado final es vivienda transitoria.
+• Si se selecciona Censo en Línea listará todas las viviendas cuyo resultado final es censo en línea
+• Si se selecciona Otro listará todas las viviendas cuyo resultado final es otro.
+Este reporte es un tipo resumen para poder visualizar cuantas viviendas tienen un determinado resultado final de
+entrevista.
+1
+2
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+24
+2.2 CENSOS DE COMUNIDADES INDÍGENAS
+Los reportes del módulo de Cobertura permitirán visualizar el avance del trabajo de campo de los/las Censistas de
+Comunidades Indígenas para controlar el desarrollo del operativo ejecutado para las comunidades nativas y
+campesinas, según el resultado final obtenido en campo.
+Para acceder al módulo de Cobertura, el/la Censista de Comunidades Indígenas debe ingresar al aplicativo
+CENSOS2025 con su usuario y contraseña otorgado. Luego debe dar un toque en el menú principal (tres líneas de
+la parte superior izquierda) (Ver 1) y se listarán los diferentes módulos que tiene el aplicativo, a continuación,
+seleccionará el módulo Cobertura (Ver 2).
+Este módulo mostrará cuatro (4) reportes de control del avance del trabajo, de tal forma que los/las Censistas de
+Comunidades Indígenas puedan verificar cuantas comunidades nativas y campesinas se van trabajando y el
+resultado de las mismas, los reportes son: reporte de comunidades faltantes del marco, comunidades incompletas,
+comunidades con citas pendientes y resumen de comunidades por resultado.
+REPORTE 01. COMUNIDADES FALTANTES DEL MARCO
+Para ingresar al reporte de Comunidades Faltantes del Marco, se debe dar un toque en el ícono Reporte 01.
+Viviendas Faltantes del marco (Ver 1), se mostrará la interface del Reporte 01 donde deberá seleccionar los
+recuadros Periodo y Área de Trabajo (ATC). Recuerde que el recuadro Censista ya viene por defecto con información
+NO MODIFICABLE (Ver 2).
+1
+2
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+25
+El reporte mostrará todas las Comunidades Indígenas que no han sido trabajadas y por ende no tienen un resultado
+final de visita.
+REPORTE 02. COMUNIDADES INCOMPLETAS
+Para ingresar al reporte de Comunidades
+Incompletas se debe dar un toque en el ícono
+Reporte 02. Comunidades Incompletas (Ver 1), se
+mostrará la interface del Reporte 02 donde deberá
+seleccionar los recuadros Periodo y Área de Trabajo
+(ATC). Recuerde que el recuadro Censista ya viene
+por defecto con información NO MODIFICABLE
+(Ver 2).
+1
+2
+1
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+26
+Este reporte mostrará todas las Comunidades Indígenas que tienen como resultado final Incompleto, e indicará qué
+secciones tienen información y que secciones carecen de ella. Las secciones con información tendrán un check de
+color verde en sus respectivos recuadros, mientras que las secciones sin información tendrán una equis de color
+rojo en sus respectivos recuadros.
+REPORTE 03. COMUNIDADES CON CITAS PENDIENTES
+Para ingresar al reporte de Comunidades con
+Citas Pendientes se debe dar un toque en el ícono
+Reporte 03. Comunidades con Citas Pendientes
+(Ver 1), se mostrará la interface del Reporte 03
+donde deberá seleccionar los recuadros Periodo
+y Área de Trabajo (ATC). Recuerde que el recuadro
+Censista ya viene por defecto con información NO
+MODIFICABLE) (Ver 2).
+El reporte mostrará todas las Comunidades Indígenas que tiene como resultado final código 7. No inició entrevista,
+lo cual es una alerta para que el/la Censista y el/la Jefe/a de Brigada hagan seguimiento a esas Comunidades
+Indígenas y puedan concretar la entrevista.
+2
+1
+2
+
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+27
+REPORTE 04. RESUMEN COMUNIDADES POR RESULTADO
+Para ingresar al reporte de Resumen de Comunidades por Resultado se debe dar un toque en el ícono Reporte 04.
+Resumen de Comunidades por Resultado (Ver 1), se mostrará la interface del Reporte 04 donde deberá seleccionar
+los recuadros Periodo y Área de Trabajo (ATC). Recuerde que el recuadro Censista ya viene por defecto con
+información NO MODIFICABLE (Ver 2).
+El reporte mostrará todas las Comunidades Indígenas que forman parte del marco de trabajo con su respectivo
+resultado final, lo cual es una alerta para que el/la Censista y el/la Jefe/a de Brigada hagan seguimiento a esas
+viviendas que tiene un resultado diferente de completo.
+Este reporte va mostrar de manera detallada las Comunidades Indígenas por cada tipo de resultado con sus
+respectivos valores absolutos y valores relativos (porcentajes), es decir:
+• Listará todas las Comunidades Indígenas cuyo resultado final es completo.
+• Listará todas las Comunidades Indígenas cuyo resultado final es incompleto.
+• Listará todas las Comunidades Indígenas cuyo resultado final es rechazo.
+• Listará todas las Comunidades Indígenas cuyo resultado final es ausente.
+• Listará todas las Comunidades Indígenas cuyo resultado final es vivienda desocupada.
+• Listará todas las Comunidades Indígenas cuyo resultado final es vivienda transitoria.
+• Listará todas las Comunidades Indígenas cuyo resultado final es censo en línea
+• Listará todas las Comunidades Indígenas cuyo resultado final es otro.
+Este reporte es un tipo resumen para poder visualizar cuantas Comunidades Indígenas tiene un determinado
+resultado final de entrevista.
+1
+2
+28
+Censos Nacionales: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas

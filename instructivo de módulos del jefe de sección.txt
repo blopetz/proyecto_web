@@ -1,0 +1,1105 @@
+Contenido
+01. _Toc199421263SUPERVISIÓN EN LA OPERACIÓN DE CAMPO .................................................................. 7
+1.1 SUPERVISIÓN...................................................................................................................................7
+1.2 TIPOS DE SUPERVISIÓN ..................................................................................................................7
+1.3 ORGANIZACIÓN DE TRABAJO .........................................................................................................7
+1.4 TAREAS PARA LA SUPERVISION................................................................................................... 10
+1.4.1. ANTES DE LA SUPERVISIÓN............................................................................................... 10
+1.4.2. DURANTE LA SUPERVISIÓN............................................................................................... 10
+1.4.3. DESPUES DE LA SUPERVISIÓN. ......................................................................................... 11
+1.5 TIPO DE ERRORES......................................................................................................................... 11
+02. APLICATIVO SUPERVISIONCENSOS 2025 ....................................................................................................... 12
+2.1 INSTALACIÓN DEL APLICATIVO ................................................................................................... 12
+2.2 MARCO DE TRABAJO .................................................................................................................... 13
+03. PROCEDIMIENTO PARA LA TRANSFERENCIA DE INFORMACIÓN .............................................................. 15
+04. SUPERVISION PRESENCIAL ................................................................................................................................ 17
+05. SUPERVISIÓN NO PRESENCIAL ......................................................................................................................... 24
+5.1 SUPERVISIÓN NO PRESENCIAL EN EL ÁREA URBANA ............................................................... 24
+5.2 SUPERVISIÓN NO PRESENCIAL EN EL ÁREA RURAL .................................................................. 34
+06. MODULO REPORTES ............................................................................................................................................ 45
+6.1. RESUMEN DE COBERTURA Y CALIDAD – SUPERVISIÓN PRESENCIAL ...................................... 45
+6.2. RESUMEN DE COBERTURA Y CALIDAD – SUPERVISIÓN NO PRESENCIAL................................ 46
+07. REPORTES DE CORRECCIONES ........................................................................................................................ 48
+Capítulo 02Supervisión de la Operación de Campo Capítulo 01
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+7
+01 SUPERVISIÓN EN LA OPERACIÓN DE CAMPO
+1.1 SUPERVISIÓN
+Como parte de las tareas del/de la Jefe/a de SecciónCensal y Supervisor/a de Sector Censal realizará la verificación
+del trabajo del/de la Censista, mediante la supervisión presencial (Observación) y no presencial (Reentrevista) en
+cada periodo de trabajo asignado durante la Operación de Campo, estas se desarrollarán en áreas de trabajo urbano
+y rural.
+1.2 TIPOS DE SUPERVISIÓN
+El/La Jefe/a de Sección Censal y el/la Supervisor/a de Sector Censal realizará dos tipos de supervisión: Supervisión
+Presencial (Observación) y Supervisión No Presencial (Reentrevista).
+ Supervisión Presencial: Se realiza observando presencialmente el desenvolvimiento del/de la Censista durante
+el recojo de información en campo en las viviendas asignadas como carga de trabajo, para detectar y registrar
+los errores que ocurren durante el trabajo de campo para que el Censista lo corrija y posteriormente sea
+retroalimentado/a.
+ Supervisión No Presencial: Se realiza sin presencia del/de la Censista. Esta tarea se efectúa mediante la
+reentrevista a una muestra aleatoria de viviendas las que forman parte de la carga de trabajo del/de la Censista,
+que permita detectar y registrar los errores de cobertura (inclusión, no existe y omisiones) y errores de contenido
+(diferencia en la información) que ocurren durante el trabajo de campo para que posteriormente el Censista lo
+corrija y sea retroalimentado/a.
+1.3 ORGANIZACIÓN DE TRABAJO
+Para la organización de la supervisión se ha elaborado una secuencia de trabajo, el cual permitirá realizar los dos
+tipos de supervisiones (presencial y no presencial) a los Censistas de su equipo en las zonas de trabajo tanto
+urbanas como rurales. A continuación, se presenta los siguientes esquemas de trabajo:
+A. SUPERVISIÓN EN EL ÁREA DE TRABAJO URBANO
+En el área de trabajo urbano la supervisión se realizará de la siguiente forma:
+- Será solo a viviendas completas.
+- La carga de trabajo dependerá al tipo de supervisión.
+- La supervisión presencial y la no presencial se llevará a cabo en dos momentos durante el periodo, por
+ejemplo: día 1 hasta el día 5 – Sup. Presencial; día 6 – Sup. No Presencial; día 7 Descanso; día 8 hasta el día
+11 – Sup. No Presencial; día 12 y día 13 – Recuperación; día 14 – Descanso.
+PERIODO DE TRABAJO DE LOS JEFES DE SECCIÓN PARA LA SUPERVISIÓN EN EL ATU
+Capítulo 01 Supervisión de la Operación de Campo
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+8
+B. SUPERVISIÓN EN EL ÁREA DE TRABAJO RURAL
+En el área de trabajo rural la supervisión se realizará de la siguiente forma:
+- Será solo a viviendas completas.
+- La carga de trabajo dependerá al tipo de supervisión.
+- La supervisión presencial y la no presencial se llevará a cabo de manera alterna de acuerdo a la programación
+de ruta asignada. Cabe señalar que si en un periodo de trabajo el/la Jefe/a de Sección Censal o el/la
+supervisor/a de Sector Censal se desplaza a un CC.PP. donde el/la Censista trabajó viviendas sin
+supervisión, debe iniciar con la supervisión no presencial (Reentrevista) el mismo día de su llegada al CC.PP,
+lo que permitirá que los días posteriores realice supervisión presencial al Censista.
+A continuación, se presenta los posibles casos durante la operación de campo en un Área de Trabajo Rural:
+CASO N°1: El/La Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal tiene 2 centros poblados
+programados en su ruta (1 Censista por cada CC.PP.) durante su periodo de trabajo.
+• El/La Jefe/a de Sección Censal o el/la supervisor/a de Sector Censal se dirigirá con el/la
+Censista 1 al Centro Poblado “A” de su programación donde SOLO realizará la Supervisión
+Presencial a 3 viviendas como mínimo por día de trabajo durante los días asignados (del día 1
+al día 4).
+• Luego se desplazará el día 5 al Centro Poblado “B” programado con el/la Censista 2, para
+realizar la Supervisión No Presencial (inició el Censo en el centro poblado “B” días anteriores),
+el resto de días continuará con la Supervisión Presencial.
+
+PERIODO DE TRABAJO DE LOS JEFES DE SECCIÓN PARA LA SUPERVISIÓN EN EL ATR - CASO N°1
+CASO N°2: El/La Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal tiene 2 centros poblados
+programados en su ruta (2 Censistas por cada CC.PP.) durante su periodo de trabajo.
+• El/La Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal se dirigirá con el/la
+Censista 1 y el/la Censista 2 al Centro Poblado “A” de su programación, el día 1 realizará la
+Supervisión Presencial al Censista 1, luego el día 2 continuará con la Supervisión Presencial al
+Censista 2, por día de trabajo mínimo se trabajará 3 viviendas.
+• En el día 3 y día 4 realizará la Supervisión No Presencial al Censista 1 y Censista 2
+correspondientemente, donde trabajará 9 viviendas por día de trabajo, en el día 5 continuará
+con la Supervisión Presencial a uno de los dos Censistas.
+• Luego en el día 6 se desplazará al Centro Poblado “B” programado, para realizar la Supervisión
+No Presencial al Censista 3, en el día 7 continuará la supervisión al Censista 4. El resto de días
+realizará la Supervisión Presencial a 3 viviendas como mínimo por día de trabajo.
+Capítulo 02Supervisión de la Operación de Campo Capítulo 01
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+9
+PERIODO DE TRABAJO DE LOS JEFES DE SECCIÓN PARA LA SUPERVISIÓN EN EL ATR - CASO N°2
+CASO N°3: El/La Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal tiene 2 centros poblados
+programados en su ruta (2 Censistas en el Centro Poblado “A” y 1 Censista en el Centro Poblado
+“B”) durante su periodo de trabajo.
+• El/La Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal se dirigirá con el/la
+Censista 1 y el/la Censista 2 al Centro Poblado “A” de su programación, el día 1 realizará la
+Supervisión Presencial al Censista 1, luego el día 2 continuará con la Supervisión Presencial al
+Censista 2, por día de trabajo mínimo se trabajará 3 viviendas.
+• En el día 3 y día 4 realizará la Supervisión No Presencial al Censista 1 y Censista 2
+correspondientemente, donde trabajará 9 viviendas por día de trabajo, en el día 5 continuará
+con la Supervisión Presencial a uno de los dos Censistas.
+• Luego en el día 6 se desplazará al Centro Poblado “B” programado, para realizar la Supervisión
+Presencial al Censista 3 (inició el censo el día 6 en el centro poblado “B”), el resto de días
+continuará con dicha supervisión. La carga de trabajo por día es mínimo 3 viviendas.
+
+PERIODO DE TRABAJO DE LOS JEFES DE SECCIÓN PARA LA SUPERVISIÓN EN EL ATR - CASO N°3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CASO N°4: El/La Jefe/a de Sección Censal o el/la supervisor/a de Sector Censal tiene 1 centros poblados
+programados en su ruta (4 Censistas en el Centro Poblado “A”) durante su periodo de trabajo.
+• El/La Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal se dirigirá con los
+Censistas al Centro Poblado “A” de su programación, el día 1 realizará la Supervisión
+Presencial al Censista 1, luego el día 2 continuará con el Censista 2. La carga diaria mínima es
+de 3 viviendas completas.
+Capítulo 01 Supervisión de la Operación de Campo
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+10
+• En el día 3 y día 4 realizará la Supervisión No Presencial al Censista 3 y Censista 4
+correspondientemente, donde trabajará 9 viviendas por día de trabajo.
+• En el día 5 y día 6 continuará con la Supervisión Presencial al Censista 3 y Censista 4, para el
+día 7 y día 8 realizará la Supervisión No Presencial al Censista 1 y Censista 2, el resto de días
+continuará con la Supervisión Presencial a dos Censistas.
+PERIODO DE TRABAJO DE LOS JEFES DE SECCIÓN PARA LA SUPERVISIÓN EN EL ATR - CASO N°4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.4 TAREAS PARA LA SUPERVISION
+1.4.1. ANTES DE LA SUPERVISIÓN
+a. Instalar el aplicativo SUPERVISIÓNCENSOS2025 en su Tablet, proporcionado por el área de operación
+de campo al inicio del periodo.
+b. Verificar la programación de ruta asignada a cada Censista de su Sección.
+1.4.2. DURANTE LA SUPERVISIÓN
+a. El/La Jefe/a de Sección Censal o el/la Supervisor/a de Sector
+Censal se apersonará a campo con el/la Censista a realizar la
+supervisión presencial. Cabe señalar que para la supervisión no
+presencial se dirigirá hacia las viviendas seleccionadas (cobertura
+y reentrevista)
+b. Utilizará el aplicativo SUPERVISIÓNCENSOS2025 instalado para
+consignar la información y errores de la supervisión realizada.
+En este aplicativo se usará solo los siguientes módulos de
+supervisión:
+- Descarga de Recursos
+- Supervisión Presencial
+- Supervisión No Presencial
+
+USUARIO
+CONTRASEÑA
+Capítulo 02Supervisión de la Operación de Campo Capítulo 01
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+11
+- Reportes
+- Correcciones
+- Exportar
+1.4.3. DESPUES DE LA SUPERVISIÓN.
+a. Culminado la supervisión presencial o no presencial el/la Jefe/a de Sección Censal o el/la Supervisor/a
+de Sector Censal revisará el reporte de errores de los Censistas supervisados.
+b. En caso de identificar errores se dirigirá al Censista observado y mencionará los errores detectados para
+que sean subsanados, realizada la corrección por parte del Censista en su aplicativo CENSOS2025, el/la
+Jefe de Sección Censal o el/la Supervisor/a de Sector Censal registrará el resultado de las correcciones
+en el módulo “CORRECCIONES”.
+c. Se debe exportar la información consignada en el aplicativo SUPERVISIÓNCENSOS2025 al servidor del
+INEI. Cabe señalar que la exportación se realizara en dos cortes al día (medio día y al terminar el día de
+trabajo).
+1.5 TIPO DE ERRORES
+A continuación, definiremos los tipos de errores a encontrar en la supervisión presencial o no presencial:
+ERROR DE COBERTURA: son aquellos errores detectados en la cantidad de viviendas, hogares o personas, estas
+pueden ser:
+a. Inclusión errónea: es cuando, en la operación de campo al realizar la supervisión no presencial en la verificación
+se identifica uno o más viviendas que no corresponden al ATU o ATR a supervisar.
+Ejemplo: El Jefe de sección 001, durante su recorrido de cobertura identifica que el Censista 0002 agrego
+erróneamente una vivienda que pertenece al Censista 0003 (ATU colindante), dicho error se presento
+a que la carga de trabajo del censista 0002 se encontraba en el frente 1 y 2, mientras que la del
+censista 0003 se encontraba en el frente 3 y 4.
+b. Omisión: es cuando, en la operación de campo durante la verificación de viviendas, hogares o Personas se
+identifica que no han sido censados.
+Ejemplo N°1: El Jefe de Sección 001, durante la supervisión (presencial o no presencial) identifica que el
+Censista 0003 omitió una vivienda particular.
+Ejemplo N°2: El Jefe de Sección 001, durante la supervisión no presencial (reentrevista), identifica que el
+Censista 0003 omitió dos hogares en una vivienda.
+Ejemplo N°3: El Jefe de Sección 001, durante la supervisión no presencial (reentrevista), identifica que el
+Censista 0003 omitió dos personas que viven permanentemente en un hogar.
+c. No existe: es cuando, en la operación de campo durante la supervisión no presencial se identifica una o más
+vivienda que no existen (error en marco o son hogares, pero el censista lo agrego como vivienda) o no tienen las
+características de vivienda.
+Ejemplo: El Jefe de sección 001, durante su recorrido de cobertura identifica que el Censista 0003 agrego
+erróneamente una vivienda (Vivienda Nueva) o edito erróneamente otro tipo de Registro como
+vivienda particular
+ERROR DE CONTENIDO: es aquel error en la información (diferencia) recopilado por el/la Censista y detectado por
+el/la Jefe/a de Sección Censal o el/la supervisor/a de Sector Censal mediante la reentrevista.
+Ejemplo N°1: El Jefe de Sección 001, durante la supervisión no presencial (reentrevista) visualiza que el Censista
+registró que la vivienda 001, contiene 2 hogares, pero al realizar la reentrevista, identifica que solo
+contiene un hogar.
+Ejemplo N°2: El Jefe de Sección 001, durante la supervisión no presencial (reentrevista), identifica que existe
+diferencia en la información recopilada con el Censista, en la pregunta del grado de dificultad que
+tiene una persona para realizar sus actividades diarias.
+
+Capítulo 02 Aplicativo SUPERVISIÓNCENSOS2025
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+12
+02 APLICATIVO SUPERVISIONCENSOS 2025
+El/La Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal realizará la supervisión presencial y no presencial
+mediante el uso del aplicativo SUPERVISIÓNCENSOS2025, el cual permitirá recoger información de la verificación al
+trabajo del/de la Censista. Así mismo permitirá ver los reportes de errores u omisiones para la corrección inmediata en
+campo.
+2.1 INSTALACIÓN DEL APLICATIVO
+Previamente a la instalación del aplicativo, el área de operación de campo enviará un correo electrónico al/a la
+Coordinador/a de subsede Censal un enlace donde podrá descargar el aplicativo y la lista de usuarios, para la
+descarga de estos archivos seguirán las mismas instrucciones que se indica en el Doc. CPV.03.26A Manual del/de
+la Censista. Cabe indicar que la carpeta creada tendrá el nombre SUPERVISIÓNCENSOS2025.
+1. En la pantalla de inicio en la Tablet deberá ubicar la Carpeta FILE y dar un toque, nos dirige a la pantalla de
+explorador, damos un toque en Almacenamiento Interno.
+2. En el explorador de almacenamiento Interno se ubicará la carpeta Dowload dar un toque, luego seleccionar el
+archivo SUPERVISIÓNCENSOS2025.apk, en la pantalla emergente nos preguntará ¿Deseas instalar esta
+aplicación?, seleccionar INSTALAR.
+3. Terminado el proceso de instalación del APK nos saldrá una pantalla que nos indicará que la aplicación ya se
+instaló correctamente y seleccionaremos la opción “ABRIR” para ver en la pantalla del escrito de la Tablet el
+ícono de aplicativo.
+Capítulo Aplicativo SUPERVISIÓNCENSOS2025 Capítulo 02
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+13
+MENÚ PRINCIPAL
+El menú principal del aplicativo SUPERVISIÓNCENSOS2025
+contiene los siguientes módulos:
+a. Descarga de Recursos: Permitirá al/a la Jefe/a de Sección o a él/la
+Supervisor/a de Sector Censal visualizar los croquis digitales, listado,
+programación de ruta y KMZ de los Censistas de su sección.
+b. Supervisión Presencial: Se diligenciará el resultado del
+acompañamiento al Censista en las viviendas durante su recorrido en
+el ATU o ATR programado.
+c. Supervisión No Presencial: Se diligenciará el resultado de la
+reentrevista a las viviendas censadas con resultado “Completo” por
+el Censista en el ATU o ATR programado.
+d. Reportes: Se visualizará los reportes de resultados en la supervisión
+presencial y no presencial, en cuanto cobertura y contenido de las
+viviendas censadas.
+e. Correcciones: Se visualizará los reportes de la comparación y en la
+última columna se podrá diligenciar las correcciones a los errores
+encontrados por el/la Censista en las viviendas censadas.
+f. Exportar: Permitirá al/a la Jefe/a de Sección o a él/la Supervisor/a de
+Sector Censal transferir al servidor del INEI (nube), la información de
+la supervisión presencial y no presencial en las viviendas censadas.
+2.2 MARCO DE TRABAJO
+La carga del Marco de trabajo en el aplicativo SUPERVISIÓNCENSOS2025 solo se realizará mediante el uso de
+internet. Es decir, cuando la Tablet tiene acceso a Internet ya sea por red de WIFI o plan de datos, entonces realizará
+los siguientes pasos:
+1. Ingresamos al aplicativo dando un touch en
+el icono del SUPERVISIÓNCENSOS2025, en
+seguida nos pedirá el USUARIO y
+CONTRASEÑA previamente enviado por el
+área de operación de campo al inicio del
+periodo y dará un touch en Aceptar.
+2. Luego aparecerá ventanas emergentes preguntando el acceso a la ubicación, localización de dispositivos
+cercanos y cámara del dispositivo, se seleccionará la opción “Mientras la APP está en uso/Permitir” (solo en el
+primer ingreso).
+USUARIO
+CONTRASEÑA
+A
+B
+C
+D
+E
+F
+Capítulo 02 Aplicativo SUPERVISIÓNCENSOS2025
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+14
+3. En seguida le dará la bienvenida al usuario y al aceptar iniciará automaticamente la descarga del Marco de
+Trabajo de la Sección que está asignada según el Usuario, en la ventana emergente le indicará que la importación
+completa correctamente, dale un toque en aceptar.
+Procedimientos para la Transferencia de Información Capítulo 03
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+15
+03
+PROCEDIMIENTO PARA LA TRANSFERENCIA DE
+INFORMACIÓN
+La transferencia de información desde la nube o el servidor hacia la Tablet de el/la Jefe/a de Sección Censal o el/la
+Supervisor/a de Sector Censal, se realizará cuando el dispositivo se encuentre con internet y ejecutando los siguientes
+pasos:
+1. Ingresamos al aplicativo dando un touch en el icono del SUPERVISIÓNCENSOS2025, en seguida nos pedirá el
+USUARIO y CONTRASEÑA proporcionado por el área de operación de campo al inicio del periodo y aceptará el
+mensaje de bienvenida.
+2. Seguido de ello ingresará al módulo “Supervisión no presencial” y seleccionará el censista, periodo y área de trabajo
+a supervisar.
+3. Por último, dará un touch al icono de la “Nube” con nombre “Sincronizar datos”, lo que permitirá que la información
+se actualice según la última exportación hecha por el censista seleccionado.
+EXPORTACIÓN
+Terminado la supervisión presencial y/o no presencial de la operación de campo, el/la Jefe/a de Sección Censal o el/la
+Supervisor/a de Sector Censal procederá a Exportar.
+1. En el menú del SUPERVISIÓNCENSOS2025 seleccionará el módulo Exportar.
+USUARIO
+CONTRASEÑA
+Capítulo 03 Procedimientos para la Transferencia de Información
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+16
+2. Seleccionará el tipo de supervisión (Presencial o No Presencial) que desea exportar al servidor.
+3. En la siguiente pantalla se mostrará los filtros donde ubicará al Censista, periodo y área de trabajo (ATU o ATR) que se
+haya realizado la supervisión presencial o no presencial (según selección). Se visualizará y seleccionará solo las
+viviendas que se hayan realizado algún tipo de supervisión (presencial o no presencial) y dará un touch en la opción
+“SERVIDOR”.
+Supervisión Presencial Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+17
+04 SUPERVISION PRESENCIAL
+La supervisión presencial consiste en identificar, diligenciar, corregir y retroalimentar directamente los errores cometidos
+por el Censista durante el recojo de información en campo a las viviendas supervisadas.
+➢ En el área urbana, la carga de trabajo es 8 viviendas por día supervisado (2 vivienda por Censista), considerando al
+menos dos viviendas y un hogar en cada una de ellas por Censista (Ver cronograma de trabajo en la pág. 6).
+➢ En el área rural, la carga de trabajo es 3 viviendas por día supervisado (3 viviendas por Censista), considerando al
+menos tres viviendas y un hogar em cada una de ellas por Censista según programación. (Ver cronograma de trabajo
+en la pág. 6).
+Para realizar la supervisión presencial el/la Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal se dirigirá
+hacia el/la Censista a supervisar y utilizará el aplicativo en el cual se registrará los errores u omisiones cometidos por
+el/la Censista en las viviendas supervisadas.
+En la supervisión presencial al Censista se puede presentar 2 tipos de situaciones:
+➢ INICIAR:
+Es cuando el Jefe de sección Censal se encuentra con el
+Censista a supervisar desde el inicio del Censo a la vivienda.
+➢ YA SE INICIÓ
+Es cuando el Jefe de Sección Censal al realizar la supervisión, el
+censista ya ha iniciado el censo en la vivienda, es decir el
+Censista se encuentra a partir de la P18. NUMERO DE
+HOGARES de la sección I o en alguna pregunta de la sección II,
+III, IV o V de la Cédula Censal digital.
+Los aspectos que se evaluarán en la supervisión presencial a cada Censista serán los siguientes:
+• Adecuada presentación del/de la Censista ante el Responsable del Hogar: explicación de objetivos y confidencialidad
+de la información.
+• Diligenciamiento de la Cédula Censal con el/la Informante calificado de la vivienda: Responsable del hogar u otra
+persona del hogar mayor de edad y que conozca toda la información de las personas que residen permanentemente.
+• Correcta formulación de las preguntas de la Cédula Censal (cuestionario electrónico) tal como están redactadas y
+mención de todas las alternativas (según sea el caso).
+• Aplicación de sondeos en aquellas preguntas que lo requieran porque la respuesta del/de la Informante fue ambigua
+o no estuvo de acuerdo al objetivo y/o no asumir respuestas por adelantado.
+Para la supervisión presencial solo existirá 3 tipos de respuestas este es:
+SI NO NO APLICA
+Cuando el/la Censista presenta
+error durante el diligenciamiento
+de una o más preguntas de la
+Cedula Censal.
+Cuando el/la Censista no
+presenta error durante el
+diligenciamiento de una o más
+preguntas de la Cedula Censal.
+Cuando una pregunta no está
+habilitada en la cedula censal,
+debido a la respuesta
+proporcionada a una pregunta
+anterior.
+PROCEDIMIENTO
+Una vez ingresado al APK y cargado el Marco de trabajo (automáticamente), se procede con el recojo de información.
+Para la supervisión presencial de la operación de campo se hará uso del aplicativo SUPERVISIÓNCENSOS2025 donde
+seguirá los siguientes pasos:
+Debe definir correctamente la situación ya
+que su selección solo se realizará UNA
+SOLA VEZ y el APK no permitirá
+cambios.
+Alerta:
+NOTA:
+Cuando el Jefe de Sección Censal o el/la Supervisor/a de Sector Censal se encuentra
+que el Censista a supervisar ya ha iniciado el Censo en la vivienda, se dirigirá la sección
+y/o pregunta donde se encuentre; las preguntas que no fueron supervisadas al Censista
+NO DILIGENCIARÁ NINGUNA ALTERNATIVA (se dejará los casilleros en blanco).
+Capítulo 04 Supervisión Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+18
+1. Ingresar al Módulo Supervisión Presencial.
+2. En la siguiente pantalla mostrara el Marco de Trabajo de la operación de campo para la supervisión presencial, para
+ello, en la parte superior se ubicará los campos siguientes: Censista, periodo y área de trabajo que se encuentre
+realizando la supervisión.
+3. Para iniciar la supervisión presencial, se debe dar un touch prolongado (1) en la vivienda a supervisar e ingresar a la
+opción “Ir a Cuestionario” (2).
+4. Se iniciará la supervisión presencial al censo de las viviendas, con la pregunta de omisión de viviendas.
+Omisión: Cuando el/la Censista omite una vivienda durante la supervisión presencial. Cabe señalar que la
+RESPUESTA SE DEBE SELECCIONAR UNA SOLA VEZ, en caso de modificarla toda la información guardada SE
+ELIMINARÁ.
+
+CENSISTA
+AREA DE
+TRABAJO
+PERIODO
+JEFE DE
+SECCIÓN
+1
+2
+Supervisión Presencial Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+19
+SI EL CENSISTA OMITIÓ LA VIVIENDA
+a. En caso se elija la opción “SI”, continuará diligenciando la dirección, georeferenciación de la vivienda.
+b. Las preguntas restantes se inhabilitarán y SOLAMENTE deberá AGREGAR UN HOGAR (siempre será la vivienda
+N° 1).
+c. Iniciará y terminará la visita con resultado “9. OTRO” y se llenará automáticamente la frase “VIVIENDA OMITIDA”.
+Finalmente colocará el punto GPS y aceptará el termino de visita para continuar la supervisión a otra vivienda.
+5. Si se marcó la opción “NO” en la pregunta de omisión de vivienda, continuará seleccionando el “MOMENTO DE
+SUPERVISION” (“Iniciar” o “Ya se inició”), según el momento que realiza el acompañamiento realizando lo siguiente:
+➢ INICIAR
+El/La Jefe/a de Sección censal o el/la Supervisor/a de Sector Censal iniciará la supervisión presencial desde la
+pregunta P0. PRESENTACIÓN y continuará la supervisión presencial a cada una de las preguntas.
+➢ YA SE INICIO
+El/La Jefe/a de Sección censal o el/la Supervisor/a de Sector Censal iniciará la supervisión presencial desde la
+sección en la que se encuentre el Censista a supervisar.
+En caso el censista se encuentre en la Sección I, II, III o IV, se dirigirá a la Sección I – Pregunta 19 para registrar el
+hogar a supervisar). Así mismo en caso el Censista se encuentre en la Sección V, registrará el hogar a supervisar
+(Sección I – Pregunta 19), luego se dirigirá a registrar la persona (Sección IV – Pregunta 02) y continuará la
+supervisión con las preguntas del cuestionario censal.
+6. Luego se activará las opciones para ingresar PUERTA N°, BLOCK N°, PISO N°, INTERIOR N°, MANZANA N°, LOTE N°
+y KILOMETRO N° según corresponda.
+7. Continuara ingresando el punto GPS en la pregunta 13.1 GEORREFERENCIACIÓN.
+8. Aparecerá en forma de listado las preguntas de la cedula censal según sección para que, durante la supervisión
+presencial, se seleccione una respuesta (SI, NO, NO APLICA), según la supervisión a cada pregunta hacia el/la
+Censista. Adicionalmente se supervisara la PRESENTACIÓN del censista ante el informante, en donde evaluara el
+correcto desenvolvimiento, objetivos y confidencialidad según lo establecido en el Manual del Censista.
+A
+B
+C
+Capítulo 04 Supervisión Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+20
+9. Para cada SECCIÓN se activará un recuadro que dice REVISADO, la cual se encontrará remarcado de color ROJO, la
+misma que al darle un touch permitirá activar las preguntas según la sección a supervisar.
+10. En la Sección I, luego de dar un touch en el recuadro REVISADO, supervisará a el/la Censista por cada pregunta
+establecida en el formulario censal Doc. CPV.01.05.
+11. Para la pregunta N° 19 “Hogar N°”, se dará un touch en el botón “AGREGAR” para digitar el hogar a supervisar, ello
+generará un cuadro de hogares.
+12. Al registrar los hogares, en cualquier “MOMENTO DE
+SUPERVISIÓN”, SOLO se registrará e iniciará en el
+hogar donde se realizará la supervisión. Cabe señalar
+que en la columna “ESTADO DE SUPERVISION” se
+visualizará el resultado de cada hogar.
+13. Luego procederá a darle un touch al hogar a supervisar seleccionando la opción “Ir a Visitas” la cual permitirá
+ingresar a la ventana de “ENTREVISTA Y SUPERVISIÓN”, en donde se ingresará la fecha, hora y GPS para el INICIO
+DE LA VISITA. Así mismo se digitará los datos de los funcionarios censales.
+Supervisión Presencial Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+21
+SI DURANTE LA SUPERVISION EXISTE UNA VIVIENDA “AUSENTE”
+a. Seleccionará la situación “INICIAR”.
+b. Evaluará las preguntas de la Sección I, las cuales son por observación directa. Cabe señalar que en las “P0.
+PRESENTACIÓN” y “P18. NÚMERO DE HOGARES EN LA VIVIENDA” seleccionará la opción “NO APLICA” y
+solamente deberá AGREGAR UN HOGAR (siempre será la vivienda N° 1)
+c. Iniciará y terminará la visita con resultado “4. Ausente”. Finalmente colocará el punto GPS y aceptará el termino
+de visita para continuar la supervisión a otra vivienda.
+14. Se encontrará disponible la sección II, III y IV donde se visualizará un recuadro en donde se identificará el número de
+hogar seleccionado a supervisar, continuará seleccionando una respuesta (SI, NO, NO APLICA) en cada pregunta
+según el resultado de la supervisión.
+A
+B
+C
+Capítulo 04 Supervisión Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+22
+15. En la sección IV, Pregunta N°2 “Cuales son los nombres y apellidos de cada una de las personas que viven
+permanentemente en este hogar” se dará un touch a la opción “AGREGAR” para registrar a cada persona que se
+está verificando en la supervisión presencial.
+16. Se generará un cuadro con las principales preguntas de identificación por persona siendo estas: Nombres, Apellidos
+Paternos, Apellido Materno, Parentesco, Sexo y Edad. Cabe señalar que se verificará por cada pregunta
+seleccionando una respuesta (SI, NO) y luego dará en “ACEPTAR”.
+17. Luego se visualizará un cuadro donde se ubicará cada persona supervisada y se identificará por el N° de persona
+(será registrada de forma automática), en donde, se tendrá las opciones: “Editar, Ir a Sección V y Eliminar”. Cabe
+señalar que en la columna “ESTADO DE SUPERVISION” se colocará un resultado por persona “Completo” o
+“Incompleto”.
+18. Para el ingreso a la Sección V: Características de la población, se dará touch prolongado en la persona a censar
+según el cuadro de personas, eligiendo la opción “2. IR A SECCIÓN V”.
+Supervisión Presencial Capítulo 04
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+23
+19. Se habilitará la sección V de la persona a censar y seleccionará una respuesta (SI, NO, NO APLICA) según el
+resultado de la supervisión a cada pregunta.
+20. Finalmente, al término de supervisar todas las preguntas de la sección V seleccionará el botón “TERMINAR
+PERSONA”. Cabe señalar que realizará el mismo procedimiento para cada persona del hogar a supervisar.
+ TERMINAR PERSONA: Permitirá guardar la información de la supervisión de la Sección V y redirigirá al listado de
+personas en la Sección IV.
+21. Al terminar la supervisión del hogar se ubicará en el Registro de “ENTREVISTA Y SUPERVISIÓN” para seleccionar el
+resultado y termino de la visita.
+22. Para el área rural el procedimiento se realizará de la misma manera.
+En caso exista más de un hogar y sea necesario continuar la supervisión al
+siguiente hogar se dirigirá a la P19. Hogar N° o seleccionará la opción “IR A
+HOGARES” ubicado en la zona superior derecha, agregará el hogar y realizará
+el procedimiento establecido.
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+24
+05 SUPERVISIÓN NO PRESENCIAL
+La supervisión no presencial consiste en realizar una reentrevista al trabajo en campo de cada Censista de su respectiva
+sección con el fin de identificar, registrar los errores u omisiones para que posteriormente el/la Censista lo corrija y sea
+retroalimentado/a. Esta supervisión se realizará cuando se tiene un avance de viviendas censadas con resultado
+“Completo”.
+El Jefe de Sección o el/la Supervisor/a de Sector Censal realizará la supervisión no presencial de las viviendas mediante
+una muestra aleatoria de viviendas para verificar la cobertura y calidad de la información:
+i. Cobertura: Se verificará cinco (05) viviendas anteriores y posteriores a la vivienda seleccionada en el ATU y tres (03)
+viviendas anteriores y posteriores al segmento compacto en el ATR.
+ii. Contenido: Se verificará la información de cada vivienda seleccionada en el ATU y ATR.
+Para realizar la supervisión no presencial el/la Jefe/a de Sección o el/la Supervisor/a de Sector Censal utilizará el
+aplicativo SUPERVISIÓNCENSOS2025, el cual realizará la reentrevista de las principales preguntas de la cedula censal
+siguiendo las mismas instrucciones del Manual del Censista, se identificará la omisión de viviendas, hogares y personas
+y error de contenido en las viviendas seleccionadas.
+5.1 SUPERVISIÓN NO PRESENCIAL EN EL ÁREA URBANA
+El Jefe de Sección o el/la Supervisor/a de Sector Censal realizará la supervisión no presencial para verificar la calidad
+de la información a las viviendas seleccionadas.
+La carga de trabajo para la cobertura es de cinco (05) viviendas anteriores y cinco (05) viviendas posteriores y las
+viviendas seleccionadas (muestra); mientras para el contenido es de 4 viviendas por día supervisado (1 vivienda por
+Censista), considerando al menos una vivienda y un hogar con resultado “completo” por Censista (Ver cronograma
+de trabajo en la pág. 6).
+Para iniciar la supervisión no presencial en el aplicativo SUPERVISIÓNCENSOS2025, el/la Jefe/a de Sección Censal
+o el/la Supervisor/a de Sector Censal sincronizará los datos trabajados por el/la Censista del servidor del INEI
+(avance de viviendas con algún tipo de resultado) realizando el siguiente procedimiento:
+ PROCEDIMIENTO:
+Para la supervisión no presencial en el área urbana se hará uso del aplicativo SUPERVISIÓNCPV2025, donde
+seguirá los siguientes pasos:
+1. Ingresar al aplicativo SUPERVISIÓNCENSOS2025, se cargará automáticamente el marco de todos los
+Censistas por sección (Ver pág. 13).
+2. Ingresar al Módulo Supervisión No Presencial.
+3. En la siguiente pantalla mostrará el Marco de Trabajo de la operación de campo para la supervisión no
+presencial, para ello, en la parte superior seleccionará el jefe de sección, el Censista, periodo y área de
+trabajo que se encuentre realizando la supervisión.
+4. Luego dará un touch al icono con forma de “NUBE”, el cual permitirá sincronizar los datos. Es decir
+descargara desde la nube la ultima información exportada por el censista seleccionado.
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+25
+5. Se dará un touch al botón SELECCIONAR MUESTRA, lo que llevará a que el aplicativo realice la selección
+aleatoria de la vivienda a supervisar.
+6. Las viviendas seleccionadas serán viviendas que tengan CODIGO DE RESULTADO COMPLETA………(1) por
+el Censista. El Jefe de Sección o el/la Supervisor/a de Sector Censal generará la muestra mediante el APK en
+cinco días de trabajo (día 6, 8, 9, 10 y 11), en un periodo que estará conformado por 4 viviendas en cada día,
+al final del periodo tendrá 20 viviendas seleccionadas (20 hogares). Cabe señalar que todas las viviendas
+serán diferentes.
+Las viviendas que salieron seleccionadas en la muestra 001 no serán las mismas que en la muestra 002, 003,
+004 ni la muestra 005 de un mismo Censista por periodo, la muestra se encuentra distribuidos de la siguiente
+forma:
+✓ DIA 06 (MUESTRA 01) PARA EL CENSISTA 001
+Se seleccionará una muestra de 1 vivienda que tengan código de resultado completo ……. (1) se pintará
+de color ROJO
+a) Caso 01: Se dará un check en “SELECCIONAR LA MUESTRA”, si hay uno o más viviendas con código
+de resultado “COMPLETO” deberá salir un mensaje MUESTRA 01 y seleccionar una muestra aleatoria
+de una vivienda y se realizará la reentrevista.
+b) Caso 02: Se dará un check en “SELECCIONAR LA MUESTRA”, si no hay viviendas con código de
+resultado “COMPLETO” deberá salir un mensaje NO HAY MUESTRA y NO seleccionará ninguna
+muestra.
+
+✓ DIA 08 (MUESTRA 02) PARA EL CENSISTA 001
+Se seleccionará una muestra de 1 vivienda que tengan código de resultado completo ……. (1) se pintará
+de color ROJO
+a) Caso 01: se dará un check en “SELECCIONAR LA MUESTRA”, si hay uno o más viviendas con código
+de resultado “COMPLETO” deberá salir un mensaje MUESTRA 02 y seleccionar una muestra aleatoria
+de una vivienda y se realizará la reentrevista.
+b) Caso 02: se dará un check en “SELECCIONAR LA MUESTRA”, si no hay viviendas con código de
+resultado “COMPLETO” deberá salir un mensaje NO HAY MUESTRA y NO seleccionará ninguna
+muestra.
+✓ DIA 09 (MUESTRA 03) PARA EL CENSISTA 001
+Se seleccionará una muestra de 1 viviendas que tengan código de resultado completo …. (1) se pintará
+de color ROJO
+a) Caso 01: se dará un check en “SELECCIONAR LA MUESTRA”, si hay uno o más viviendas con código
+de resultado “COMPLETO” deberá salir un mensaje MUESTRA 03 y seleccionar una muestra aleatoria
+de una vivienda y se realizará la reentrevista.
+b) Caso 02: se dará un check en “SELECCIONAR LA MUESTRA”, si no hay viviendas con código de
+resultado “COMPLETO” deberá salir un mensaje NO HAY MUESTRA y NO seleccionará ninguna
+muestra.
+✓ DIA 10 (MUESTRA 04) PARA EL CENSISTA 001
+Se seleccionará una muestra de 1 vivienda que tengan código de resultado completo ……. (1) se pintará
+de color ROJO
+a) Caso 01: se dará un check en “SELECCIONAR LA MUESTRA”, si hay uno o más viviendas con código
+de resultado “COMPLETO” deberá salir un mensaje MUESTRA 04 y seleccionar una muestra aleatoria
+de una vivienda y se realizará la reentrevista.
+JEFE DE
+SECCIÓN
+AREA DE
+PERIODO TRABAJO
+
+CENSISTA
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+26
+b) Caso 02: se dará un check en “SELECCIONAR LA MUESTRA”, si no hay viviendas con código de
+resultado “COMPLETO” deberá salir un mensaje NO HAY MUESTRA y NO seleccionará ninguna
+muestra.
+✓ DIA 11 (MUESTRA 05) PARA EL CENSISTA 001
+Se seleccionará una muestra de 1 viviendas que tengan código de resultado completo …. (1) se pintará
+de color ROJO
+a) Caso 01: se dará un check en “SELECCIONAR LA MUESTRA”, si hay uno o más viviendas con código
+de resultado “COMPLETO” deberá salir un mensaje MUESTRA 05 y seleccionar una muestra aleatoria
+de una vivienda y se realizará la reentrevista.
+b) Caso 02: se dará un check en “SELECCIONAR LA MUESTRA”, si no hay viviendas con código de
+resultado “COMPLETO” deberá salir un mensaje NO HAY MUESTRA y NO seleccionará ninguna
+muestra.
+Al término del periodo, en el marco de trabajo se visualizará las 5 viviendas seleccionadas de color ROJO.
+7. Las viviendas seleccionadas serán identificadas con un sombreado de color ROJO.
+COBERTURA
+8. Una vez seleccionado la muestra se pintará de color morado cinco (05) viviendas anteriores y cinco (05)
+viviendas posteriores a las viviendas seleccionadas, las cuales serán verificadas mediante OBSERVACIÓN
+DIRECTA Y SONDEO, así como también las viviendas omitidas y registros que se encuentren entre las
+viviendas. Es decir, se tocará TODAS las puertas entre el rango de viviendas a coberturar para verificar su uso.
+• De forma obligatoria, mencionar a los censistas desde el inicio de la operación de campo,
+que todas las viviendas deben tener algún tipo de resultado en cada visita.
+• Una vez que se seleccionó las 5 viviendas para un Censista en el periodo seleccionado, ya
+no debe salir más muestra, si se da un check en “SELECCIONAR LA MUESTRA” saldrá un
+mensaje “MUESTRA COMPLETA”.
+• Solo debe generar una muestra (01 vivienda) por día para cada Censista.
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+27
+9. En todas las viviendas a supervisar (viviendas anteriores, posteriores y muestra) se dará un touch prolongado
+y se seleccionará un resultado de verificación, según lo encontrado en campo, estas son:
+• ES VIVIENDA (1): Se seleccionará cuando se verifique que las viviendas anteriores, posteriores y las
+viviendas seleccionadas (muestra) realmente son viviendas particulares o vivienda y establecimiento.
+• EDITAR TIPO DE REGISTRO (2): Se seleccionará cuando se verifique que los REGISTROS ubicados entre
+las viviendas anteriores, posteriores y las viviendas seleccionadas (muestra) son viviendas particulares o
+vivienda y establecimiento. Se ingresará al registro y se editará el tipo de registro.
+• AGREGAR NUEVA VIVIENDA (3): Se seleccionará cuando se identifique viviendas omitidas por el
+Censista entre las viviendas anteriores, posteriores y las viviendas seleccionadas (muestra). Ante ello
+dará un touch prolongado en la vivienda anterior a la vivienda omitida y seleccionará la opción “AGREGAR
+NUEVA VIVIENDA”, validará la información de la nueva vivienda por observación directa y dará un touch
+en “Aceptar”.
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+28
+• ERROR DE INCLUSION (4): Se seleccionará cuando se verifique si entre las viviendas anteriores,
+posteriores y las viviendas seleccionadas (muestra), existe una vivienda que no pertenece a su carga de
+trabajo del Censista. Ejemplo:
+El/la Jefe de Sección Censal o el/la Supervisor/a de Sector Censal durante la supervisión No presencial
+de la cobertura, indaga con el informante que tres viviendas nuevas (002-001, 002-002 y 002-003)
+agregadas por el Censista 0001 son 3 hogares de una vivienda. Ante ello las viviendas nuevas se
+seleccionará como ERROR DE INCLUSION (4).
+• NO EXISTE (5): Se seleccionará cuando se verifique si entre las viviendas anteriores, posteriores y las
+viviendas seleccionadas(muestra), existe una vivienda que no cumple las características de vivienda o no
+existen.
+• OTRO TIPO DE REGISTRO (6): Es cuando se identifica una o más viviendas que el censista la califico
+como vivienda las cuales en campo se verifica que son otro tipo de registro.
+10. Luego de la verificación de las viviendas se dirigirá a la columna “VERIFICAR” donde se visualizará el
+resultado de la cobertura de las viviendas anteriores y posteriores, con ello el marco de viviendas quedará de
+la siguiente forma:
+CONTENIDO
+11.A continuación, se procederá a dirigirse a la vivienda seleccionada (Muestra) e iniciará la supervisión
+mediante un touch prologando, seleccionando la opción “IR A CUESTIONARIO” (ejecución de la
+reentrevista):
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+29
+12. Diligenciará las respuestas por cada pregunta de la SECCIÓN I (Dirección de la vivienda, georeferenciación
+y condición de ocupación de la vivienda).
+13. En la pregunta 18. NUMERO DE HOGARES EN LA VIVIENDA, el APK seleccionará aleatoriamente un hogar
+con estado completo, para este caso de color ROJO. En el caso solo exista una vivienda con un hogar y su
+estado sea “Completo” será el único seleccionado.
+14. Se realizará la reentrevista al HOGAR SELECCIONADO (hogar identificado con sombreado rojo) con
+resultado completo, para ello se tocará la puerta de la vivienda y con los datos del “JEFE/A DE HOGAR” se
+mencionará el siguiente speech:
+15. Luego se realizará la pregunta 18. NUMERO DE HOGARES EN LA VIVIENDA, con el objetivo de validar si la
+información que coloco el censista esta correcto o existe algún hogar omitido, en caso que la cantidad de
+hogares se encuentre correcto continuara la reentrevista.
+
+“Buenos días/tardes/noches, mi nombre es _____ (mostrar credencial). Soy supervisor/a del INEI
+y estoy verificando la información que se brindó a él/la Censista. ¿Se encontrará el/la
+Sr/Sra./Srta.____________, la persona que brindo la información al Censista o una persona mayor
+de edad responsable de la vivienda?
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+30
+SI EL JEFE DE SECCIÓN AGREGA UN HOGAR QUE FUE OMITIDO
+
+a) Si el Censista encontró dos hogares y el Jefe de Sección Censal o el/la Supervisor/a de Sector Censal verifica
+que hay un hogar más, entonces agregará un hogar más con la opción “Agregar”.
+b) Una vez agregado el hogar se activará una columna que diga HOGAR/OMITIDO y automáticamente aparecerá
+la palabra OMISION.
+c) Cuando se dé un check prolongado a la vivienda agregada(omitida) SOLO tendrá la opción de “Eliminar
+hogar” si el Jefe de Sección agregó por error (para este caso será el N° 3).
+IR A VISITA DEL HOGAR
+16. Se dirigirá al hogar seleccionado y mediante un check prolongado y seleccionaremos la opción Ir a Visitas,
+en donde aparecerá la ventana “ENTREVISTA Y SUPERVISION”, para registrar el inicio de la visita, en la cual
+registrará el punto GPS, se dará un touch en el botón “ACEPTAR”, llenará los datos de los funcionarios
+censales, colocará un check en guardar y pasará a la sección II.
+En caso el/la Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal no encuentre a ningún
+integrante del hogar, deberá de colocar su resultado correspondiente y volverá a la vivienda las veces que
+sea necesaria hasta ubicar a algún integrante mayor de edad.
+17. En la Sección II se realizará la Pregunta 4 y se diligenciará la respuesta del informante, luego le dará un
+touch al icono del disquete que permitirá guardar y pasará a la sección III.
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+31
+18. En la Sección III se realizará la Pregunta 3 y se diligenciará la respuesta del informante, luego le dará un
+touch al icono del disquete que permitirá guardar y pasará a la sección IV.
+19. En la SECCION IV, se realizará la Pregunta 1 y se diligenciará la respuesta del informante.
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+32
+20. Continuando en la SECCION IV, en la Pregunta 2, nos mostrará los nombres de las personas que censó el
+Censista, en donde de forma automática se encontrará SELECCIONADA UNA PERSONA
+ALEATORIAMENTE.
+SI EL JEFE DE SECCION AGREGA UNA PERSONA QUE FUE OMITIDA
+a) Si el Censista encontró tres personas y el Jefe de Sección
+o el/la Supervisor/a de Sector Censal verifica que hay una
+persona más, entonces agregará una persona más, dando
+touch en “Agregar”. Se ingresará los Nombres y apellidos.
+b) Se dará un touch en ACEPTAR y se ingresará una persona más. Se le dará un check prolongado en la
+persona agregada para este caso la numero 3 y luego permitirá Editar.
+c) Continuará con la opción Editar y se pasará a diligenciar: Grado de parentesco, sexo y que edad tiene en
+años cumplidos y aceptar. Una vez agregado a la persona omitida se activará una columna que diga
+PERSONA/OMITIDA y automáticamente aparecerá la palabra OMISION.
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+33
+21. Luego continuará la reentrevista de la sección V, mencionando el siguiente speech:
+22. Continuara dando un touch prolongado a la persona seleccionada, y seleccionara la opción “IR A SECCIÓN
+V”.
+23. En la SECCION V, se realizará la Pregunta 8, 13, 17, 18, 19 y 29, y se seleccionará el “RESULTADO POR
+PERSONA”, luego le dará un touch al icono del disquete que permitirá guardar y finalizar la sección V.
+24. Se redirigirá a la ventana “ENTREVISTA Y SUPERVISIÓN”, en donde dará un touch en el botón “TERMINAR”,
+donde seleccionará el resultado de visita, finalizando la reentrevista.
+“Para continuar la verificación de la información ¿Se encontrará el/la Sr/Sra./Srta.___(Persona
+seleccionada), la persona que brindo la información al Censista o una persona mayor de edad
+responsable de la vivienda?
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+34
+25. Posteriormente ingresará al módulo de “REPORTES”, opción “REPORTE N°2” para verificar la existencia
+de error en el contenido (información diferente entre el Censista y el Jefe/a de Sección Censal o el/la
+Supervisor/a de Sector Censal), en caso se visualice la existencia de errores en el contenido se dirigirá al
+Censista supervisado para que mediante su aplicativo CENSOS2025 corrija los errores identificados por
+el/la Jefe de Sección Censal o el/la Supervisor/a de Sector Censal.
+26. Las preguntas del formulario de la reentrevista son:
+
+SECCIÓN I: LOCALIZACION CENSAL, TIPO, CONDICION DE OCUPACION Y NUMERO DE HOGARES
+DE LA VIVIENDA
+13. DIRECCION DE LA VIVIENDA
+14. LUGAR DE EMPADRONAMIENTO
+15. TIPO DE VIVIENDA PARTICULAR
+16. CONDICIÓN DE OCUPACION DE LA VIVIENDA
+18. NUMERO DE HOGARES EN LA VIVIENDA
+SECCIÓN II : CARACTERISTICAS Y SERVICIOS DE LA VIVIENDA
+4. ¿CUANTAS HABITACIONES EN TOTAL TIENE LA VIVIENDA, SIN CONTAR EL BAÑO,
+LA COCINA, LOS PASADIZOS NI EL GARAJE?
+SECCIÓN III : CARACTERISTICAS DEL HOGAR
+3. EN SU HOGAR, LA ENERGIA O COMBUSTIBLE QUE UTILIZAN PARA COCINAR LOS
+ALIMENTOS ES:
+SECCIÓN IV : PERSONAS QUE CONFORMAN EL HOGAR
+1. CUANTAS PERSONAS VIVIEN PERMANENTEMENTE EN ESTE HOGAR/ESTA
+VIVIENDA COLECTIVA, ESTEN O NO PRESENTES EN ESTE MOMENTO? NO OLVIDE
+CONSIDERAR A LOS RECIEN NACIDOS/AS, ANCIANOS/AS Y A LAS PERSONAS QUE
+RECIEN HAN LLEGADO A VIVIR PERMANENTEMENTE AQUI
+2. ¿CUALES SON LOS NOMBRES Y APELLIDOS DE CADA UNA DE LAS PERSONAS QUE
+VIVEN PERMANENTEMENTE EN ESTE HOGAR? PERMANENTEMENTE AQUÍ
+SECCIÓN V : CARACTERISTICAS DE LA POBLACIÓN
+8. SR./SRA. SI PERSONA CON DISCAPACIDAD ES AQUELLA QUE TI9ENE DIFICULTAD
+FISICA, SENSORIAL O MENTAL DE FORMA PERMANENTE QUE LE IMPIDE REALIZAR
+SUS ACTIVIDADES DIARIAS; ENTONCES POR CADA PREGUNTA RESPONDA CON
+UNA DE LAS OPCIONES QUE LE VOY A LEER.
+13. CUAL FUE EL ULTIMO NIVEL Y GRADO O AÑO DE ESTUDIOS QUE APROBÓ?
+17. LA SEMANA PASADA, ¿TRABAJO PARA OBTENER UN INGRESO O AYUDO EN EL
+NEGOCIO O EMPRESA DE SU HOGAR?
+18. (……) LA SEMANA PASADA:
+19. (……) EN LAS ULTIMAS 4 SEMANAS ESTUVO:
+29. ACTUALMENTE, ¿CUAL ES SU ESTADO CIVIL O CONYUGAL DE?:
+5.2 SUPERVISIÓN NO PRESENCIAL EN EL ÁREA RURAL
+El Jefe de Sección o el/la Supervisor/a de Sector Censal realizará la supervisión no presencial de las viviendas a los
+centros poblados para verificar la calidad de la información en un grupo compacto de viviendas seleccionadas.
+La carga de trabajo por Censista para la cobertura es de tres (03) viviendas anteriores y tres (03) posteriores al
+segmento compacto en el ATR; mientras para el contenido es una muestra de un grupo compacto de 3 viviendas
+censadas (3 hogares) del centro poblado que se encuentre el Jefe/a de Sección o el/la Supervisor/a de Sector Censal
+(según programación de ruta).
+La supervisión no presencial en el área urbana se realizará cuando
+el/la Censista tiene un avance de viviendas con resultado
+“COMPLETO” de su carga de trabajo.
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+35
+Para iniciar la supervisión no presencial del área rural en el aplicativo SUPERVISIÓNCPV2025, el/la Jefe/a de
+Sección o el/la Supervisor/a de Sector Censal sincronizará los datos trabajados por el/la Censista del servidor del
+INEI (avance de viviendas con algún tipo de resultado) realizando el siguiente procedimiento:
+ PROCEDIMIENTO:
+Para la supervisión no presencial en el área rural se hará uso del aplicativo SUPERVISIÓNCPV2025, donde
+seguirá los siguientes pasos:
+1. Ingresar al aplicativo SUPERVISIÓNCPV2025, se cargará automáticamente el marco de todos los censistas
+por sección (Ver pág. 13).
+2. Ingresar al Módulo Supervisión No Presencial.
+3. En la siguiente pantalla mostrará el Marco de Trabajo de la operación de campo para la supervisión no
+presencial, para ello, en la parte superior seleccionará el jefe de sección, el Censista, periodo y área de
+trabajo que se encuentre realizando la supervisión.
+4. Luego dará un touch al icono con forma de “NUBE”, el cual permitirá sincronizar los datos. Es decir
+descargara desde la nube la última información exportada por el censista seleccionado.
+5. Se dará un touch al botón SELECCIONAR MUESTRA, en donde aparecerá un recuadro para seleccionar el
+centro poblado en donde generará la muestra, luego de seleccionado y aceptado el CCPP, el APK realizará
+la selección aleatoria de un grupo compacto de viviendas a supervisar.
+6. Las viviendas seleccionadas tendrán que ser viviendas que tengan CODIGO DE RESULTADO COMPLETA……
+(1) por el Censista.
+Caso 01: En el día 1, el Jefe de Sección o el/la Supervisor/a de Sector Censal 001 acompaña al Censista
+0002 desde la sede principal hacia el centro poblado “Nuevo Amanecer” teniendo en su
+programación de ruta acompañarlo los días 1,2 y 3.
+Para ello el Jefe de sección o el/la Supervisor/a de Sector Censal el día 01, 02 y 03 realizará la
+supervisión Presencial siguiendo las instrucciones mencionadas (Ver pág. 17)
+
+JEFE DE
+SECCIÓN
+AREA DE
+PERIODO TRABAJO
+
+CENSISTA
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+36
+Caso 02: En el día 4, el Jefe de Sección o el/la Supervisor/a de Sector Censal 001 se dirige al Censista 0004
+desde el centro poblado “Nuevo Amanecer” hacia el centro poblado “San Roque” teniendo en su
+programación de ruta acompañarlo los días 4,5 y 6. Cabe señalar que el Censista 0004 se
+encontraba desde el día 3 en el Centro poblado “San Roque”.
+Para ello el Jefe de Sección, el día 04 realizará la supervisión No Presencial (grupo compacto de
+03 viviendas según la cantidad de viviendas “completas”) y el día 05 y 06 realizará la supervisión
+presencial siguiendo las instrucciones mencionadas (Ver la pág. 17)
+7. Las viviendas seleccionadas (grupo compacto) serán identificadas con un sombreado de color ROJO.
+COBERTURA
+8. Una vez seleccionado la muestra (grupo compacto) se pintará de color morado tres (03) viviendas anteriores
+y tres (03) viviendas posteriores al grupo compacto seleccionado, las cuales serán verificadas mediante
+OBSERVACIÓN DIRECTA Y SONDEO, así como también las viviendas omitidas y registros que se encuentren
+entre las viviendas. Es decir, se tocará TODAS las puertas entre el rango de viviendas a coberturar para
+verificar su uso.
+9. En todas las viviendas a supervisar (viviendas anteriores, posteriores y muestra) se dará un touch prolongado
+y se seleccionará un resultado de verificación, según lo encontrado en campo, estas son:
+• ES VIVIENDA (1): Se seleccionará cuando se verifique que las viviendas anteriores, posteriores y las
+viviendas seleccionadas (muestra) realmente son viviendas particulares o vivienda y establecimiento.
+• EDITAR TIPO DE REGISTRO (2): Se seleccionará cuando se verifique que los REGISTROS ubicados entre
+las viviendas anteriores, posteriores y las viviendas seleccionadas (muestra) son viviendas particulares o
+vivienda y establecimiento. Se ingresará al registro y se editará el tipo de registro.
+• De forma obligatoria, mencionar a los censistas desde el inicio de la operación de campo, que
+todas las viviendas deben tener algún tipo de resultado en cada visita.
+• Una vez que se seleccionó el grupo compacto de 3 viviendas para un Censista en el centro
+poblado (según programación de ruta), ya no saldrá ninguna muestra adicional, si se da un
+check en “SELECCIONAR LA MUESTRA” saldrá un mensaje “MUESTRA COMPLETA”.
+• Solo se generará una muestra (grupo compacto) por centro poblado según programación de
+ruta.
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+37
+• AGREGAR NUEVA VIVIENDA (3): Se seleccionará cuando se identifique viviendas omitidas por el
+Censista entre las viviendas anteriores, posteriores y las viviendas seleccionadas (muestra). Ante ello
+dará un touch prolongado en la vivienda anterior a la vivienda omitida y seleccionará la opción “AGREGAR
+NUEVA VIVIENDA”, validará la información de la nueva vivienda por observación directa y dará un touch
+en “Aceptar”.
+• ERROR DE INCLUSION (4): Se seleccionará cuando se verifique si entre las viviendas anteriores,
+posteriores y las viviendas seleccionadas (muestra), existe una vivienda que no pertenece a su carga de
+trabajo del Censista. Ejemplo:
+El/la Jefe de Sección Censal o el/la Supervisor/a de Sector Censal durante la supervisión No presencial
+de la cobertura, indaga con el informante que tres viviendas nuevas (002-001, 002-002 y 002-003)
+agregadas por el Censista 0001 son 3 hogares de una vivienda. Ante ello las viviendas nuevas se
+seleccionará como ERROR DE INCLUSION (4).
+• NO EXISTE (5): Se seleccionará cuando se verifique si entre las viviendas anteriores, posteriores y las
+viviendas seleccionadas(muestra), existe una vivienda que no cumple las características de vivienda o no
+existen.
+
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+38
+• OTRO TIPO DE REGISTRO (6): Es cuando se identifica una o más viviendas que el censista la califico
+como vivienda las cuales en campo se verifica que son otro tipo de registro.
+10. Luego de la verificación de las viviendas se dirigirá a la columna “VERIFICAR” donde se visualizará el
+resultado de la cobertura de las viviendas anteriores y posteriores, con ello el marco de viviendas quedará de
+la siguiente forma:
+CONTENIDO
+11.A continuación, se procederá a dirigirse a la primera vivienda seleccionada dentro del grupo compacto
+(muestra), iniciará la supervisión mediante un touch prologando, seleccionando la opción “IR A
+CUESTIONARIO” (ejecución de la reentrevista):
+12.Diligenciará las respuestas por cada pregunta de la SECCIÓN I (Dirección de la vivienda, georeferenciación y
+condición de ocupación de la vivienda).
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+39
+13. En la pregunta 18. NUMERO DE HOGARES EN LA VIVIENDA, el APK seleccionará aleatoriamente un hogar
+con estado completo, para este caso de color ROJO. En el caso solo exista una vivienda con un hogar y su
+estado sea “Completo” será el único seleccionado.
+14. Se realizará la reentrevista al HOGAR SELECCIONADO (hogar identificado con sombreado rojo) con
+resultado completo, para ello se tocará la puerta de la vivienda y con los datos del “JEFE/A DE HOGAR” se
+mencionará el siguiente speech:
+15. Luego se realizará la pregunta 18. NUMERO DE HOGARES EN LA VIVIENDA, con el objetivo de validar si la
+información que coloco el censista esta correcto o existe algún hogar omitido, en caso que la cantidad de
+hogares se encuentre correcto continuara la reentrevista.
+SI EL JEFE DE SECCION CENSAL AGREGA UN HOGAR QUE FUE OMITIDO
+
+a) Si el Censista encontró dos hogares y el Jefe de Sección verifica que hay un hogar más, entonces agregará un
+hogar más con la opción “Agregar”.
+b) Una vez agregado el hogar se activará una columna que diga HOGAR/OMITIDO y automáticamente aparecerá
+la palabra OMISION.
+c) Cuando se dé un check prolongado a la vivienda agregada(omitida) SOLO tendrá la opción de “Eliminar
+hogar” si el Jefe de Sección agregó por error (para este caso será el N° 3).
+“Buenos días/tardes/noches, mi nombre es _____ (mostrar credencial). Soy supervisor/a del INEI
+y estoy verificando la información que se brindó a él/la Censista. ¿Se encontrará el/la
+Sr/Sra./Srta.____________, la persona que brindo la información al Censista o una persona mayor
+de edad responsable de la vivienda?
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+40
+IR A VISITA DEL HOGAR
+16. Se dirigira al hogar seleccionado y mediante un check prolongado y seleccionaremos la opción Ir a Visitas,
+en donde aparecerá la ventana “ENTREVISTA Y SUPERVISION”, para registrar el inicio de la visita, en la cual
+registrará el punto GPS, se dará un touch en el botón “ACEPTAR”, llenará los datos de los funcionarios
+censales, colocará un check en guardar y pasará a la sección II.
+En caso el/la Jefe/a de Sección Censal o el/la Supervisor/a de Sector Censal no encuentre a ningún
+integrante del hogar, deberá de colocar su resultado correspondiente y volverá a la vivienda las veces que
+sea necesaria hasta ubicar a algún integrante mayor de edad.
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+41
+17. En la Sección II se realizará la Pregunta 4 y se diligenciará la respuesta del informante, luego le dará un
+touch al icono del disquete que permitirá guardar y pasará a la sección III.
+18. En la Sección III se realizará la Pregunta 3 y se diligenciará la respuesta del informante, luego le dará un
+touch al icono del disquete que permitirá guardar y pasará a la sección IV.
+19. En la SECCION IV, se realizará la Pregunta 1 y se diligenciará la respuesta del informante.
+20. Continuando en la SECCION IV, en la Pregunta 2, nos mostrará los nombres de las personas que censó
+el Censista, en donde de forma automática se encontrará SELECCIONADA UNA PERSONA
+ALEATORIAMENTE.
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+42
+SI EL JEFE DE SECCION CENSAL AGREGA UNA PERSONA QUE FUE OMITIDA
+a) Si el Censista encontró tres personas y el Jefe de Sección o el/la Supervisor/a de Sector Censal verifica que
+hay una persona más, entonces agregará una persona más, dando touch en “Agregar”. Se ingresará los
+Nombres y apellidos.
+b) Se dará un touch en ACEPTAR y se ingresará una persona más. Se le dará un check prolongado en la
+persona agregada para este caso la numero 3 y luego permitirá Editar.
+c) Continuará con la opción Editar y se pasará a diligenciar: Grado de parentesco, sexo y que edad tiene en
+años cumplidos y aceptar. Una vez agregado a la persona omitida se activará una columna que diga
+PERSONA/OMITIDA y automáticamente aparecerá la palabra OMISION.
+Capítulo Supervisión No Presencial Capítulo 05
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+43
+21.Luego continuará la reentrevista de la sección V, mencionando el siguiente spech:
+22.Continuara dando un touch prolongado a la persona seleccionada, y seleccionara la opción “IR A SECCIÓN
+V”.
+23.En la SECCION V, se realizará la Pregunta 8, 13, 17, 18, 19 y 29, y se seleccionará el “RESULTADO POR
+PERSONA”, luego le dará un touch al icono del disquete que permitirá guardar y finalizar la sección V.
+24.Se redirigirá a la ventana “ENTREVISTA Y SUPERVISIÓN”, en donde dará un touch en el botón “TERMINAR”,
+donde seleccionará el resultado de visita, finalizando la reentrevista.
+25.Posteriormente ingresará al módulo de “REPORTES”, opción “REPORTE N°2” para verificar la existencia
+de error en el contenido (información diferente entre el Censista y el Jefe/a de Sección Censal o el/la
+Supervisor/a de Sector Censal), en caso se visualice la existencia de errores en el contenido se dirigirá al
+Censista supervisado para que mediante su aplicativo CENSOS2025 corrija los errores identificados por
+el/la Jefe de Sección Censal o el/la Supervisor/a de Sector Censal.
+“Para continuar la verificación de la información ¿Se encontrará el/la Sr/Sra./Srta.___(Persona
+seleccionada), la persona que brindo la información al Censista o una persona mayor de edad
+responsable del hogar que vive permanentemente?
+Capítulo 05 Supervisión No Presencial
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+44
+26. Las preguntas del formulario de la reentrevista son:
+
+SECCIÓN I: LOCALIZACION CENSAL, TIPO, CONDICION DE OCUPACION Y NUMERO DE HOGARES DE
+LA VIVIENDA
+13. DIRECCION DE LA VIVIENDA
+14. LUGAR DE EMPADRONAMIENTO
+15. TIPO DE VIVIENDA PARTICULAR
+16. CONDICIÓN DE OCUPACION DE LA VIVIENDA
+18. NUMERO DE HOGARES EN LA VIVIENDA
+SECCIÓN II: CARACTERISTICAS Y SERVICIOS DE LA VIVIENDA
+4. ¿CUANTAS HABITACIONES EN TOTAL TIENE LA VIVIENDA, SIN CONTAR EL BAÑO, LA
+COCINA, LOS PASADIZOS NI EL GARAJE?
+SECCIÓN III: CARACTERISTICAS DEL HOGAR
+3. EN SU HOGAR, LA ENERGIA O COMBUSTIBLE QUE UTILIZAN PARA COCINAR LOS
+ALIMENTOS ES:
+
+SECCIÓN IV: PERSONAS QUE CONFORMAN EL HOGAR
+1. CUANTAS PERSONAS VIVIEN PERMANENTEMENTE EN ESTE HOGAR/ESTA VIVIENDA
+COLECTIVA, ESTEN O NO PRESENTES EN ESTE MOMENTO? NO OLVIDE CONSIDERAR
+A LOS RECIEN NACIDOS/AS, ANCIANOS/AS Y A LAS PERSONAS QUE RECIEN HAN
+LLEGADO A VIVIR PERMANENTEMENTE AQUI
+2. ¿CUALES SON LOS NOMBRES Y APELLIDOS DE CADA UNA DE LAS PERSONAS QUE
+VIVEN PERMANENTEMENTE EN ESTE HOGAR? PERMANENTEMENTE AQUÍ
+SECCIÓN V: CARACTERISTICAS DE LA POBLACIÓN
+08. SR./SRA. SI PERSONA CON DISCAPACIDAD ES AQUELLA QUE TI9ENE DIFICULTAD
+FISICA, SENSORIAL O MENTAL DE FORMA PERMANENTE QUE LE IMPIDE REALIZAR
+SUS ACTIVIDADES DIARIAS; ENTONCES POR CADA PREGUNTA RESPONDA CON
+UNA DE LAS OPCIONES QUE LE VOY A LEER
+13. CUAL FUE EL ULTIMO NIVEL Y GRADO O AÑO DE ESTUDIOS QUE APROBÓ?
+17. LA SEMANA PASADA, ¿TRABAJO PARA OBTENER UN INGRESO O AYUDO EN EL
+NEGOCIO O EMPRESA DE SU HOGAR?
+18. (……) LA SEMANA PASADA:
+19. (……) EN LAS ULTIMAS 4 SEMANAS ESTUVO:
+29. ACTUALMENTE, ¿CUAL ES SU ESTADO CIVIL O CONYUGAL DE?:
+La supervisión no presencial en el área rural se realizará cuando el/la
+Censista tiene un avance de viviendas con resultado “COMPLETO” de su
+carga de trabajo.
+Capítulo Módulo Reportes Capítulo 06
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+45
+06 MODULO REPORTES
+En este módulo se visualizará la cobertura y calidad de información detectados durante la supervisión presencial y no
+presencial en el área urbana y rural.
+1. Ingresar al Módulo REPORTES
+2. Este módulo contiene los siguiente 3 reportes:
+Reporte 1: “Resumen de Cobertura y Calidad –
+Supervisión Presencial – Empadronamiento
+Urbano y Rural”
+Reporte 2: “Resumen de Cobertura y Calidad –
+Supervisión No Presencial
+6.1. RESUMEN DE COBERTURA Y CALIDAD – SUPERVISIÓN PRESENCIAL
+1. En la pantalla se ubicará al Censista que se haya realizado la supervisión presencial, el periodo y área de trabajo.
+2. Ubicado al Censista nos mostrara todas las preguntas erradas detectadas en campo en la supervisión presencial
+así mismo en la columna:
+1) COD: Muestra el listado de las preguntas del formulario de registro.
+2) Preguntas: Muestra las Preguntas diligenciadas en la supervisión.
+3) Errores: Muestra el número total de errores detectados por pregunta.
+4) Total: Suma la cantidad de errores por Censista.
+5) ABS: Muestra la cantidad de errores de las viviendas y omisión de vivienda.
+Capítulo 06 Módulo Reportes
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+46
+6) %: Muestra la tasa de error y omisión.
+6.2. RESUMEN DE COBERTURA Y CALIDAD – SUPERVISIÓN NO PRESENCIAL
+1. En la pantalla se ubicará al Censista que se haya realizado la supervisión no presencial, el periodo y área de
+trabajo.
+Capítulo Módulo Reportes Capítulo 06
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+47
+2. Ubicado al Censista nos mostrara las viviendas seleccionadas como muestra, un recuadro de cobertura y
+calidad de información y así mismo en la columna:
+1) N° Orden: El Orden de la vivienda
+2) Cod CCPP: Muestra la codificación del centro poblado según la vivienda supervisada.
+3) Nombre CCPP: Muestra el nombre del centro poblado según la vivienda supervisada.
+4) N° Vivienda: Muestra el número de la vivienda en orden.
+5) N° Hogar: Muestra el número del hogar supervisado
+6) N° Persona: Muestra el número de la persona reentrevistada
+Resultado de la supervisión no presencial de la Vivienda (Comparación) que son: Correcto e Incorrecto
+7) ABS: Muestra la cantidad de errores de las viviendas y omisión de vivienda.
+8) %: Muestra la tasa de errores y omisión de vivienda
+Capítulo 07 Reportes de Correcciones
+48
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+07 REPORTES DE CORRECCIONES
+En este módulo se visualizará los reportes de la comparación y en la última columna se podrá diligenciar las correcciones
+de los errores encontrados en la supervisión no presencial según área urbana y rural.
+1. Ingresar al Módulo CORRECCIONES
+COBERTURA Y CALIDAD – SUPERVISIÓN NO PRESENCIAL
+
+2. En la pantalla se ubicará al Censista que se haya realizado la supervisión no presencial, el periodo y área de trabajo.
+3. Seleccionado al Censista nos mostrará en la pantalla las viviendas del grupo compacto seleccionado y las viviendas
+omitidas que el/la Jefe/a de Sección o el/la Supervisor/a de Sector Censal ha detectado en la supervisión.
+4. Para cada grupo compacto seleccionado nos mostrará las siguientes variables:
+a. N° Orden: El Orden de la vivienda
+b. Cod CCPP: Muestra la codificación del centro poblado según la vivienda supervisada.
+c. Nombre CCPP: Muestra el nombre del centro poblado según la vivienda supervisada.
+d. N° Vivienda: Muestra el número de la vivienda en orden.
+e. Dirección: Muestra el diligenciamiento de la dirección del Censista y del Jefe de Sección.
+f. Variables de la vivienda: muestra la información de cada variable del empadronamiento del/la Censista y del Jefe
+de Sección.
+g. Resultado Control de Calidad: muestra los resultados de la comparación de cada variable (Correcto, Incorrecto).
+h. Corrección: en esta columna el Jefe de Sección o el/la Supervisor/a de Sector Censal ingresará si el resultado de
+la supervisión no presencial se corrigió, no se corrigió, sin error y error del informante.
+✓ El Jefe de Sección o el/la Supervisor/a de Sector Censal seleccionará CORRIGIÓ si el/la Censista corrigió el
+error en campo y actualizó su información en el aplicativo CENSO2025 de su Tablet.
+✓ El Jefe de Sección o el/la Supervisor/a de Sector Censal seleccionará NO SE CORRIGIÓ si el/la Censista no
+corrigió el error en campo ni en la información de su en el aplicativo CENSO2025.
+✓ El Jefe de Sección o el/la Supervisor/a de Sector Censal seleccionará SIN ERROR si el/la Censista no encontró
+error en campo.
+Reportes de Correcciones Capítulo 07
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
+49
+Ejemplo
+Caso 1: En la vivienda cuando se realizó el censo, al Censista le brindó la información la persona 1 refiriendo
+que viven permanentemente 3 personas, al momento de realizar la verificación por el Jefe de Sección
+Censal, la persona 1 le manifiesta que en su vivienda solo viven 2 personas, ya que la otra persona que
+menciono solo estaba de visita y tenía su residencia habitual en otro lado, lo cual se manifestó al
+Censista y NO lo corrigió; para este caso el resultado de la supervisión será INCORRECTO y se pondrá
+en CORRECCIÓN No se corrigió.
+Caso 2: En la vivienda cuando se realizó el censo, al Censista le brindó la información la persona 1 refiriendo
+que viven permanentemente 3 personas, al momento de realizar la verificación por el Jefe de Sección
+Censal, la persona 1 le manifiesta que en su vivienda solo viven 2 personas, ya que la otra persona que
+menciono solo estaba de visita y tenía su residencia habitual en otro lado, lo cual se manifestó al
+Censista y SI lo corrigió; para este caso el resultado de la supervisión será INCORRECTO y se pondrá
+en CORRECCIÓN Corrigió.
+Caso 3: En la vivienda seleccionada al momento de realizar la verificación por el Jefe de Sección Censal, no se
+identificaron errores (diferencia de información), para este caso el resultado de la supervisión será
+CORRECTO y se pondrá en CORRECCIÓN SIN ERROR.
+
+5. Visualizará un cuadro resumen en la zona inferior del reporte, donde se mostrará la cantidad y porcentaje de los tipos
+de correcciones realizados.
+Capítulo 07 Reportes de Correcciones
+24
+Censos Nacionales 2025: XIII de Población, VIII de Vivienda y IV de Comunidades Indígenas
